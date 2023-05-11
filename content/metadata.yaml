@@ -1,30 +1,126 @@
 ---
-title: "Manuscript Title"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
+title: "MicroCT-based imaging of microvasculature within the bone tissue"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - microCT
+  - contrastagent
+  - microvasculature
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
+  - name: David Haberthür
+    initials: DH
+    orcid: 0000-0003-3388-9187
+    github: habi
+    mastodon: habi
     mastodon-server: mastodon.social
-    email: john.doe@something.com
+    email: david.haberthuer@unibe.ch
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    equal: true
+    contributions:
+      - Writing – original draft
+      - Writing – review & editing
+  - name: Oleksiy-Zakhar Khoma
+    initials: OK
+    orcid: 0000-0002-1914-6873
+    github: ol-khoma
+    email: oleksiy.khoma@unibe.ch
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    equal: true
+    contributions:
+      - Writing – original draft
+      - Writing – review & editing
+  - name: Tim Hoessly
+    initials: TH
+    orcid: 
+    email: tim.hoessly@unibe.ch
+    affiliations:
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    contributions:
+      - Writing – review & editing
+  - name: Eugenio Zoni
+    initials: EZ
+    orcid: 
+    email: eugenio.zoni@dbmr.unibe.ch
+    affiliations:
+      - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
+      - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
+    contributions:
+      - Writing – review & editing
+  - name: Marianna Kruithof-de Julio
+    initials: MK
+    orcid: 0000-0002-6085-7706
+    email: marianna.kruithofdejulio@unibe.ch
+    affiliations:
+      - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
+      - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
+      - Department for BioMedical Research, Translation Organoid Research, University of Bern, Bern, Switzerland    
+    contributions:
+      - Writing – review & editing
+  - name: Stewart D. Ryan
+    initials: SR
+    orcid: 0000-0001-7016-771X
+    email: stewart.ryan@unimelb.edu.au
+    affiliations:
+      - U-Vet Hospital, University of Melbourne Veterinary School, Werribee, Australia
+    contributions:
+      - Writing – review & editing
+  - name: Myriam Grunewald
+    initials: MG
+    orcid: 0000-0001-5394-9218
+    email: myriamg@ekmd.huji.ac.il
+    affiliations:
+     - epartment of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
+    contributions:
+      - Writing – review & editing
+  - name: Benjamin Bellon
+    initials: BB
+    orcid: 0000-0003-2297-9160
+    email: benjamin.bellon@straumann.com
+    affiliations:
+      - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
+    contributions:
+      - Writing – review & editing
+  - name: Rebecca Sandgren
+    initials: RS
+    orcid: 0000-0003-4473-4666
+    email: rebecca.sandgren@med.lu.se
+    affiliations:
+      - Centre for Comparative Medicine, Medical Faculty, Lund University, Lund, Sweden
+    contributions:
+      - Writing – review & editing
+  - name: Benjamin E. Pippenger
+    initials: BP
+    orcid: 0000-0001-7990-5555
+    email: benjamin.pippenger@straumann.com
+    affiliations:
+      - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
+      - Department of Periodontology, University of Bern, Bern, Switzerland
+    contributions:
+      - Writing – review & editing
+  - name: Dieter Bosshardt
+    initials: DB
+    orcid: 0000-0002-2132-6363
+    email: dieter.bosshardt@unibe.ch
+    affiliations:
+      - Department of Periodontology, University of Bern, Bern, Switzerland
+    contributions:
+      - Writing – review & editing
+  - name: Valentin Djonov
+    initials: BD
+    orcid: 0000-0002-5062-1169
+    email: valentin.djonov@unibe.ch
+    affiliations:
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    contributions:
+      - Writing – review & editing            
+  - name: Ruslan Hlushchuk
+    initials: RH
+    orcid: 0000-0002-6722-8996
+    email: ruslan.hlushchuk@unibe.ch
+    affiliations:
+      - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
+    contributions:
+      - Writing – original draft
+      - Writing – review & editing
     corresponding: true
