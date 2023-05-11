@@ -1,5 +1,5 @@
 Angiofil
-Angiogenesis
+angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -23,7 +23,7 @@ CTvox
 Dalmose
 dataset
 datasets
-Decalcification
+decalcification
 decalcified
 decalcify
 decalcifying
@@ -75,7 +75,7 @@ Malmö
 mandibula
 Marianna
 medullar
-MicroangioCT
+microangioCT
 microarchitecture
 microCT
 Microfil
@@ -108,7 +108,7 @@ PFA
 Pharma
 Pippenger
 PLV
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
