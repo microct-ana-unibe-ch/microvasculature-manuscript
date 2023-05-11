@@ -1,5 +1,5 @@
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -64,7 +64,7 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-intravascular
+Intravascular
 khoma
 Kontich
 Kruithof
@@ -109,7 +109,7 @@ PFA
 Pharma
 Pippenger
 PLV
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
