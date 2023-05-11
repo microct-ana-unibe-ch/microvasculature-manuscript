@@ -180,8 +180,6 @@ content/03.materials.methods.results.md:95:Göttingen
 content/03.materials.methods.results.md:95:Minipig
 content/03.materials.methods.results.md:95:orofacial
 content/03.materials.methods.results.md:95:preclinical
-content/03.materials.methods.results.md:95:refId
-content/03.materials.methods.results.md:95:ubx
 content/03.materials.methods.results.md:96:Göttingen
 content/03.materials.methods.results.md:96:minipigs
 content/03.materials.methods.results.md:98:Dalmose

@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-11" />
   <meta name="citation_publication_date" content="2023-05-11" />
   <meta property="article:published_time" content="2023-05-11" />
-  <meta name="dc.modified" content="2023-05-11T17:42:43+00:00" />
-  <meta property="article:modified_time" content="2023-05-11T17:42:43+00:00" />
+  <meta name="dc.modified" content="2023-05-11T18:03:08+00:00" />
+  <meta property="article:modified_time" content="2023-05-11T18:03:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/012d9c9f21cfcc1d890a666140130c0f0bac3b96/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/012d9c9f21cfcc1d890a666140130c0f0bac3b96/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/012d9c9f21cfcc1d890a666140130c0f0bac3b96/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,14 +112,14 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...012d9c9f21cfcc1d890a666140130c0f0bac3b96) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/012d9c9f21cfcc1d890a666140130c0f0bac3b96/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@ae3a5db](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ae3a5dbfdbc76efa9901eb3aeac3b213455acd1c)
+from [microct-ana-unibe-ch/microvasculature-manuscript@012d9c9](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/012d9c9f21cfcc1d890a666140130c0f0bac3b96)
 on May 11, 2023.
 </em></small>
 
@@ -248,14 +248,14 @@ on May 11, 2023.
 
 
 ::: {#equal_contribution}
-☯ — David Haberthür \<david.haberthuer@unibe.ch\>and 
-Oleksiy-Zakhar Khoma \<oleksiy.khoma@unibe.ch\> contributed equally to this work.
+☯ — David Haberthür  and 
+Oleksiy-Zakhar Khoma  contributed equally to this work.
 
 
 :::
 
 ::: {#correspondence}
-✉ — Corresponding author: Ruslan Hlushchuk \<ruslan.hlushchuk@unibe.ch\>.
+✉ — Corresponding author: Ruslan Hlushchuk (ruslan.hlushchuk@unibe.ch, +41 31 684 46 80.
 
 
 :::
@@ -411,7 +411,7 @@ The microvasculature of murine mandible, periodontal ligament, and the teeth (ev
 
 ### MicroangioCT of mandible in a large animal model (Göttingen Minipig)
 
-Due to their similarity to humans in terms of anatomy, bone structure and bone remodeling, the Göttingen Minipig has become a well-accepted large animal model in preclinical dental and orofacial research [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @https://www.taylorfrancis.com/chapters/mono/10.1201/b11356-37/oral-biology-dental-models-peter-mcanulty-anthony-dayan-niels-christian-ganderup-kenneth-hastings?context=ubx&refId=312e20c9-b59f-46ee-8eed-104946f6a0d4].
+Due to their similarity to humans in terms of anatomy, bone structure and bone remodeling, the Göttingen Minipig has become a well-accepted large animal model in preclinical dental and orofacial research [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
 The stricter legal requirements regarding primates and the societal resistance against the use of companion animals, such as dogs and cats, have further enhanced the usage of Göttingen minipigs as animal models [@doi:10.22203/eCM.v013a01].
 
 Göttingen minipigs (Ellegaard Göttingen Minipig, Dalmose, Denmark) held under license 5.8.18-15672/2019 approved by the Malmö/Lund regional ethical committee, Sweden, were intramuscularly anesthetized (25-35 mg/kg, Dexdomitor; Orion Pharma Animal Health and 50-70 mg/kg, Zoletil 100 Vet, Virbac) and heparinized with 300 IE/kg intravenously (Heparin LEO, LEO Pharma).
@@ -439,7 +439,7 @@ Based on the findings in those single histological sections, researchers try to 
 Even for the microCT approach, it is a challenging task due to the presence of metal parts and, therefore, multiple objects with high density within the samples.
 The decalcification step could reduce the density of the sample but would inevitably lead to the loss of information on the bone microstructure making the simultaneous assessment of the bone and vessels impossible [@doi:10.1038/s41598-017-13632-5].
 Another obstacle is to have a contrast agent that can be distinctly separated from both the metal implants and the mineralized tissue.
-With µAngiofil it is easily possible to visualize and distinguish between soft tissue, bone tissue, contrast agent-filled vessels as well as metal implants according to their gray values in the histogram (Fig. @fig:6).
+With µAngiofil it is easily possible to visualize and distinguish between soft tissue, bone tissue, contrast agent-filled vessels as well as metal implants according to their gray values in the histogram (Fig. @fig:6, Panel C).
 Such imaging does not require bone decalcification and enables a rather straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D).
 
 ![**MicroangioCT of the peri-implant vasculature of a minipig mandibula.**
@@ -496,7 +496,7 @@ To the best of our knowledge, this is the first study demonstrating non-destruct
 The most significant limitation of the suggested approach is the general limitation of microCT imaging, namely, the correlation between the resolution and the sample size.
 If the sample is small, i.e. only a few millimeters in diameter, the voxel size may be as small as 1 µm or less enabling visualization of the microvasculature down to the capillary bed [@doi:10.1016/j.vph.2018.09.003; @doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017; @doi:10.1038/srep41842].
 In case of large samples, like minipig hemimandible, the achievable voxel size is around 10 times larger (≥8 µm), and it is therefore, not possible to reach that level of resolution.
-In such samples the finest microvessels with diameter under 40 µm cannot be accurately visualized (see Fig. @fig:5 % @fig:6).
+In such samples the finest microvessels with diameter under 40 µm cannot be accurately visualized (see Fig. @fig:5 & @fig:6).
 
 Nonetheless, the presented approach is, according to our knowledge, the best what can be achieved with the modern microCT scanners and is a big step forward for qualitative and quantitative imaging in tissue engineering and implantology research as well as many other related research fields.
 
@@ -507,19 +507,19 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 |Author|Contributions|
 |---|---|
-|David Haberthür|Writing – original draft, Writing – review & editing|
-|Oleksiy-Zakhar Khoma|Writing – original draft, Writing – review & editing|
-|Tim Hoessly|Writing – review & editing|
-|Eugenio Zoni|Writing – review & editing|
-|Marianna Kruithof-de Julio|Writing – review & editing|
-|Stewart D. Ryan|Writing – review & editing|
-|Myriam Grunewald|Writing – review & editing|
-|Benjamin Bellon|Writing – review & editing|
-|Rebecca Sandgren|Writing – review & editing|
-|Benjamin E. Pippenger|Writing – review & editing|
-|Dieter Bosshardt|Writing – review & editing|
-|Valentin Djonov|Writing – review & editing|
-|Ruslan Hlushchuk|Writing – original draft, Writing – review & editing|
+|DH|Writing – original draft, Writing – review & editing|
+|OK|Writing – original draft, Writing – review & editing|
+|TH|Writing – review & editing|
+|EZ|Writing – review & editing|
+|MK|Writing – review & editing|
+|SR|Writing – review & editing|
+|MG|Writing – review & editing|
+|BB|Writing – review & editing|
+|RS|Writing – review & editing|
+|BP|Writing – review & editing|
+|DB|Writing – review & editing|
+|VD|Writing – review & editing|
+|RH|Writing – original draft, Writing – review & editing|
 
 
 ## Acknowledgments

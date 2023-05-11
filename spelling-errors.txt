@@ -1,5 +1,5 @@
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -23,7 +23,7 @@ CTvox
 Dalmose
 dataset
 datasets
-decalcification
+Decalcification
 decalcified
 decalcify
 decalcifying
@@ -35,8 +35,6 @@ distinguishably
 Djonov
 dTomato
 EDTA
-ee
-eed
 Ellegaard
 epartment
 epiphyseal
@@ -44,6 +42,7 @@ epiphysis
 Ethylenediaminetetraacetic
 Euthanimal
 externa
+EZ
 Faxitron
 Fumedica
 gingiva
@@ -65,7 +64,7 @@ intramuscularly
 intraosseous
 intratumoral
 Intravascular
-Khoma
+khoma
 Kontich
 Kruithof
 kV
@@ -86,7 +85,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
@@ -114,7 +113,6 @@ preprint
 pulpal
 rayed
 Rebecca
-refId
 Ruslan
 Sagittal
 Sandgren
@@ -123,7 +121,6 @@ SKYSCAN
 Straumann
 subvolume
 Translational
-ubx
 vascularization
 vasculature
 VEGF
