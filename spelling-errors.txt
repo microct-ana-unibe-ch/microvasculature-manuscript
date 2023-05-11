@@ -1,5 +1,5 @@
 Angiofil
-Angiogenesis
+angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -65,7 +65,7 @@ intramuscularly
 intraosseous
 intratumoral
 Intravascular
-khoma
+Khoma
 Kontich
 Kruithof
 kV
@@ -86,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-Minipig
+minipig
 minipigs
 MIP
 Myriam
@@ -109,7 +109,7 @@ PFA
 Pharma
 Pippenger
 PLV
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
