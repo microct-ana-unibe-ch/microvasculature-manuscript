@@ -41,6 +41,7 @@ Ellegaard
 epartment
 epiphyseal
 epiphysis
+Ethylenediaminetetraacetic
 Euthanimal
 externa
 Faxitron
@@ -63,8 +64,8 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-Intravascular
-khoma
+intravascular
+Khoma
 Kontich
 Kruithof
 kV
@@ -75,7 +76,7 @@ Malmö
 mandibula
 Marianna
 medullar
-MicroangioCT
+microangioCT
 microarchitecture
 microCT
 Microfil
