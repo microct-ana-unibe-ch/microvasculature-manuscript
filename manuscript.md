@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-11" />
   <meta name="citation_publication_date" content="2023-05-11" />
   <meta property="article:published_time" content="2023-05-11" />
-  <meta name="dc.modified" content="2023-05-11T15:13:50+00:00" />
-  <meta property="article:modified_time" content="2023-05-11T15:13:50+00:00" />
+  <meta name="dc.modified" content="2023-05-11T15:42:18+00:00" />
+  <meta property="article:modified_time" content="2023-05-11T15:42:18+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/257ea2b9b0262dc5bde38b75aff08f172b81a319/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/257ea2b9b0262dc5bde38b75aff08f172b81a319/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/257ea2b9b0262dc5bde38b75aff08f172b81a319/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/175883529534773e5c808eba41c308c79a1ec1df/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/175883529534773e5c808eba41c308c79a1ec1df/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/175883529534773e5c808eba41c308c79a1ec1df/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,15 +112,15 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...257ea2b9b0262dc5bde38b75aff08f172b81a319) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...175883529534773e5c808eba41c308c79a1ec1df) since submission._
 ##}
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/257ea2b9b0262dc5bde38b75aff08f172b81a319/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/175883529534773e5c808eba41c308c79a1ec1df/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@257ea2b](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/257ea2b9b0262dc5bde38b75aff08f172b81a319)
+from [microct-ana-unibe-ch/microvasculature-manuscript@1758835](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/175883529534773e5c808eba41c308c79a1ec1df)
 on May 11, 2023.
 </em></small>
 
@@ -334,7 +334,7 @@ The exposed aorta was then cannulated in either antegrade (for the perfusion of 
 Afterwards, the blood was flushed out with warm PBS solution until the body part of interest turned completely pale.
 Three to four cuts of the liver edge allowed effusion of the blood and buffer solution.
 Thereafter, the corresponding (upper or lower) part of the body was perfused with µAngiofil at 1-1.5 ml/min using a syringe pump.
-The perfusion lasted until the organ of interest turned completely blue [@doi_10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
+The perfusion lasted until the organ of interest turned completely blue [@doi:10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
 In bones, it is not possible to visually monitor the described color change.
 Correct perfusion of the neighboring soft tissues serves as an indirect marker of the perfusion within the bone.
 Therefore, to achieve a good perfusion of the vessels within the bone, the perfusion time was significantly prolonged (at least 2 ml extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue).
@@ -417,7 +417,8 @@ The stricter legal requirements regarding primates and the societal resistance a
 
 Göttingen minipigs (Ellegaard Göttingen Minipig, Dalmose, Denmark) held under license 5.8.18-15672/2019 approved by the Malmö/Lund regional ethical committee, Sweden, were intramuscularly anesthetized (25-35 mg/kg, Dexdomitor; Orion Pharma Animal Health and 50-70 mg/kg, Zoletil 100 Vet, Virbac) and heparinized with 300 IE/kg intravenously (Heparin LEO, LEO Pharma).
 After heparin infusion, the pigs were euthanized with an intravenous dose (100 mg/kg) of pentobarbital (Euthanimal vet, VM Pharma).
-*A. carotis externa* was accessed by blunt dissection through tissue of the ventral neck and cannulated (BD Venflon, 17G).
+*A.
+carotis externa* was accessed by blunt dissection through tissue of the ventral neck and cannulated (BD Venflon, 17G).
 After washing out the blood with PBS, the corresponding head side was selectively perfused with µAngiofil through the arterial tree.
 The success of the perfusion has been visually controlled equivalent to the previously described perfusion in mice.
 After polymerization of µAngiofil (\~30 min), the mandible was excised and fixated in 4% PFA solution.
@@ -452,7 +453,7 @@ Such imaging does not require bone decalcification and enables a rather straight
 
 ## Discussion {.page_break_before}
 
-There is an understanding in the bone biology, tissue engineering and related research fields, that adequate vascularization is a prerequisite for successful bone formation and regeneration as well as osseointegration of biomaterials [@doi:10.1021/acsabm.1c00979; @10.1089/ten.teb.2020.0132; @doi10.1242/dev.136861; @doi:10.1002/jbm.a.32411; @doi:10.1042/CS20180155].
+There is an understanding in the bone biology, tissue engineering and related research fields, that adequate vascularization is a prerequisite for successful bone formation and regeneration as well as osseointegration of biomaterials [@doi:10.1021/acsabm.1c00979; @doi:10.1089/ten.teb.2020.0132; @doi:10.1242/dev.136861; @doi:10.1002/jbm.a.32411; @doi:10.1042/CS20180155].
 To influence or even control these processes, the interplay between vascular and bone tissue should be studied at the most detailed imaging level available.
 
 During the last decades, microCT gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122], and is considered the only available approach for 3D imaging of an intact bone-implant interface [@doi:10.1111/cpr.12578].

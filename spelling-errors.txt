@@ -86,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
