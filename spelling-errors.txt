@@ -1,5 +1,5 @@
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -8,6 +8,7 @@ avn
 Baltzerstrasse
 BD
 Bellon
+Bhargava
 biomaterials
 Bioptics
 bioR
@@ -18,13 +19,12 @@ cannula
 cannulated
 carotis
 confocal
-constrast
 craniofacial
 CTvox
 Dalmose
 dataset
 datasets
-Decalcification
+decalcification
 decalcified
 decalcify
 decalcifying
@@ -64,7 +64,7 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-intravascular
+Intravascular
 Khoma
 Kontich
 Kruithof
@@ -86,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-Minipig
+minipig
 minipigs
 MIP
 Myriam
@@ -110,7 +110,7 @@ Pharma
 Pippenger
 PLV
 pre
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
@@ -122,10 +122,10 @@ SCID
 SKYSCAN
 Straumann
 subvolume
-synthtic
 Translational
 vascularization
 vasculature
+VascuViz
 VEGF
 vena
 Venflon
