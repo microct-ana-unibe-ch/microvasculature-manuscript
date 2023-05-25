@@ -1,5 +1,5 @@
 Angiofil
-Angiogenesis
+angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -24,8 +24,8 @@ CTvox
 Dalmose
 dataset
 datasets
-decalcification
-decalcified
+decacifying
+Decalcification
 decalcify
 decalcifying
 demineralized
@@ -86,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
@@ -98,10 +98,11 @@ Organoid
 orofacial
 osseointegration
 paraformaldehyde
-PEGASOS
 pentobarbital
 perfuse
 perfused
+perfusing
+perfustion
 peri
 Periodontology
 periostal
@@ -110,7 +111,7 @@ Pharma
 Pippenger
 PLV
 pre
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
@@ -122,6 +123,7 @@ SCID
 SKYSCAN
 Straumann
 subvolume
+timepoint
 Translational
 vascularization
 vasculature

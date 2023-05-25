@@ -5,7 +5,7 @@ keywords:
 - contrastagent
 - microvasculature
 lang: en-US
-date-meta: '2023-05-24'
+date-meta: '2023-05-25'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-05-24" />
-  <meta name="citation_publication_date" content="2023-05-24" />
-  <meta property="article:published_time" content="2023-05-24" />
-  <meta name="dc.modified" content="2023-05-24T09:59:42+00:00" />
-  <meta property="article:modified_time" content="2023-05-24T09:59:42+00:00" />
+  <meta name="dc.date" content="2023-05-25" />
+  <meta name="citation_publication_date" content="2023-05-25" />
+  <meta property="article:published_time" content="2023-05-25" />
+  <meta name="dc.modified" content="2023-05-25T15:31:39+00:00" />
+  <meta property="article:modified_time" content="2023-05-25T15:31:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0b6d983ac2420a105b8338cab500923384c5baa/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0b6d983ac2420a105b8338cab500923384c5baa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0b6d983ac2420a105b8338cab500923384c5baa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,15 +112,15 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...d0b6d983ac2420a105b8338cab500923384c5baa) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0b6d983ac2420a105b8338cab500923384c5baa/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@f416f4f](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/f416f4f8ab96cd2f4988682a90ea5fb5324fb2b4)
-on May 24, 2023.
+from [microct-ana-unibe-ch/microvasculature-manuscript@d0b6d98](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d0b6d983ac2420a105b8338cab500923384c5baa)
+on May 25, 2023.
 </em></small>
 
 
@@ -264,15 +264,15 @@ Oleksiy-Zakhar Khoma  contributed equally to this work.
 ## Abstract {.page_break_before}
 
 Angiogenesis is essential for skeletal development, bone healing and regeneration.
-Various research areas, especially implantology and tissue engineering, would benefit from improved three-dimensional (3D) imaging of the vasculature within bone tissue.
+Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue would benefit a multitude of research areas, especially implantology and tissue engineering. 
 
 X-ray microtomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology.
-For the detection of vessels, a contrast-enhanced microCT-imaging must be used.
+For the detection of vessels, using contrast-enhanced microCT imaging is essential.
 Limited contrast between perfusion agents and mineralized bone has been the major drawback of this approach, making their distinct segmentation problematic.
 A decalcification step resolves this issue but inhibits simultaneous assessment of intracortical bone microstructure and vascular morphology.
 Moreover, the problem of contrasting becomes further compounded in samples with metal implants.
 
-This study describes µAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in various small and large animal models, with and without decalcification.
+This study describes µAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, with and without decalcification.
 We present simultaneous microvascular and bone imaging in murine tibia, murine bone metastatic model, pulp chamber, gingiva and periodontal ligaments.
 In a large animal model (minipig) we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
 
@@ -281,43 +281,45 @@ Our manuscript introduces the first non-destructive approach for 3D imaging of t
 
 ## Introduction {.page_break_before}
 
-Angiogenesis is an essential physiological process for skeletal development and growth as well as for for bone healing and regeneration.
-The vascularization process, i.e. the formation of new blood vessels form from pre-existing vessels is a crucial factor for successful bone formation and repair [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106, @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
+Angiogenesis is an essential physiological vascularization process for skeletal development and growth as well as for bone healing and regeneration.
+This formation of new blood vessels from pre-existing vessels is crucial for successful bone formation and repair [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106, @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
 In addition to carrying nutrients and growth factors, those newly formed blood vessels are a delivery route of stem cells and progenitor cells to the bone-defect site [@doi:10.1016/j.actbio.2018.07.050; @doi:10.1016/j.actbio.2019.02.021; @doi:10.3389/fbioe.2017.00068].
 The structural nature of skeletal tissue makes three-dimensional (3D) imaging of its vasculature extremely difficult.
 Histology, a destructive and two-dimensional approach, still remains a gold standard for assessing vasculature in bones [@doi:10.1038/s41598-017-13632-5].
-As blood vessels are encased in the calcified tissue, classic soft tissue imaging techniques such as light sheet microscopy or confocal laser scanning microscopy are challenging to apply [@doi:10.1038/s41598-017-13632-5].
-Even though advancements on tissue clearing-based imaging methods for craniofacial bones in a mouse model have recently been published [@doi:10.1038/s41467-021-26455-w;@10.1089/scd.2019.0104], such methods are rather difficult to apply.
+Classic soft tissue imaging techniques such as light sheet microscopy or confocal laser scanning microscopy face challenges in their application due to the encasement of blood vessels in calcified tissue [@doi:10.1038/s41598-017-13632-5].
+Despite recent advancements in tissue clearing-based imaging methods for craniofacial bones in a mouse model [@doi:10.1038/s41467-021-26455-w;@10.1089/scd.2019.0104], the application of such methods remains challenging.
 In the case of bone grafts, many of the synthetic ones fail to bridge critically sized defects due to their inability to promote vascularization [@doi:10.1089/ten.teb.2009.0085; @doi:10.1152/ajpcell.00195.2022].
 In essence, simultaneous non-destructive 3D imaging of the vasculature within bone tissue and of the bone tissue itself, especially in the case of larger bone grafts, has been a challenge for decades [@doi:10.1007/s10439-015-1253-3; @doi:10.1152/ajpcell.00195.2022].
-Thus, many research areas benefit from an improved three-dimensional (3D) imaging of the vasculature within bone tissue: e.g. bone metastatic disease, bone biology, tissue engineering, implantology, reconstructive surgery and healing of both small and critical size bone defects with or without bone grafts.
+Thus, many research areas benefit from an improved three-dimensional (3D) imaging of the vasculature within bone tissue: for example bone metastatic disease, bone biology, tissue engineering, implantology, reconstructive surgery and healing of both small and critical size bone defects with or without bone grafts.
 
 In the last decades, X-ray micro-computed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
 Due to the inherently low difference in X-ray absorption levels between vessels and different soft tissues it is not easily feasible to distinguish such structures within the bone.
 To unambiguously detect vasculature within bone it is thus necessary to instill the vessels with either a contrast agent or use a casting method to otherwise fill the blood vessels.
 Currently existing protocols for imaging a the vasculature within the bone via a vascular replica, have drawbacks like showing disjoint vascular components or completely missing vascular segments [@doi:10.1002/jemt.20720; @doi:10.1038/s41598-017-13632-5].
 It was also reported that the contrast difference between the perfusion agent to generate the replica of the vascular network an the mineralized bone make it problematic to perform a distinct segmentation of the bone tissue and the vasculature.
-This issue can be overcome when samples are decalcified prior to vascular imaging.
+This issue can be overcome by decacifying samples prior to vascular imaging.
 Such a decalcification procedure makes simultaneous assessment of the intracortical bone microstructure and the vascular morphology impossible, though [@doi:10.1038/s41598-017-13632-5].
 
 Intravascular contrast-agent-enhanced microCT has the potential to overcome these issues.
 It has become a method of choice for the evaluation of angiogenesis in bone tissue engineering and remodeling applications [@doi:10.1089/ten.teb.2008.0153; @doi:10.1016/j.bone.2011.09.051; @doi:10.1152/ajpcell.00195.2022].
 Barium sulfate and Microfil have been applied as the two most common contrast agents in studies on the vascularization of bone tissue.
-Barium sulfate has been shown to provide a better perfusion and thus visualization only in some selected studies [@doi:10.1016/j.bone.2011.09.051].
-In many other studies, barium sulfate suspensions have been reported to have disadvantages such as higher viscosity, sometimes leading to incomplete vascular filling and weak or inhomogeneous signal especially in higher resolution scans [@doi:10.1016/j.bone.2011.09.051], possibly due to particle aggregation [@doi:10.1002/jemt.20263; @doi:10.1186/s12882-016-0235-5; @doi:10.3390/ijms22063263].
+Only some selected studies [@doi:10.1016/j.bone.2011.09.051] managed to show better perfustion and thus visualization when perfusing the vasculature with barium sulfate.
+Previous studies have reported disadvantages associated with barium sulfate suspensions, including higher viscosity, which can sometimes result in incomplete vascular filling and weak or inhomogeneous signal, particularly in higher resolution scans [@doi:10.1016/j.bone.2011.09.051].
+These issues may be attributed to particle aggregation, as indicated by various studies [@doi:10.1002/jemt.20263; @doi:10.1186/s12882-016-0235-5; @doi:10.3390/ijms22063263].
+
 Although Microfil has probably been applied in a larger number of vasculature imaging studies than barium sulfate, Microfil was reported to have disadvantages like poor or incomplete filling of the vasculature [@doi:10.1186/s12882-016-0235-5; @doi:10.1016/j.bone.2011.09.051; @doi:10.3390/ijms22063263] or vascular damage [@doi:10.1002/jnr.24539].
 
 The problem of contrasting the vasculature becomes even further compounded in the presence of a metal implant.
 Such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016].
-The success of implant placement and healing is believed to largely depend on the interactions occurring at the implant-tissue interface [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
+Interactions occurring at the implant-tissue interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
 MicroCT is the only available approach to non-destructively investigate an intact bone-implant interface in 3D [@doi:10.1111/cpr.12578].
 
 Beyond studying the anatomy and physiology of angiogenesis and vasculature of the bone itself, the contribution of the vascular component in the healing process around bone-borne implants is also considered an area of study meriting further experimentation [@doi:10.1152/ajpcell.00195.2022; @doi:10.1111/jcpe.12424].
 To date, only few studies tried to assess and visualize the vasculature surrounding implants using microCT imaging, for examples see [@doi:10.1016/j.cellsig.2020.109873], where Wang et al. assessed a region of 100 μm around the implant surface and [@doi:10.1038/s41592-021-01363-5], where Bhargava et al. present VascuViz, a pipeline for vascular systems biology and compare it to other vascular imaging workflows.
 Both these studies image the samples at approximately 7 μm voxel size, inhibiting the assessment of microvessels with a diameter of approximately 40 µm or less.
-To the best of our knowledge, no study has managed to resolve the micro-vascular component in a large animal model due to the technical limitations of the perfused contrast agent and the applied microCT imaging technique.
+To the best of our knowledge, no study has managed to resolve the microvascular component in a large animal model due to the technical limitations of the perfused contrast agent and the applied microCT imaging technique.
 
-With the present study we introduce the polymer-based contrast agent µAngiofil for high-resolution microCT-based visualization of microvasculature within bone tissue in various small and large animal models, with and without decalcification of the bone.
+The present study introduces the polymer-based contrast agent µAngiofil for high-resolution microCT-based visualization of microvasculature within bone tissue in small and large animal models, both with and without decalcification of the bone.
 Moreover, we show that µAngiofil is suitable for simultaneous imaging and subsequent analysis of peri-implant hard and soft tissues as well as their vascularization in the vicinity of metal implants in a large animal model.
 
 
@@ -334,13 +336,13 @@ The contrast agent µAngiofil has been prepared according to the manufacturer's 
 The perfusion of the mice was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
 Briefly, heparinized animals were deeply anesthetized, the thorax and the peritoneal cavity were opened with scissors to expose the descending aorta.
 The exposed aorta was then cannulated in either antegrade (for the perfusion of the hind limbs) or retrograde direction (for the perfusion of the head and teeth) with a Venflon cannula (26 GA).
-Afterwards, the blood was flushed out with warm PBS solution until the body part of interest turned completely pale.
+Afterwards, the blood was flushed out with warm PBS solution.
 Three to four cuts of the liver edge allowed effusion of the blood and buffer solution.
 Thereafter, the corresponding (upper or lower) part of the body was perfused with µAngiofil at 1-1.5 ml/min using a syringe pump.
-The perfusion lasted until the organ of interest turned completely blue [@doi:10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
+The perfusion lasted until the organ of interest appeared completely blue [@doi:10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
 In bones, it is not possible to visually monitor the described color change.
 Correct perfusion of the neighboring soft tissues serves as an indirect marker of the perfusion within the bone.
-Therefore, to achieve a good perfusion of the vessels within the bone, the perfusion time was significantly prolonged (at least 2 ml extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue).
+To achieve an ideal perfusion of the vessels within the bone, the perfusion time was prolonged by at least instilling 2 ml extra volume of contrast agent after the timepoint where all the superficial tissues of the extremity or head turned blue.
 Such a prolonged perfusion protocol ensured adequate perfusion of the bones of murine hind limbs (see Fig. @fig:1).
 After harvesting, the samples were fixed by immersion in 4% paraformaldehyde (PFA) solution and then scanned using microCT scanners (Bruker microCT, Kontich, Belgium).
 Figure @fig:1 shows the bone microstructure and vascularization of a tibia of a 21-month-old VEGF transgenic male mouse.
@@ -360,8 +362,7 @@ Therefore, as presented in our other study, using the obtained datasets we could
 It is practically the standard in the field to decalcify the bone samples to enable the proper visualization and segmentation of vasculature within bone tissue [@doi:10.1038/s41598-017-13632-5; @doi:10.1016/j.bone.2011.09.051].
 Based on published data [@doi:10.1002/jemt.20720], we were successful in establishing a bone-decalcifying protocol (for murine hind limb) with 10% Ethylenediaminetetraacetic acid (EDTA) solution [@doi:10.1038/srep41842].
 Such a decalcification step does not seem to negatively influence the bone structure as such but reduces the X-ray absorption of bone tissue and renders it impossible to visualize it simultaneously with the vasculature (Fig. @fig:2).
-On the other hand, it enables tomographic imaging of the murine hind limb vasculature with less artifacts around the bone at significantly lower acceleration voltage.
-In most instances it leads to remarkably shorter scanning times.
+On the other hand, it enables tomographic imaging of the murine hind limb vasculature with less artifacts around the bone at much lower acceleration voltage which in most instances leads to shorter scanning times.
 Furthermore, segmentation of the vasculature in the tomographic datasets becomes easier and a subsequent histological evaluation of the sample is facilitated by such a decalcification step [@doi:10.1038/srep41842].
 
 ![**MicroangioCT-based visualization of the diaphysis of murine tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
@@ -377,15 +378,15 @@ Furthermore, segmentation of the vasculature in the tomographic datasets becomes
 Assessment as well as 3D imaging of the tumor vasculature is always a challenging task, in almost every tumor model [@doi:10.1007/978-1-4939-3999-2_2].
 A bone metastatic disease model is even more challenging for 3D microvascular imaging, due to the intraosseous location of tumor lesions.
 Since the changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, simultaneous imaging of bone and vasculature is crucial.
-The desire to also simultaneously assess existing bone defects makes a decalcification procedure, as suggested above, extremely disadvantageous.
+The desire to simultaneously assess existing bone defects makes the suggested decalcification procedure highly unfavorable.
 To verify the suitability of our microangioCT approach for this kind of experimental imaging we used the following murine tumor model.
 
 ### Murine bone metastatic disease model
 
 In the bone metastatic disease model, 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6 weeks old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray (25 kV, 6 sec) assessment (Faxitron Bioptics, Tucson, Arizona, US) was conducted at days 7, 14, 21 and 28 after implantation to monitor the progression of the lesions.
-Animal experiments were approved by the local ethical committee of the Canton of Bern, Switzerland (permit number BE 55/16) and carried out in accordance with Swiss Guidelines for the Care and Use of Laboratory Animals.
-
+The local ethical committee of the Canton of Bern, Switzerland approved the animal experiments under the permit number BE 55/16.
+All experiments were conducted in compliance with the Swiss Guidelines for the Care and Use of Laboratory Animals.
 Prior to terminal anesthesia and perfusion with µAngiofil, the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
 The harvested and fixated murine hind limb was then scanned using a desktop microCT scanner SKYSCAN 1272 (Fig. @fig:3).
 The obtained dataset was reconstructed using NRecon Software v.1.7.4.2 (microCT Bruker, Kontich, Belgium) and visualized using CTvox Software v.3.3.1 (microCT Bruker, Kontich, Belgium).
@@ -434,7 +435,7 @@ Our approach provides excellent imaging of the whole mandible vasculature down t
   Panel C displays the transverse section marked in panel B: the pulp chamber and root canal with the corresponding vessels are unambiguously visualized.
   Scanning parameters for images in panel A (SKYSCAN 1273) accelerating voltage 100 kV, current 80 µA, 9 µm voxel size, 1 mm aluminum and 0.2 mm copper filter, rotation step 0.15°, 360 degrees scan, frame averaging of 5.
   Scanning parameters for images in panels B and C (SKYSCAN 2214): accelerating voltage 100 kV, current 100 µA, 8 µm voxel size, 1 mm copper filter, 0.18° rotation step, 360 degrees scan, frame averaging 4.
-  Due to the voxel size of 8-9 µm, the microvessels with diameter of approx. 40 µm or less cannot be visualized in such large samples.](images/Fig5_Vreni jaw minipig.png){#fig:5}
+  Due to the voxel size of 8-9 µm, microvessels with diameter of 40 µm or less cannot be visualized in such large samples.](images/Fig5_Vreni jaw minipig.png){#fig:5}
 
 As already mentioned, the Göttingen Minipig has become a very popular large animal model in dental research and is often used also for implantology studies.
 After researchers in the field realized that osseointegration is influenced by angiogenesis, there is understanding that angiogenesis and, correspondingly, vascular supply of the peri-implant tissue should be assessed as thoroughly as possible and preferably in 3D.
@@ -444,12 +445,13 @@ Even for the microCT approach, it is a challenging task due to the presence of m
 The decalcification step could reduce the density of the sample but would inevitably lead to the loss of information on the bone microstructure making the simultaneous assessment of the bone and vessels impossible [@doi:10.1038/s41598-017-13632-5].
 Another obstacle is to have a contrast agent that can be distinctly separated from both the metal implants and the mineralized tissue.
 With µAngiofil it is easily possible to visualize and distinguish between soft tissue, bone tissue, contrast agent-filled vessels as well as metal implants according to their gray values in the histogram (Fig. @fig:6, Panel C).
-Such imaging does not require bone decalcification and enables a rather straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D).
+Such imaging does not require bone decalcification and enables a straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D).
 
 ![**MicroangioCT of the peri-implant vasculature of a minipig mandibula.**
   Panel A displays a MIP image of the minipig mandible with 4 metal implants and µAngiofil--perfused vessels.
   Panel B: virtual transversal section through an implant within the mandible.
-  Structures with distinguishably different grey values are marked with colored circles -- see the histogram distribution and corresponding peaks with colors legend in panel C.
+  Colored circles mark structures with distinguishably different grey values.
+  See the histogram distribution and corresponding peaks with colors legend in panel C.
   Such differences in grey levels allow a straightforward segmentation of the structures of interest as displayed in panel D.
   Scanning parameters (SKYSCAN 2214): accelerating voltage 100 kV, voxel size 8.0 µm, 1 mm copper filter, rotation step 0.18°, 360 degrees scan, frame averaging 4.](images/Fig6_Segmentation.png){#fig:6}
 
@@ -457,9 +459,9 @@ Such imaging does not require bone decalcification and enables a rather straight
 ## Discussion {.page_break_before}
 
 There is an understanding in the bone biology, tissue engineering and related research fields, that adequate vascularization is a prerequisite for successful bone formation and regeneration as well as osseointegration of biomaterials [@doi:10.1021/acsabm.1c00979; @doi:10.1089/ten.teb.2020.0132; @doi:10.1242/dev.136861; @doi:10.1002/jbm.a.32411; @doi:10.1042/CS20180155].
-To influence or even control these processes, the interplay between vascular and bone tissue should be studied at the most detailed imaging level available.
-
-During the last decades, microCT gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122], and is considered the only available approach for 3D imaging of an intact bone-implant interface [@doi:10.1111/cpr.12578].
+Without high-resolution imaging, the interplay between vasculature and bone tissue cannot be adequately studied, making it impossible to influence or even control these processes.
+During the last decades, microCT gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
+It is considered the only available approach for 3D imaging of an intact bone-implant interface [@doi:10.1111/cpr.12578].
 Unfortunately, the microCT-based distinction of the vessels from other soft tissue structures is not possible without intravascular casting or instillation of contrast agents.
 Moreover, although enabling the visualization of the vasculature, most such casting or contrast agents are difficult to distinguish from the non-demineralized bone tissue due to the lack of remarkable differences in their X-ray absorption levels [@doi:10.1089/ten.teb.2008.0153].
 For example, in case with Microfil, the mentioned lack of contrast requires decalcification of the samples before the bone vasculature can be properly visualized with a microCT scanner [@doi:10.1038/s41598-017-13632-5; @doi:10.1089/ten.teb.2008.0153].
@@ -470,24 +472,29 @@ If a subsequent histological evaluation is desired, the developed decalcifying p
 
 Distinct differences in the attenuation between the µAngiofil and bone tissue allow for assessing vascularization and bone growth without the need to make two scans (before and after decalcification) and register them, saving labor, scanning time and without damaging the sample composition.
 
-The presented here microangioCT approach can be used for simultaneous visualization of the hard (and eventually soft) tissues and their vascularization in a variety of small and large animal models.
+The microangioCT approach we present here can be used for simultaneous visualization of the hard (and eventually soft) tissues and their vascularization in small and large animal models.
 One of the noteworthy possible applications of this approach is simultaneous visualization of the bone microarchitecture and microvasculature of the bone metastases in the murine xenograft tumor model (Fig. @fig:3).
 Using such an approach, the response to specific treatments, including bone-targeted and antiangiogenic therapies, can be assessed within the same sample and in 3D, followed by histological examination if needed [@doi:10.3390/cancers14143443].
-The gained results could provide further insights onto yet not completely elucidated interplay between angiogenesis and bone growth, bone lysis and bone turnover.
+The presented method could offer additional insights into the interplay between angiogenesis and bone growth, bone lysis, and bone turnover, which have not been fully elucidated yet.
 The results will be crucial for selecting potential drug candidates and proper treatment decision and efficacy prediction.
-The decalcification step would be very disadvantageous for bone metastatic models, since pathological processes in the bone tissue should be thoroughly assessed because they may lead to so-called skeletal-related-events, which are associated with shortened survival and deterioration of quality of life [@doi:10.1016/j.jbo.2018.10.004], and should therefore be avoided.
+The decalcification step would be very disadvantageous for studying bone metastatic models.
+Such a step would hinder the thorough assessment of pathological processes in bone tissue.
+These processes may lead to so-called skeletal-related-events associated with shortened survival and deterioration of quality of life [@doi:10.1016/j.jbo.2018.10.004], and should therefore be avoided.
 
 In dental research, preclinical models can be divided into small and large animals.
-Besides more practical size, small animal models (e.g., mouse) are very popular in the research labs, including dental ones, and less expensive.
+Small animal models, particularly mice and rats, are highly popular, due to their practical size and cost-effectiveness.
+Small animal models, such as mice and rats, are highly popular due to their practical size and reduced cost.
 Moreover, there is a variety of genetically modified lines available which could facilitate imaging if using corresponding imaging modalities [@doi:10.1111/cpr.12578].
-The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, leading to an excellent detail resolution (Fig. @fig:4).
+The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, providing excellent detail resolution (Fig. @fig:4).
 
-Nonetheless, the small size of hemimandible samples and availability of the transgenic lines allow another recently published imaging approach in the murine models.
-This recently described PEGASOS tissue-clearing-based approach could be a viable option for the visualization of the peri-implant tissues and vasculature in small animal models [@doi:10.1111/cpr.12578].
-Among the most significant limitations of this tissue-clearing-based imaging approach are: i) differential shrinkage among soft and hard tissues, leading to anisotropic distortion in samples where both tissue types (plus eventual metal implant) are present; ii) limited depth (e.g., around 800 µm in a mouse model) due to the challenges of achieving complete transparency of bone tissue [@doi:10.1111/cpr.12578].
+Nonetheless, the small size of hemimandible samples and availability of the transgenic lines would allow for a recently published imaging approach [@doi:10.1111/cpr.12578] in the murine models.
+This tissue-clearing-based approach could be a viable option for the visualization of the peri-implant tissues and vasculature in small animal models.
+There are limitations of such a tissue-clearing-based imaging approach, namely
+    i) differential shrinkage among soft and hard tissues, leading to anisotropic distortion in samples where both tissue types (plus eventual metal implant) are present;
+    ii) limited depth (around 800 µm in a mouse model [@doi:10.1111/cpr.12578]) due to the challenges of achieving complete transparency of bone tissue.
 These limitations become even more critical in a big animal model with metal implants.
 Large anisotropic distortion of the sample may lead to the alteration of the common site of interest, namely the implant-tissue interface.
-Furthermore, the actual limitation of the depth makes such an approach completely impracticable.
+Furthermore, the limitation of the visible depth makes such an approach impracticable for usage in large animal models.
 
 The microangioCT approach does not have such limitations and can be easily applied for visualization of hemimandible and its vascularization in a large animal model like Göttingen minipig (Fig. @fig:5).
 µAngiofil has noticeably different attenuation than mineralized bone and it is useful when scanning the samples, which contain high-density materials, like metals.
@@ -498,7 +505,7 @@ To the best of our knowledge, this is the first study demonstrating non-destruct
 ### Limitations of the approach
 
 The most significant limitation of the suggested approach is the general limitation of microCT imaging, namely, the correlation between the resolution and the sample size.
-If the sample is small, i.e. only a few millimeters in diameter, the voxel size may be as small as 1 µm or less enabling visualization of the microvasculature down to the capillary bed [@doi:10.1016/j.vph.2018.09.003; @doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017; @doi:10.1038/srep41842].
+If the sample is only a few millimeters in diameter, the voxel size may be as small as 1 µm or less enabling visualization of the microvasculature down to the capillary bed [@doi:10.1016/j.vph.2018.09.003; @doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017; @doi:10.1038/srep41842].
 In case of large samples, like minipig hemimandible, the achievable voxel size is around 10 times larger (≥8 µm), and it is therefore, not possible to reach that level of resolution.
 In such samples the finest microvessels with diameter under 40 µm cannot be accurately visualized (see Fig. @fig:5 & @fig:6).
 
