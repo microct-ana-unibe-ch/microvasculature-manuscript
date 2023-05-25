@@ -25,7 +25,7 @@ Dalmose
 dataset
 datasets
 decacifying
-Decalcification
+decalcification
 decalcify
 decalcifying
 demineralized
@@ -64,8 +64,8 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-Intravascular
-Khoma
+intravascular
+khoma
 Kontich
 Kruithof
 kV
@@ -111,7 +111,7 @@ Pharma
 Pippenger
 PLV
 pre
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
