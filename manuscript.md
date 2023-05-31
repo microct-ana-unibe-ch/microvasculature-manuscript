@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T09:50:55+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T09:50:55+00:00" />
+  <meta name="dc.modified" content="2023-05-31T10:19:37+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T10:19:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e9de874f2ef3cedcd724878b1681971d05b86027/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e9de874f2ef3cedcd724878b1681971d05b86027/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e9de874f2ef3cedcd724878b1681971d05b86027/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,14 +112,14 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...e9de874f2ef3cedcd724878b1681971d05b86027#files_bucket) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...c722906b2e784da8142291857065189763f24fcc#files_bucket) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e9de874f2ef3cedcd724878b1681971d05b86027/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@e9de874](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/e9de874f2ef3cedcd724878b1681971d05b86027)
+from [microct-ana-unibe-ch/microvasculature-manuscript@c722906](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/c722906b2e784da8142291857065189763f24fcc)
 on May 31, 2023.
 </em></small>
 
@@ -517,34 +517,19 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 |Author|Contributions|
 |---|---|
-
-|David Haberthür|{ contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}|
-
-|Oleksiy-Zakhar Khoma|{ contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}|
-
-|Tim Hoessly|{ contribution }}; { contribution }}; { contribution }}|
-
-|Eugenio Zoni|{ contribution }}; { contribution }}|
-
-|Marianna Kruithof-de Julio|{ contribution }}; { contribution }}|
-
-|Stewart D. Ryan|{ contribution }}; { contribution }}|
-
-|Myriam Grunewald|{ contribution }}; { contribution }}|
-
-|Benjamin Bellon|{ contribution }}; { contribution }}|
-
-|Rebecca Sandgren|{ contribution }}; { contribution }}|
-
-|Benjamin E. Pippenger|{ contribution }}; { contribution }}|
-
-|Dieter Bosshardt|{ contribution }}; { contribution }}|
-
-|Valentin Djonov|{ contribution }}; { contribution }}; { contribution }}; { contribution }}|
-
-|Ruslan Hlushchuk|{ contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}; { contribution }}|
-
-
+|David Haberthür|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|Oleksiy-Zakhar Khoma|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|Tim Hoessly|Data curation; Investigation; Writing – review & editing|
+|Eugenio Zoni|Resources; Writing – review & editing|
+|Marianna Kruithof-de Julio|Resources; Writing – review & editing|
+|Stewart D. Ryan|Resources; Writing – review & editing|
+|Myriam Grunewald|Resources; Writing – review & editing|
+|Benjamin Bellon|Methodology; Writing – review & editing|
+|Rebecca Sandgren|Resources; Writing – review & editing|
+|Benjamin E. Pippenger|Methodology; Writing – review & editing|
+|Dieter Bosshardt|Methodology; Writing – review & editing|
+|Valentin Djonov|Conceptualization; Funding acquisition; Supervision; Writing – review & editing|
+|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Supervision; Validation; Writing – original draft; Writing – review & editing|
 
 ## Conflicts of interest {.page_break_before}
 
