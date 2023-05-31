@@ -3,6 +3,7 @@ angiogenesis
 anisotropic
 antegrade
 antiangiogenic
+appers
 arteria
 avn
 Baltzerstrasse
@@ -26,7 +27,7 @@ Dalmose
 dataset
 datasets
 decacifying
-Decalcification
+decalcification
 decalcify
 decalcifying
 demineralized
@@ -86,7 +87,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-Minipig
+minipig
 minipigs
 MIP
 Myriam
