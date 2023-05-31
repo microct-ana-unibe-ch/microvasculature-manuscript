@@ -17,6 +17,9 @@ authors:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     equal: true
     contributions:
+      - Data curation
+      - Formal analysis
+      - Investigation
       - Writing – original draft
       - Writing – review & editing
   - name: Oleksiy-Zakhar Khoma
@@ -28,6 +31,9 @@ authors:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     equal: true
     contributions:
+      - Data curation
+      - Formal analysis
+      - Investigation
       - Writing – original draft
       - Writing – review & editing
   - name: Tim Hoessly
@@ -37,6 +43,8 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
+      - Data curation
+      - Investigation
       - Writing – review & editing
   - name: Eugenio Zoni
     initials: EZ
@@ -82,7 +90,7 @@ authors:
     contributions:
       - Writing – review & editing
     coi:
-      - Employed by a company which produces dental implants
+      - Employed by a company producing dental implants
   - name: Rebecca Sandgren
     initials: RS
     orcid: 0000-0003-4473-4666
@@ -101,7 +109,7 @@ authors:
     contributions:
       - Writing – review & editing
     coi:
-      - Employed by a company which produces dental implants
+      - Employed by a company producing dental implants
   - name: Dieter Bosshardt
     initials: DB
     orcid: 0000-0002-2132-6363
@@ -117,7 +125,9 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
-      - Writing – review & editing            
+      - Conceptualization
+      - Funding acquisition
+      - Writing – review & editing
   - name: Ruslan Hlushchuk
     initials: RH
     orcid: 0000-0002-6722-8996
@@ -126,6 +136,9 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
+      - Conceptualization
+      - Funding acquisition
+      - Investigation
       - Writing – original draft
       - Writing – review & editing
     corresponding: true
