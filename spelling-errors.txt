@@ -64,8 +64,8 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-Intravascular
-Khoma
+intravascular
+khoma
 Kontich
 Kruithof
 kV
@@ -76,7 +76,7 @@ Malmö
 mandibula
 Marianna
 medullar
-MicroangioCT
+microangioCT
 microarchitecture
 microCT
 Microfil
@@ -111,7 +111,7 @@ Pharma
 Pippenger
 PLV
 pre
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
@@ -123,7 +123,6 @@ SCID
 SKYSCAN
 Straumann
 subvolume
-timepoint
 Translational
 vascularization
 vasculature

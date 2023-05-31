@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-05-31" />
   <meta name="citation_publication_date" content="2023-05-31" />
   <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T08:44:18+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T08:44:18+00:00" />
+  <meta name="dc.modified" content="2023-05-31T09:04:28+00:00" />
+  <meta property="article:modified_time" content="2023-05-31T09:04:28+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/017bd58a61533d7a4c327c77ebf9f0db6f71866e/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/017bd58a61533d7a4c327c77ebf9f0db6f71866e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/017bd58a61533d7a4c327c77ebf9f0db6f71866e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,14 +112,14 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd#files_bucket) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...017bd58a61533d7a4c327c77ebf9f0db6f71866e#files_bucket) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/017bd58a61533d7a4c327c77ebf9f0db6f71866e/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@4fbae8d](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4fbae8d60eddf2caaac5815ebcbf879f05e5c9cd)
+from [microct-ana-unibe-ch/microvasculature-manuscript@017bd58](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/017bd58a61533d7a4c327c77ebf9f0db6f71866e)
 on May 31, 2023.
 </em></small>
 
@@ -342,14 +342,14 @@ Thereafter, the corresponding (upper or lower) part of the body was perfused wit
 The perfusion lasted until the organ of interest appeared completely blue [@doi:10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
 In bones, it is not possible to visually monitor the described color change.
 Correct perfusion of the neighboring soft tissues serves as an indirect marker of the perfusion within the bone.
-To achieve an ideal perfusion of the vessels within the bone, the perfusion time was prolonged by at least instilling 2 ml extra volume of contrast agent after the timepoint where all the superficial tissues of the extremity or head turned blue.
+To achieve an ideal perfusion of the vessels within the bone, the perfusion time was prolonged by at least instilling 2 ml extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue.
 Such a prolonged perfusion protocol ensured adequate perfusion of the bones of murine hind limbs (see Fig. @fig:1).
 After harvesting, the samples were fixed by immersion in 4% paraformaldehyde (PFA) solution and then scanned using microCT scanners (Bruker microCT, Kontich, Belgium).
 Figure @fig:1 shows the bone microstructure and vascularization of a tibia of a 21-month-old VEGF transgenic male mouse.
 This visualization approach enabled a simultaneous display of bone, its vascularization, and their segmentation.
 Therefore, as presented in our other study, using the obtained datasets we could quantitatively show that the age-related osteoporosis diminishes with improved vascularization [@doi:10.1126/science.abc8479].
 
-![**MicroangioCT of proximal murine tibia of a 21-month-old VEGF transgenic male mouse.**
+![**microangioCT of proximal murine tibia of a 21-month-old VEGF transgenic male mouse.**
   After perfusion with µAngiofil the murine tibia was harvested, fixated in 4% PFA and imaged by microCT.
   The arrowheads mark the visualized microvessels within the tibia.
   The diameter of the tibia shaft is around 1 mm.
@@ -365,7 +365,7 @@ Such a decalcification step does not seem to negatively influence the bone struc
 On the other hand, it enables tomographic imaging of the murine hind limb vasculature with less artifacts around the bone at much lower acceleration voltage which in most instances leads to shorter scanning times.
 Furthermore, segmentation of the vasculature in the tomographic datasets becomes easier and a subsequent histological evaluation of the sample is facilitated by such a decalcification step [@doi:10.1038/srep41842].
 
-![**MicroangioCT-based visualization of the diaphysis of murine tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
+![**microangioCT-based visualization of the diaphysis of murine tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
   Due to higher X-ray absorption the tibia bone appears brighter and non-transparent in A & A'.
   In B & B' it is transparent due to its lower X-ray absorption after decalcification.
   As a result, the connecting vessels between the periostal vessels and the vessels of the bone marrow cavity (bmc) are easily detectable (blue arrows in A & B).
@@ -393,20 +393,20 @@ The obtained dataset was reconstructed using NRecon Software v.1.7.4.2 (microCT 
 The visualization unambiguously displayed the intratumoral vasculature and extensive defects in the mineralized bone tissue.
 The neighboring structures, such as the growth plate, the epiphysis or the menisci are also easily assessed (Fig. @fig:3).
 
-![**MicroangioCT of a xenograft tumor implanted into the murine tibia.**
+![**microangioCT of a xenograft tumor implanted into the murine tibia.**
   A: Maximum intensity projection (MIP) of the investigated hind limb segment indicated in the inserted X-ray image of the mouse prior harvesting.
   B: Virtual section through the obtained microangioCT dataset showing remarkable defects represented as holes (asterisks in B and C) in the tibial bone at the tumor site (encircled).
   C: A deeper positioned virtual section displaying the inner surface of the diseased tibia.
   Besides irregularly patterned tumor vessels (in B & C) further bony structures like growth plate or calcified parts of the medial meniscus (MM) are clearly distinguishable.
   Scanning parameters (SKYSCAN 1272): acceleration voltage 60 kV, current 166 µA, 0.2 mm aluminum filter, 1.65 µm voxel size, 360 degrees scan, 0.1° rotation step, frame averaging 3.](images/Fig3_tumor tibia.png){#fig:3}
 
-### MicroangioCT of murine mandible/teeth
+### microangioCT of murine mandible/teeth
 
 Murine mandibles and teeth are challenging samples due to the location of most of the vessels within the bone canals or in the proximity of the hard tissue and, correspondingly, the lack of larger bone-free volumes in which the vessels are easily distinguishable.
 Nonetheless, with the improved perfusion protocol (see above) and a well visualized difference between the X-ray absorption levels of µAngiofil and mineralized bone tissue, we achieved appropriate imaging of the sample.
 The microvasculature of murine mandible, periodontal ligament, and the teeth (even within their pulp chamber) can be clearly visualized without undergoing a decalcification procedure (Fig. @fig:4).
 
-![**MicroangioCT of the vasculature of murine teeth.**
+![**microangioCT of the vasculature of murine teeth.**
   A: View onto the virtual horizontal section through the crowns of the murine teeth: The pulp chambers are visible, and the pulpal vessels are presented.
   Overview of the dataset in the inset at the upper left corner.
   B: Sagittal section through the mandible.
@@ -414,7 +414,7 @@ The microvasculature of murine mandible, periodontal ligament, and the teeth (ev
   C: A closer view onto the dentogingival plexus and periodontal ligament vessels (PLV).
   Scanning parameters (SKYSCAN 1172): accelerating voltage 80 kV, voxel size 1.0 µm, 0.2 mm aluminum filter, rotation step 0.1°, 360 degrees scan, frame averaging 4.](images/Fig4_mouse teeth.png){#fig:4}
 
-### MicroangioCT of mandible in a large animal model (Göttingen Minipig)
+### microangioCT of mandible in a large animal model (Göttingen Minipig)
 
 Due to their similarity to humans in terms of anatomy, bone structure and bone remodeling, the Göttingen Minipig has become a well-accepted large animal model in preclinical dental and orofacial research [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
 The stricter legal requirements regarding primates and the societal resistance against the use of companion animals, such as dogs and cats, have further enhanced the usage of Göttingen minipigs as animal models [@doi:10.22203/eCM.v013a01].
@@ -429,7 +429,7 @@ After polymerization of µAngiofil (\~30 min), the mandible was excised and fixa
 They were later scanned using SKYSCAN 2214 or SKYSCAN 1273, and the datasets reconstructed and visualized using NRecon v.1.7.4.2 and CTvox Software v.3.3.1, correspondingly (both microCT Bruker, Kontich, Belgium).
 Our approach provides excellent imaging of the whole mandible vasculature down to the vessels within the root canals and pulp chamber (Fig. @fig:5).
 
-![**MicroangioCT of the minipig mandibula.**
+![**microangioCT of the minipig mandibula.**
   Panel A displays the visualization of a right minipig hemimandible: the vasculature at the bone surface is clearly visible.
   The framed area in A marks the subvolume represented in panel B at higher magnification.
   Panel C displays the transverse section marked in panel B: the pulp chamber and root canal with the corresponding vessels are unambiguously visualized.
@@ -447,7 +447,7 @@ Another obstacle is to have a contrast agent that can be distinctly separated fr
 With µAngiofil it is easily possible to visualize and distinguish between soft tissue, bone tissue, contrast agent-filled vessels as well as metal implants according to their gray values in the histogram (Fig. @fig:6, Panel C).
 Such imaging does not require bone decalcification and enables a straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D).
 
-![**MicroangioCT of the peri-implant vasculature of a minipig mandibula.**
+![**microangioCT of the peri-implant vasculature of a minipig mandibula.**
   Panel A displays a MIP image of the minipig mandible with 4 metal implants and µAngiofil--perfused vessels.
   Panel B: virtual transversal section through an implant within the mandible.
   Colored circles mark structures with distinguishably different grey values.
@@ -537,19 +537,10 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 |Author|Conflict|
 |---|---|
-|David Haberthür||
-|Oleksiy-Zakhar Khoma||
-|Tim Hoessly||
-|Eugenio Zoni||
-|Marianna Kruithof-de Julio||
-|Stewart D. Ryan||
-|Myriam Grunewald||
 |Benjamin Bellon|Employed by a company producing dental implants|
-|Rebecca Sandgren||
 |Benjamin E. Pippenger|Employed by a company producing dental implants|
-|Dieter Bosshardt||
-|Valentin Djonov||
-|Ruslan Hlushchuk||
+
+
 
 
 ## Acknowledgments
