@@ -331,7 +331,3 @@ content/04.discussion.md:51:voxel
 content/04.discussion.md:52:microvessels
 content/04.discussion.md:54:implantology
 content/04.discussion.md:54:microCT
-content/06.coi.md:3:COI
-content/06.coi.md:5:coi
-content/06.coi.md:5:coi
-content/06.coi.md:5:coi

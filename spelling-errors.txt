@@ -1,5 +1,5 @@
 Angiofil
-Angiogenesis
+angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -18,7 +18,6 @@ Bruker
 cannula
 cannulated
 carotis
-COI
 confocal
 craniofacial
 CTvox
@@ -66,7 +65,7 @@ intramuscularly
 intraosseous
 intratumoral
 Intravascular
-khoma
+Khoma
 Kontich
 Kruithof
 kV
@@ -87,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
@@ -112,7 +111,7 @@ Pharma
 Pippenger
 PLV
 pre
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
