@@ -100,8 +100,9 @@ authors:
     affiliations:
       - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
     contributions:
+      - Methodology
       - Writing – review & editing
-    coi:
+    conflict:
       - Employed by a company producing dental implants
   - name: Rebecca Sandgren
     initials: RS
@@ -120,8 +121,9 @@ authors:
       - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
       - Department of Periodontology, University of Bern, Bern, Switzerland
     contributions:
+      - Methodology
       - Writing – review & editing
-    coi:
+    conflict:
       - Employed by a company producing dental implants
   - name: Dieter Bosshardt
     initials: DB
