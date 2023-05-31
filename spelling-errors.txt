@@ -1,5 +1,5 @@
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -18,9 +18,11 @@ Bruker
 cannula
 cannulated
 carotis
+COI
 confocal
 craniofacial
 CTvox
+curation
 Dalmose
 dataset
 datasets
@@ -43,7 +45,6 @@ epiphysis
 Ethylenediaminetetraacetic
 Euthanimal
 externa
-EZ
 Faxitron
 Fumedica
 gingiva
@@ -64,7 +65,7 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-intravascular
+Intravascular
 khoma
 Kontich
 Kruithof
@@ -111,7 +112,7 @@ Pharma
 Pippenger
 PLV
 pre
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
