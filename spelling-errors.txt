@@ -26,7 +26,7 @@ Dalmose
 dataset
 datasets
 decacifying
-decalcification
+Decalcification
 decalcify
 decalcifying
 demineralized
@@ -65,7 +65,7 @@ intramuscularly
 intraosseous
 intratumoral
 intravascular
-khoma
+Khoma
 Kontich
 Kruithof
 kV
