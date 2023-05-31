@@ -1,5 +1,5 @@
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -22,7 +22,6 @@ carotis
 confocal
 craniofacial
 CTvox
-curation
 Dalmose
 dataset
 datasets
@@ -79,7 +78,7 @@ Marianna
 medullar
 microangioCT
 microarchitecture
-microCT
+MicroCT
 Microfil
 microstructure
 microtomography
