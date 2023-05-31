@@ -17,6 +17,13 @@ authors:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     equal: true
     contributions:
+      - Data curation
+      - Formal analysis
+      - Investigation
+      - Project administration
+      - Software
+      - Validation
+      - Visualization
       - Writing – original draft
       - Writing – review & editing
   - name: Oleksiy-Zakhar Khoma
@@ -28,6 +35,13 @@ authors:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     equal: true
     contributions:
+      - Data curation
+      - Formal analysis
+      - Investigation
+      - Project administration
+      - Software
+      - Validation
+      - Visualization
       - Writing – original draft
       - Writing – review & editing
   - name: Tim Hoessly
@@ -37,6 +51,8 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
+      - Data curation
+      - Investigation
       - Writing – review & editing
   - name: Eugenio Zoni
     initials: EZ
@@ -46,6 +62,7 @@ authors:
       - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
       - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
     contributions:
+      - Resources
       - Writing – review & editing
   - name: Marianna Kruithof-de Julio
     initials: MK
@@ -56,6 +73,7 @@ authors:
       - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
       - Department for BioMedical Research, Translation Organoid Research, University of Bern, Bern, Switzerland    
     contributions:
+      - Resources
       - Writing – review & editing
   - name: Stewart D. Ryan
     initials: SR
@@ -64,6 +82,7 @@ authors:
     affiliations:
       - U-Vet Hospital, University of Melbourne Veterinary School, Werribee, Australia
     contributions:
+      - Resources
       - Writing – review & editing
   - name: Myriam Grunewald
     initials: MG
@@ -72,6 +91,7 @@ authors:
     affiliations:
      - epartment of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
     contributions:
+      - Resources
       - Writing – review & editing
   - name: Benjamin Bellon
     initials: BB
@@ -82,7 +102,7 @@ authors:
     contributions:
       - Writing – review & editing
     coi:
-      - Employed by a company which produces dental implants
+      - Employed by a company producing dental implants
   - name: Rebecca Sandgren
     initials: RS
     orcid: 0000-0003-4473-4666
@@ -90,6 +110,7 @@ authors:
     affiliations:
       - Centre for Comparative Medicine, Medical Faculty, Lund University, Lund, Sweden
     contributions:
+      - Resources
       - Writing – review & editing
   - name: Benjamin E. Pippenger
     initials: BP
@@ -101,7 +122,7 @@ authors:
     contributions:
       - Writing – review & editing
     coi:
-      - Employed by a company which produces dental implants
+      - Employed by a company producing dental implants
   - name: Dieter Bosshardt
     initials: DB
     orcid: 0000-0002-2132-6363
@@ -109,6 +130,7 @@ authors:
     affiliations:
       - Department of Periodontology, University of Bern, Bern, Switzerland
     contributions:
+      - Methodology
       - Writing – review & editing
   - name: Valentin Djonov
     initials: VD
@@ -117,7 +139,10 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
-      - Writing – review & editing            
+      - Conceptualization
+      - Funding acquisition
+      - Supervision
+      - Writing – review & editing
   - name: Ruslan Hlushchuk
     initials: RH
     orcid: 0000-0002-6722-8996
@@ -126,6 +151,13 @@ authors:
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
+      - Conceptualization
+      - Funding acquisition
+      - Investigation
+      - Methodology
+      - Project administration
+      - Supervision
+      - Validation
       - Writing – original draft
       - Writing – review & editing
     corresponding: true
