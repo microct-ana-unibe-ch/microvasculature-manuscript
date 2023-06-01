@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-01" />
   <meta name="citation_publication_date" content="2023-06-01" />
   <meta property="article:published_time" content="2023-06-01" />
-  <meta name="dc.modified" content="2023-06-01T14:33:01+00:00" />
-  <meta property="article:modified_time" content="2023-06-01T14:33:01+00:00" />
+  <meta name="dc.modified" content="2023-06-01T14:50:36+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T14:50:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fa9f745acc76a5ddb43af115cab47f6253e3a04f/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fa9f745acc76a5ddb43af115cab47f6253e3a04f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fa9f745acc76a5ddb43af115cab47f6253e3a04f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4be94a58f643038807c0e0ab9eb5b6dc42b54921/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4be94a58f643038807c0e0ab9eb5b6dc42b54921/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4be94a58f643038807c0e0ab9eb5b6dc42b54921/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,14 +112,14 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...fa9f745acc76a5ddb43af115cab47f6253e3a04f#files_bucket) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...4be94a58f643038807c0e0ab9eb5b6dc42b54921#files_bucket) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fa9f745acc76a5ddb43af115cab47f6253e3a04f/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4be94a58f643038807c0e0ab9eb5b6dc42b54921/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@fa9f745](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/fa9f745acc76a5ddb43af115cab47f6253e3a04f)
+from [microct-ana-unibe-ch/microvasculature-manuscript@4be94a5](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4be94a58f643038807c0e0ab9eb5b6dc42b54921)
 on June 1, 2023.
 </em></small>
 
@@ -297,13 +297,13 @@ Due to the inherently low difference in X-ray absorption levels between vessels 
 To unambiguously detect vasculature within bone it is thus necessary to instill the vessels with either a contrast agent or use a casting method to otherwise fill the blood vessels.
 Currently existing protocols for imaging a the vasculature within the bone via a vascular replica, have drawbacks like showing disjoint vascular components or completely missing vascular segments [@doi:10.1002/jemt.20720; @doi:10.1038/s41598-017-13632-5].
 It was also reported that the contrast difference between the perfusion agent to generate the replica of the vascular network an the mineralized bone make it problematic to perform a distinct segmentation of the bone tissue and the vasculature.
-This issue can be overcome by decacifying samples prior to vascular imaging.
+This issue can be overcome by decalcifying samples prior to vascular imaging.
 Such a decalcification procedure makes simultaneous assessment of the intracortical bone microstructure and the vascular morphology impossible, though [@doi:10.1038/s41598-017-13632-5].
 
 Intravascular contrast-agent-enhanced microCT has the potential to overcome these issues.
 It has become a method of choice for the evaluation of angiogenesis in bone tissue engineering and remodeling applications [@doi:10.1089/ten.teb.2008.0153; @doi:10.1016/j.bone.2011.09.051; @doi:10.1152/ajpcell.00195.2022].
 Barium sulfate and Microfil have been applied as the two most common contrast agents in studies on the vascularization of bone tissue.
-Only some selected studies [@doi:10.1016/j.bone.2011.09.051] managed to show better perfustion and thus visualization when perfusing the vasculature with barium sulfate.
+Only some selected studies [@doi:10.1016/j.bone.2011.09.051] managed to show better perfusion and thus visualization when perfusing the vasculature with barium sulfate.
 Previous studies have reported disadvantages associated with barium sulfate suspensions, including higher viscosity, which can sometimes result in incomplete vascular filling and weak or inhomogeneous signal, particularly in higher resolution scans [@doi:10.1016/j.bone.2011.09.051].
 These issues may be attributed to particle aggregation, as indicated by various studies [@doi:10.1002/jemt.20263; @doi:10.1186/s12882-016-0235-5; @doi:10.3390/ijms22063263].
 
@@ -369,7 +369,7 @@ Furthermore, segmentation of the vasculature in the tomographic datasets becomes
 
 ![**microangioCT-based visualization of the diaphysis of murine tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
   In A and A' the tibia bone appears brighter and opaque due to higher X-ray absorption.
-  In B and B' the tibia bone appers transparent due to its lowered X-ray absorption after decalcification.
+  In B and B' the tibia bone appears transparent due to its lowered X-ray absorption after decalcification.
   Due to the decalcification, connecting vessels between the periostal vessels and the vessels of the bone marrow cavity (bmc) are more easily detectable (blue arrows in A vs. B).
   The visualization of the vessels within the medullar cavity (*central sinus* (CS)) is also improved.
   At the external surface of the tibia, supplying arteries are visible (*arteria et vena nutricia* (avn)).
@@ -408,7 +408,7 @@ Nonetheless, with the improved perfusion protocol mentioned above and a well vis
 The microvasculature of murine mandible, periodontal ligament, and the teeth (even within their pulp chamber) can be clearly visualized without undergoing a decalcification procedure (Fig. @fig:4).
 
 ![**microangioCT of the vasculature of murine teeth.**
-  A: View onto a virtual section parallell to the crowns of the murine teeth: pulp chambers are visible, and the pulpal vessels are presented.
+  A: View onto a virtual section parallel to the crowns of the murine teeth: pulp chambers are visible, and the pulpal vessels are presented.
   The inset shows an full view of the tomographic dataset.
   B: Sagittal section through the mandible.
   The microvessels within the pulp cavities and root canals are distinguishable.
@@ -438,7 +438,7 @@ Our approach provides excellent imaging of the whole mandible vasculature down t
   Scanning parameters for images in panels B and C (SKYSCAN 2214): accelerating voltage 100 kV, current 100 µA, 8 µm voxel size, 1 mm copper filter, 0.18° rotation step, 360 degrees scan, frame averaging 4.
   Due to the voxel size of 8--9 µm, microvessels with diameter of 40 µm or less cannot be visualized in such large samples.](images/Fig5_Vreni jaw minipig.png){#fig:5}
 
-Osseointegration of implants is influenced by agiogenesis.
+Osseointegration of implants is influenced by angiogenesis.
 <!--
 Can we cite https://www.mdpi.com/1996-1944/14/7/1678 here?
 -->
@@ -447,17 +447,17 @@ So far, the only reliable approach to assess the vascular supply remains histolo
 
 While microCT imaging allows for non-destructive, fully 3D imaging of dental research samples with implants, such imaging is a challenging task due to the presence of these metal parts with high density and X-ray absorption within the samples.
 A decalcification step reduces the density of the sample but inevitably leads to the loss of information on the bone microstructure making the simultaneous assessment of the bone and vessels impossible [@doi:10.1038/s41598-017-13632-5].
-For distiguising the vasculature from both the metal implants and the mineralized bone tissue, the vasculature has to be instilled with a suitable contrast agent.
+For distinguishing the vasculature from both the metal implants and the mineralized bone tissue, the vasculature has to be instilled with a suitable contrast agent.
 The X-ray absorption characteristics of µAngiofil make it possible to visualize and distinguish between soft tissue, bone tissue, contrast agent-filled vessels as well as metal implants according.
-In the resulting tomographic datasets these regions of interest can easily be distiguished based on to their gray values ranges, as shown in Fig. @fig:6, Panel C.
+In the resulting tomographic datasets these regions of interest can easily be distinguished based on to their gray values ranges, as shown in Fig. @fig:6, Panel C.
 Tomographic imaging of such samples and straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D) is enabled without requiring a decalcification step.
 
 ![**microangioCT of the peri-implant vasculature of a minipig mandibula.**
   Panel A: Maximum intensity projection image of the minipig mandible dataset with 4 metal implants and µAngiofil-perfused vessels.
   Panel B: virtual transversal section through the dataset showing an implant within the mandible.
-  The colored circles mark structures with distinguishably different grey values.
+  The colored circles mark structures with distinguishably different gray values ranges.
   See the histogram distribution and corresponding peaks with colors legend in panel C.
-  Such differences in grey levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.
+  Such differences in gray levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.
   Scanning parameters (SKYSCAN 2214): accelerating voltage 100 kV, voxel size 8.0 µm, 1 mm copper filter, rotation step 0.18°, 360 degrees scan, frame averaging 4.](images/Fig6_Segmentation.png){#fig:6}
 
 
@@ -565,6 +565,10 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 
 ## Supplementary Materials
+
+<!--
+Can we add the log files of all the shown scans?
+-->
 
 ## References {.page_break_before}
 

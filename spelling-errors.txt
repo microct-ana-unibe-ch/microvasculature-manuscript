@@ -1,10 +1,8 @@
-agiogenesis
 Angiofil
-Angiogenesis
+angiogenesis
 anisotropic
 antegrade
 antiangiogenic
-appers
 arteria
 avn
 Baltzerstrasse
@@ -26,7 +24,6 @@ curation
 Dalmose
 dataset
 datasets
-decacifying
 decalcification
 decalcify
 decalcifying
@@ -34,8 +31,6 @@ demineralized
 dentogingival
 Dexdomitor
 diaphysis
-distiguished
-distiguising
 distinguishably
 Djonov
 dTomato
@@ -66,7 +61,7 @@ intramuscularly
 intraosseous
 intratumoral
 intravascular
-Khoma
+khoma
 Kontich
 Kruithof
 kV
@@ -79,7 +74,7 @@ Marianna
 medullar
 microangioCT
 microarchitecture
-MicroCT
+microCT
 Microfil
 microstructure
 microtomography
@@ -97,14 +92,12 @@ ol
 Oleksiy
 Organoid
 orofacial
-osseointegration
+Osseointegration
 paraformaldehyde
-parallell
 pentobarbital
 perfuse
 perfused
 perfusing
-perfustion
 peri
 Periodontology
 periostal

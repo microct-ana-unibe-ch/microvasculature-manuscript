@@ -33,7 +33,7 @@ content/02.introduction.md:16:vasculature
 content/02.introduction.md:17:vasculature
 content/02.introduction.md:18:mineralized
 content/02.introduction.md:18:vasculature
-content/02.introduction.md:19:decacifying
+content/02.introduction.md:19:decalcifying
 content/02.introduction.md:20:decalcification
 content/02.introduction.md:20:intracortical
 content/02.introduction.md:20:microstructure
@@ -43,7 +43,6 @@ content/02.introduction.md:23:angiogenesis
 content/02.introduction.md:24:Microfil
 content/02.introduction.md:24:vascularization
 content/02.introduction.md:25:perfusing
-content/02.introduction.md:25:perfustion
 content/02.introduction.md:25:vasculature
 content/02.introduction.md:26:inhomogeneous
 content/02.introduction.md:29:Microfil
@@ -122,7 +121,6 @@ content/03.materials.methods.results.md:45:decalcification
 content/03.materials.methods.results.md:45:diaphysis
 content/03.materials.methods.results.md:45:EDTA
 content/03.materials.methods.results.md:45:microangioCT
-content/03.materials.methods.results.md:47:appers
 content/03.materials.methods.results.md:47:decalcification
 content/03.materials.methods.results.md:48:bmc
 content/03.materials.methods.results.md:48:decalcification
@@ -182,7 +180,6 @@ content/03.materials.methods.results.md:83:decalcification
 content/03.materials.methods.results.md:83:microvasculature
 content/03.materials.methods.results.md:85:microangioCT
 content/03.materials.methods.results.md:85:vasculature
-content/03.materials.methods.results.md:86:parallell
 content/03.materials.methods.results.md:86:pulpal
 content/03.materials.methods.results.md:87:dataset
 content/03.materials.methods.results.md:88:Sagittal
@@ -246,7 +243,7 @@ content/03.materials.methods.results.md:113:voxel
 content/03.materials.methods.results.md:114:microvessels
 content/03.materials.methods.results.md:114:minipig
 content/03.materials.methods.results.md:114:voxel
-content/03.materials.methods.results.md:116:agiogenesis
+content/03.materials.methods.results.md:116:angiogenesis
 content/03.materials.methods.results.md:116:Osseointegration
 content/03.materials.methods.results.md:120:angiogenesis
 content/03.materials.methods.results.md:120:implantology
@@ -254,12 +251,10 @@ content/03.materials.methods.results.md:120:peri
 content/03.materials.methods.results.md:123:microCT
 content/03.materials.methods.results.md:124:decalcification
 content/03.materials.methods.results.md:124:microstructure
-content/03.materials.methods.results.md:125:distiguising
 content/03.materials.methods.results.md:125:mineralized
 content/03.materials.methods.results.md:125:vasculature
 content/03.materials.methods.results.md:125:vasculature
 content/03.materials.methods.results.md:127:datasets
-content/03.materials.methods.results.md:127:distiguished
 content/03.materials.methods.results.md:128:decalcification
 content/03.materials.methods.results.md:130:mandibula
 content/03.materials.methods.results.md:130:microangioCT
