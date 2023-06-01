@@ -2,10 +2,10 @@
 title: MicroCT-based imaging of microvasculature within the bone tissue
 keywords:
 - microCT
-- contrastagent
+- contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2023-05-31'
+date-meta: '2023-06-01'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -14,7 +14,7 @@ author-meta:
 - Marianna Kruithof-de Julio
 - Stewart D. Ryan
 - Myriam Grunewald
-- Benjamin Bellon
+- Benjamin Bellón
 - Rebecca Sandgren
 - Benjamin E. Pippenger
 - Dieter Bosshardt
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-05-31" />
-  <meta name="citation_publication_date" content="2023-05-31" />
-  <meta property="article:published_time" content="2023-05-31" />
-  <meta name="dc.modified" content="2023-05-31T10:19:37+00:00" />
-  <meta property="article:modified_time" content="2023-05-31T10:19:37+00:00" />
+  <meta name="dc.date" content="2023-06-01" />
+  <meta name="citation_publication_date" content="2023-06-01" />
+  <meta property="article:published_time" content="2023-06-01" />
+  <meta name="dc.modified" content="2023-06-01T10:12:59+00:00" />
+  <meta property="article:modified_time" content="2023-06-01T10:12:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -64,9 +64,9 @@ header-includes: |
   <meta name="citation_author_institution" content="U-Vet Hospital, University of Melbourne Veterinary School, Werribee, Australia" />
   <meta name="citation_author_orcid" content="0000-0001-7016-771X" />
   <meta name="citation_author" content="Myriam Grunewald" />
-  <meta name="citation_author_institution" content="epartment of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel" />
+  <meta name="citation_author_institution" content="Department of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel" />
   <meta name="citation_author_orcid" content="0000-0001-5394-9218" />
-  <meta name="citation_author" content="Benjamin Bellon" />
+  <meta name="citation_author" content="Benjamin Bellón" />
   <meta name="citation_author_institution" content="Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland" />
   <meta name="citation_author_orcid" content="0000-0003-2297-9160" />
   <meta name="citation_author" content="Rebecca Sandgren" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/90cc2c40ff05945e53f3d30945f3915aefa88290/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/90cc2c40ff05945e53f3d30945f3915aefa88290/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/90cc2c40ff05945e53f3d30945f3915aefa88290/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,15 +112,15 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...c722906b2e784da8142291857065189763f24fcc#files_bucket) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...90cc2c40ff05945e53f3d30945f3915aefa88290#files_bucket) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c722906b2e784da8142291857065189763f24fcc/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/90cc2c40ff05945e53f3d30945f3915aefa88290/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@c722906](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/c722906b2e784da8142291857065189763f24fcc)
-on May 31, 2023.
+from [microct-ana-unibe-ch/microvasculature-manuscript@90cc2c4](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/90cc2c40ff05945e53f3d30945f3915aefa88290)
+on June 1, 2023.
 </em></small>
 
 
@@ -189,10 +189,10 @@ on May 31, 2023.
     [0000-0001-5394-9218](https://orcid.org/0000-0001-5394-9218)
     <br>
   <small>
-     epartment of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
+     Department of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
   </small>
 
-+ **Benjamin Bellon**
++ **Benjamin Bellón**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0003-2297-9160](https://orcid.org/0000-0003-2297-9160)
@@ -264,7 +264,7 @@ Oleksiy-Zakhar Khoma  contributed equally to this work.
 ## Abstract {.page_break_before}
 
 Angiogenesis is essential for skeletal development, bone healing and regeneration.
-Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue would benefit a multitude of research areas, especially implantology and tissue engineering. 
+Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue would benefit a multitude of research areas, especially implantology and tissue engineering.
 
 X-ray microtomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology.
 For the detection of vessels, using contrast-enhanced microCT imaging is essential.
@@ -524,7 +524,7 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 |Marianna Kruithof-de Julio|Resources; Writing – review & editing|
 |Stewart D. Ryan|Resources; Writing – review & editing|
 |Myriam Grunewald|Resources; Writing – review & editing|
-|Benjamin Bellon|Methodology; Writing – review & editing|
+|Benjamin Bellón|Methodology; Writing – review & editing|
 |Rebecca Sandgren|Resources; Writing – review & editing|
 |Benjamin E. Pippenger|Methodology; Writing – review & editing|
 |Dieter Bosshardt|Methodology; Writing – review & editing|
@@ -535,7 +535,7 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 |Author|Conflict|
 |---|---|
-|Benjamin Bellon|Employed by a company producing dental implants|
+|Benjamin Bellón|Employed by a company producing dental implants|
 |Benjamin E. Pippenger|Employed by a company producing dental implants|
 
 

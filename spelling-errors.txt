@@ -8,7 +8,7 @@ arteria
 avn
 Baltzerstrasse
 BD
-Bellon
+Bellón
 Bhargava
 biomaterials
 Bioptics
@@ -39,7 +39,6 @@ Djonov
 dTomato
 EDTA
 Ellegaard
-epartment
 epiphyseal
 epiphysis
 Ethylenediaminetetraacetic
@@ -65,8 +64,8 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-intravascular
-khoma
+Intravascular
+Khoma
 Kontich
 Kruithof
 kV
@@ -112,7 +111,7 @@ Pharma
 Pippenger
 PLV
 pre
-Preclinical
+preclinical
 preprint
 pulpal
 rayed
