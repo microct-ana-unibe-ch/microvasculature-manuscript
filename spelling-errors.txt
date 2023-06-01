@@ -1,5 +1,6 @@
+agiogenesis
 Angiofil
-angiogenesis
+Angiogenesis
 anisotropic
 antegrade
 antiangiogenic
@@ -18,7 +19,6 @@ Bosshardt
 Bruker
 cannula
 cannulated
-carotis
 confocal
 craniofacial
 CTvox
@@ -34,6 +34,8 @@ demineralized
 dentogingival
 Dexdomitor
 diaphysis
+distiguished
+distiguising
 distinguishably
 Djonov
 dTomato
@@ -43,7 +45,6 @@ epiphyseal
 epiphysis
 Ethylenediaminetetraacetic
 Euthanimal
-externa
 Faxitron
 Fumedica
 gingiva
@@ -78,7 +79,7 @@ Marianna
 medullar
 microangioCT
 microarchitecture
-microCT
+MicroCT
 Microfil
 microstructure
 microtomography
@@ -98,6 +99,7 @@ Organoid
 orofacial
 osseointegration
 paraformaldehyde
+parallell
 pentobarbital
 perfuse
 perfused
