@@ -27,7 +27,7 @@ Dalmose
 dataset
 datasets
 decacifying
-Decalcification
+decalcification
 decalcify
 decalcifying
 demineralized
@@ -64,7 +64,7 @@ intracortical
 intramuscularly
 intraosseous
 intratumoral
-Intravascular
+intravascular
 Khoma
 Kontich
 Kruithof
@@ -86,7 +86,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
