@@ -2,7 +2,7 @@
 title: "MicroCT-based imaging of microvasculature within the bone tissue"
 keywords:
   - microCT
-  - contrastagent
+  - contrast agent
   - microvasculature
 lang: en-US
 authors:
@@ -46,7 +46,7 @@ authors:
       - Writing – review & editing
   - name: Tim Hoessly
     initials: TH
-    orcid: 
+    orcid:
     email: tim.hoessly@unibe.ch
     affiliations:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
@@ -56,7 +56,7 @@ authors:
       - Writing – review & editing
   - name: Eugenio Zoni
     initials: EZ
-    orcid: 
+    orcid:
     email: eugenio.zoni@dbmr.unibe.ch
     affiliations:
       - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
@@ -71,7 +71,7 @@ authors:
     affiliations:
       - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
       - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
-      - Department for BioMedical Research, Translation Organoid Research, University of Bern, Bern, Switzerland    
+      - Department for BioMedical Research, Translation Organoid Research, University of Bern, Bern, Switzerland
     contributions:
       - Resources
       - Writing – review & editing
@@ -89,11 +89,11 @@ authors:
     orcid: 0000-0001-5394-9218
     email: myriamg@ekmd.huji.ac.il
     affiliations:
-     - epartment of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
+     - Department of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
     contributions:
       - Resources
       - Writing – review & editing
-  - name: Benjamin Bellon
+  - name: Benjamin Bellón
     initials: BB
     orcid: 0000-0003-2297-9160
     email: benjamin.bellon@straumann.com
