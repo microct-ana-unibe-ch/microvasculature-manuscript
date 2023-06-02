@@ -27,7 +27,6 @@ datasets
 decalcification
 decalcify
 decalcifying
-demineralized
 dentogingival
 Dexdomitor
 diaphysis
@@ -61,7 +60,7 @@ intramuscularly
 intraosseous
 intratumoral
 intravascular
-khoma
+Khoma
 Kontich
 Kruithof
 kV
@@ -74,7 +73,7 @@ Marianna
 medullar
 microangioCT
 microarchitecture
-microCT
+MicroCT
 Microfil
 microstructure
 microtomography
@@ -82,7 +81,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-Minipig
+minipig
 minipigs
 MIP
 Myriam
@@ -92,10 +91,9 @@ ol
 Oleksiy
 Organoid
 orofacial
-Osseointegration
+osseointegration
 paraformaldehyde
 pentobarbital
-perfuse
 perfused
 perfusing
 peri
@@ -106,7 +104,7 @@ Pharma
 Pippenger
 PLV
 pre
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
