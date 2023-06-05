@@ -73,7 +73,7 @@ Marianna
 medullar
 microangioCT
 microarchitecture
-MicroCT
+microCT
 Microfil
 microstructure
 microtomography
@@ -81,7 +81,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-minipig
+Minipig
 minipigs
 MIP
 Myriam
@@ -91,7 +91,7 @@ ol
 Oleksiy
 Organoid
 orofacial
-osseointegration
+Osseointegration
 paraformaldehyde
 pentobarbital
 perfused
@@ -104,7 +104,7 @@ Pharma
 Pippenger
 PLV
 pre
-Preclinical
+preclinical
 preprint
 pulpal
 rayed

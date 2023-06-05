@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2023-06-02'
+date-meta: '2023-06-05'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-06-02" />
-  <meta name="citation_publication_date" content="2023-06-02" />
-  <meta property="article:published_time" content="2023-06-02" />
-  <meta name="dc.modified" content="2023-06-02T09:51:33+00:00" />
-  <meta property="article:modified_time" content="2023-06-02T09:51:33+00:00" />
+  <meta name="dc.date" content="2023-06-05" />
+  <meta name="citation_publication_date" content="2023-06-05" />
+  <meta property="article:published_time" content="2023-06-05" />
+  <meta name="dc.modified" content="2023-06-05T15:05:46+00:00" />
+  <meta property="article:modified_time" content="2023-06-05T15:05:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/deef4da68ab4a963c579217704f03d6c6ce414ae/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/deef4da68ab4a963c579217704f03d6c6ce414ae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/deef4da68ab4a963c579217704f03d6c6ce414ae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7905d2aa6be18baec3de21df78027bb2528e8f02/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7905d2aa6be18baec3de21df78027bb2528e8f02/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7905d2aa6be18baec3de21df78027bb2528e8f02/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -112,15 +112,15 @@ manubot-clear-requests-cache: false
 
 _A preprint of this manuscript is available at bioRχiv with the [doi:10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 _We submitted [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of the manuscript to [Small Methods](http://www.small-methods.com/)._
-_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...deef4da68ab4a963c579217704f03d6c6ce414ae#files_bucket) since submission._
+_The version you see here [has been updated](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...7905d2aa6be18baec3de21df78027bb2528e8f02#files_bucket) since submission._
 
 
 <small><em>
 This manuscript
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/deef4da68ab4a963c579217704f03d6c6ce414ae/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7905d2aa6be18baec3de21df78027bb2528e8f02/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@deef4da](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/deef4da68ab4a963c579217704f03d6c6ce414ae)
-on June 2, 2023.
+from [microct-ana-unibe-ch/microvasculature-manuscript@7905d2a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/7905d2aa6be18baec3de21df78027bb2528e8f02)
+on June 5, 2023.
 </em></small>
 
 
@@ -310,9 +310,12 @@ These issues may be attributed to particle aggregation, as indicated by various 
 Although Microfil has probably been applied in a larger number of vasculature imaging studies than barium sulfate, Microfil was reported to have disadvantages like poor or incomplete filling of the vasculature [@doi:10.1186/s12882-016-0235-5; @doi:10.1016/j.bone.2011.09.051; @doi:10.3390/ijms22063263] or vascular damage [@doi:10.1002/jnr.24539].
 
 The problem of contrasting the vasculature becomes even further compounded in the presence of a metal implant.
-Such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016].
-Interactions occurring at the implant-tissue interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
-MicroCT is the only available approach to non-destructively investigate an intact bone-implant interface in 3D [@doi:10.1111/cpr.12578].
+Even though such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016], they are problematic for the tomographic image acquisition.
+Due to their large X-ray absorption, metal implants produce beam hardening, partial volume and low signal artefacts in the resulting tomographic datasets [@isbn:0819444251].
+Interactions occurring at the tissue-implant interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
+High resolution imaging of the tissue-implant interface is complicated due to the aforementioned artefacts from the metal implants.
+Imaging with increased acceleration voltage and at small resolutions alleviates the imaging artefacts and makes microCT imaging the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and at in close proximity to the implant surface (i.e. closer than 200 µn).
+<!-- Really this close? Oleksiy has to give some detailed input on this.-->
 
 Beyond studying the anatomy and physiology of angiogenesis and vasculature of the bone itself, the contribution of the vascular component in the healing process around bone-borne implants is also considered an area of study meriting further experimentation [@doi:10.1152/ajpcell.00195.2022; @doi:10.1111/jcpe.12424].
 To date, only few studies tried to assess and visualize the vasculature surrounding implants using microCT imaging, for examples see [@doi:10.1016/j.cellsig.2020.109873], where Wang et al. assessed a region of 100 μm around the implant surface and [@doi:10.1038/s41592-021-01363-5], where Bhargava et al. present VascuViz, a pipeline for vascular systems biology and compare it to other vascular imaging workflows.
@@ -557,6 +560,9 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 
 ## Acknowledgments
 
+<!--
+Which lab personnel can we acknowledge?
+-->
 
 ## Supplementary Materials
 
