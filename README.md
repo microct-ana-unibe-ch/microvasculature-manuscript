@@ -4,6 +4,7 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf)
+[![DOCX Manuscript](https://img.shields.io/badge/manuscript-DOCX-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/raw/output/manuscript.docx)
 [![GitHub Actions Status](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/workflows/Manubot/badge.svg)](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/actions)
 
 ## Manuscript description
