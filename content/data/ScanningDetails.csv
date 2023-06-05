@@ -1,0 +1,2 @@
+,LogFile,Scanner,Software,Voxelsize,Voxelsize_rounded,Source,Camera,Exposure,Averaging,Voltage,Current,Filter,Stacks,NumProj,ProjSize,RotationStep,Wide,Version,RingRemoval,Beamhardening,DefectPixelMasking,GrayValue,RecSize,ROI,Duration,Date
+0,Ruslan_sample4_2214\rec\Ruslan_sample4_2214__rec.log,SkyScan 2214,1.0.0,8.000292,8.0,Hamamatsu L10711,"FlatPanel: 2...50um, 6...140mm FOV",1080,4,100.0,100.0,Cu 1mm,1,2001,"(2929, 1944)",0.18,False,"('NRecon', '1.7.4.2')",11,15,0,0.03,"(2928, 2928)",False,16379.0,2018-07-20 01:34:06
