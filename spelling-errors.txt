@@ -81,7 +81,7 @@ microvascular
 microvasculature
 microvessels
 mineralized
-Minipig
+minipig
 minipigs
 MIP
 Myriam
@@ -104,7 +104,7 @@ Pharma
 Pippenger
 PLV
 pre
-preclinical
+Preclinical
 preprint
 pulpal
 rayed
