@@ -325,3 +325,13 @@ content/04.discussion.md:45:voxel
 content/04.discussion.md:46:microvessels
 content/04.discussion.md:48:implantology
 content/04.discussion.md:48:microCT
+content/08.supplementary.md:5:csv
+content/08.supplementary.md:5:csv
+content/08.supplementary.md:5:CSV
+content/08.supplementary.md:5:microct
+content/08.supplementary.md:5:microvasculature
+content/08.supplementary.md:5:ScanningDetails
+content/08.supplementary.md:5:ScanningDetails
+content/08.supplementary.md:6:habi
+content/08.supplementary.md:7:microct
+content/08.supplementary.md:7:microvasculature
