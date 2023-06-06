@@ -19,7 +19,7 @@ cannula
 cannulated
 confocal
 craniofacial
-csv
+CSV
 CTvox
 curation
 Dalmose
@@ -92,7 +92,7 @@ ol
 Oleksiy
 Organoid
 orofacial
-osseointegration
+Osseointegration
 paraformaldehyde
 pentobarbital
 perfused
