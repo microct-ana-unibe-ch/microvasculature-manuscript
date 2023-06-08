@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2023-06-06'
+date-meta: '2023-06-08'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-06-06" />
-  <meta name="citation_publication_date" content="2023-06-06" />
-  <meta property="article:published_time" content="2023-06-06" />
-  <meta name="dc.modified" content="2023-06-06T15:00:25+00:00" />
-  <meta property="article:modified_time" content="2023-06-06T15:00:25+00:00" />
+  <meta name="dc.date" content="2023-06-08" />
+  <meta name="citation_publication_date" content="2023-06-08" />
+  <meta property="article:published_time" content="2023-06-08" />
+  <meta name="dc.modified" content="2023-06-08T09:13:12+00:00" />
+  <meta property="article:modified_time" content="2023-06-08T09:13:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/35a8bc74b38c7e557fb98e42b9b695036703b4dc/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/35a8bc74b38c7e557fb98e42b9b695036703b4dc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/35a8bc74b38c7e557fb98e42b9b695036703b4dc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/38e4e243e95617b9783a9bb98a1a66656ec1ccdc/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/38e4e243e95617b9783a9bb98a1a66656ec1ccdc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/38e4e243e95617b9783a9bb98a1a66656ec1ccdc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/35a8bc74b38c7e557fb98e42b9b695036703b4dc/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/38e4e243e95617b9783a9bb98a1a66656ec1ccdc/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@35a8bc7](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/35a8bc74b38c7e557fb98e42b9b695036703b4dc)
-on June 6, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...35a8bc74b38c7e557fb98e42b9b695036703b4dc#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@38e4e24](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/38e4e243e95617b9783a9bb98a1a66656ec1ccdc)
+on June 8, 2023.
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...38e4e243e95617b9783a9bb98a1a66656ec1ccdc#files_bucket).
 </em></small>
 
 
@@ -281,7 +281,7 @@ Our manuscript introduces the first non-destructive approach for 3D imaging of t
 ## Introduction {.page_break_before}
 
 Angiogenesis is an essential physiological vascularization process for skeletal development and growth as well as for bone healing and regeneration.
-This formation of new blood vessels from pre-existing vessels is crucial for successful bone formation and repair [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106, @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
+This formation of new blood vessels from preexisting vessels is crucial for successful bone formation and repair [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106, @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
 In addition to carrying nutrients and growth factors, those newly formed blood vessels are a delivery route of stem cells and progenitor cells to the bone-defect site [@doi:10.1016/j.actbio.2018.07.050; @doi:10.1016/j.actbio.2019.02.021; @doi:10.3389/fbioe.2017.00068].
 The structural nature of skeletal tissue makes three-dimensional (3D) imaging of its vasculature extremely difficult.
 Histology, a destructive and two-dimensional approach, still remains a gold standard for assessing vasculature in bones [@doi:10.1038/s41598-017-13632-5].
@@ -367,7 +367,7 @@ As presented in our other study, we were able to quantitatively show that the ag
 ### Decalcification of the µAngiofil-perfused murine tibia
 
 It is practically the standard in the field to decalcify the bone samples to enable the proper visualization and segmentation of vasculature within bone tissue [@doi:10.1038/s41598-017-13632-5; @doi:10.1016/j.bone.2011.09.051].
-We successfully established a bone-decalcifying protocol (for murine hind limb) with 10% Ethylenediaminetetraacetic acid (EDTA) solution [@doi:10.1038/srep41842] by adapting previous work [@doi:10.1002/jemt.20720].
+We successfully established a bone-decalcifying protocol (for murine hind limb) with 10% ethylenediaminetetraacetic acid (EDTA) solution [@doi:10.1038/srep41842] by adapting previous work [@doi:10.1002/jemt.20720].
 Decalcification of bone tissue does not negatively influence the bone structure itself, but reduces the X-ray absorption of bone tissue and thus makes it impossible to visualize simultaneously with the vasculature (Fig. @fig:2).
 
 <--! More about the method here -->
@@ -384,7 +384,7 @@ Furthermore, segmentation of the vasculature in the tomographic datasets becomes
 ![**microangioCT-based visualization of the diaphysis of murine tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
   In A and A' the tibia bone appears brighter and opaque due to higher X-ray absorption.
   In B and B' the tibia bone appears transparent due to its lowered X-ray absorption after decalcification.
-  Due to the decalcification, connecting vessels between the periostal vessels and the vessels of the bone marrow cavity (bmc) are more easily detectable (blue arrows in A vs. B).
+  Due to the decalcification, connecting vessels between the periosteal vessels and the vessels of the bone marrow cavity (bmc) are more easily detectable (blue arrows in A vs. B).
   The visualization of the vessels within the medullar cavity (*central sinus* (CS)) is also improved.
   At the external surface of the tibia, supplying arteries are visible (*arteria et vena nutricia* (avn)).](images/Fig2_Decalcification.png){#fig:2}
 
@@ -444,7 +444,7 @@ The microvasculature of murine mandible, periodontal ligament, and the teeth (ev
 The Göttingen Minipig is widely recognized as a valuable animal model in preclinical dental and orofacial research, mainly because of its anatomical similarities to humans [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
 Its bone structure and bone remodeling processes closely resemble those of humans, further enhancing its suitability for such studies.
 
-Göttingen minipigs (Ellegaard Göttingen Minipig, Dalmose, Denmark) were intramuscularly anesthetized (25--35 mg/kg, Dexdomitor; Orion Pharma Animal Health and 50--70 mg/kg, Zoletil 100 Vet, Virbac) and intravenously heparinized with 300 IE/kg (Heparin LEO, LEO Pharma).
+Göttingen minipigs (Ellegaard Göttingen Minipig, Dalmose, Denmark) were anesthetized intramuscularly (25--35 mg/kg, Dexdomitor; Orion Pharma Animal Health and 50--70 mg/kg, Zoletil 100 Vet, Virbac) and intravenously heparinized with 300 IE/kg (Heparin LEO, LEO Pharma).
 After heparin infusion, the pigs were euthanized with an intravenous dose (100 mg/kg) of pentobarbital (Euthanimal vet, VM Pharma).
 The external carotid artery was accessed by blunt dissection through tissue of the ventral neck and cannulated (BD Venflon, 17G).
 After washing out the blood with PBS, the corresponding head side was selectively perfused with µAngiofil through the arterial tree.
