@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-13" />
   <meta name="citation_publication_date" content="2023-06-13" />
   <meta property="article:published_time" content="2023-06-13" />
-  <meta name="dc.modified" content="2023-06-13T13:23:55+00:00" />
-  <meta property="article:modified_time" content="2023-06-13T13:23:55+00:00" />
+  <meta name="dc.modified" content="2023-06-13T15:56:34+00:00" />
+  <meta property="article:modified_time" content="2023-06-13T15:56:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/25bcb5ac9bf864baec87c067e6573f5af3e9ba1f/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/25bcb5ac9bf864baec87c067e6573f5af3e9ba1f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/25bcb5ac9bf864baec87c067e6573f5af3e9ba1f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/25bcb5ac9bf864baec87c067e6573f5af3e9ba1f/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@7b75b3e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c)
+from [microct-ana-unibe-ch/microvasculature-manuscript@25bcb5a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/25bcb5ac9bf864baec87c067e6573f5af3e9ba1f)
 on June 13, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...7b75b3e16d9927dac3d8e2a74a1ac3c57e28802c#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...25bcb5ac9bf864baec87c067e6573f5af3e9ba1f#files_bucket).
 </em></small>
 
 
@@ -313,8 +313,7 @@ Even though such implants have revolutionized the treatment of patients with mis
 Due to their large X-ray absorption, metal implants produce beam hardening, partial volume and low signal artifacts in the resulting tomographic datasets [@isbn:0819444251].
 Interactions occurring at the tissue-implant interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
 High resolution imaging of the tissue-implant interface is complicated due to the aforementioned artifacts from the metal implants.
-Imaging with increased acceleration voltage and at small resolutions alleviates the imaging artifacts and makes microCT imaging the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and at in close proximity to the implant surface (i.e. closer than 200 µn).
-<!-- Really this close? Oleksiy has to give some detailed input on this.-->
+Imaging with increased acceleration voltage and at small resolutions alleviates the imaging artifacts and makes microCT imaging the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and at close proximity to the implant surface (i.e. closer than 100 µm).
 
 Beyond studying the anatomy and physiology of angiogenesis and vasculature of the bone itself, the contribution of the vascular component in the healing process around bone-borne implants is also considered an area of study meriting further experimentation [@doi:10.1152/ajpcell.00195.2022; @doi:10.1111/jcpe.12424].
 To date, only few studies tried to assess and visualize the vasculature surrounding implants using microCT imaging, for examples see [@doi:10.1016/j.cellsig.2020.109873], where Wang et al. assessed a region of 100 μm around the implant surface and [@doi:10.1038/s41592-021-01363-5], where Bhargava et al. present VascuViz, a pipeline for vascular systems biology and compare it to other vascular imaging workflows.
@@ -370,7 +369,9 @@ It is practically the standard in the field to decalcify the bone samples to ena
 We successfully established a bone-decalcifying protocol (for murine hind limb) with 10% ethylenediaminetetraacetic acid (EDTA) solution [@doi:10.1038/srep41842] by adapting previous work [@doi:10.1002/jemt.20720].
 Decalcification of bone tissue does not negatively influence the bone structure itself, but reduces the X-ray absorption of bone tissue and thus makes it impossible to visualize simultaneously with the vasculature (Fig. @fig:2).
 
-<--! More about the method here -->
+<!---
+More about the method here
+--->
 
 On the other hand, it enables tomographic imaging of the murine hind limb vasculature with less artifacts around the bone at lower acceleration voltages, which in most instances leads to shorter scanning times.
 These samples were imaged with a SKYSCAN 1172, all relevant parameters are given in the [Supplementary Materials].
@@ -422,10 +423,15 @@ This is due to the location of most of the vessels within the bone canals or in 
 This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
 Nonetheless, with the improved perfusion protocol mentioned above and a well visualized difference between the X-ray absorption levels of µAngiofil and mineralized bone tissue, we achieved appropriate imaging of such samples.
 
-<--! More about the method here -->
+<!---
+More about the method here
+--->
 
 The mouse teeth were imaged using a desktop microCT scanner SKYSCAN 1272 (Fig. @fig:4), all relevant parameters are given in the [Supplementary Materials].
-Very briefly, this scan was performed with an X-ray source acceleration voltage of 80 kV.<--! AT WHICH CURRENT? "and an X-ray source current of XXX µA."-->
+Very briefly, this scan was performed with an X-ray source acceleration voltage of 80 kV.
+<!---
+AT WHICH CURRENT? "and an X-ray source current of XXX µA."
+--->
 The X-rays were filtered by 0.2 mm of aluminum prior to incidence onto the sample.
 The sample was rotated over totally 360° with one projection acquired at each 0.1° and 4 projections were averaged.
 This resulted in an isometric voxel size of 1.0 µm.
@@ -472,9 +478,9 @@ Our approach provides excellent imaging of the whole mandible vasculature down t
   Due to the voxel size of 8--9 µm, microvessels with diameter of 40 µm or less cannot be visualized in such large samples.](images/Fig5_Vreni jaw minipig.png){#fig:5}
 
 Osseointegration of implants is influenced by angiogenesis.
-<!--
+<!---
 Can we cite https://www.mdpi.com/1996-1944/14/7/1678 here?
--->
+--->
 As such, studying angiogenesis and, correspondingly the vascular supply of the peri-implant tissue in detail is important for dental research and many implantology studies.
 So far, the only reliable approach to assess the vascular supply remains histology, limited to single two-dimensional sections.
 
