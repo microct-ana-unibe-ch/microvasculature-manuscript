@@ -1,39 +1,46 @@
-Figure,Sample name,Scanner,Control software version,Scan date,Voxelsize [μm],X-ray source,Source voltage [kV],Source current [μA],Filter,Projection size,Rotation step [°],Exposure time [ms],Frame avearaging,Stacked scans,Overlap scans,Scan duration [s],NRecon version,Ring removal correction,Beam hardening correction
-2,Maus_Hinterbein1_4thScan_EDTA3plus4Tage_11Okt2017_NoF_1_65um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-27 17:41:07,1.66,Hamamatsu 100/250,49.0,167.0,False,"(4000, 2672)",0.1,875,2,1,False,15852.0,1.7.1.0,8,80
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_1_65um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-27 01:39:53,1.66,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13973.0,1.7.1.0,10,0
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 12:35:57,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-24 17:10:26,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-24 21:03:32,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 00:56:38,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13973.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 04:49:44,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13973.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 08:42:51,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13975.0,,False,False
-2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 12:35:57,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 12:58:02,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,1.7.1.0,10,20
-2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 01:18:38,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 05:11:46,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 09:04:54,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 12:58:02,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",0.1,1740,2,1,False,13974.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15784.0,1.7.4.2,17,0
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15784.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15784.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15784.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-07 03:20:19,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15783.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-07 07:48:38,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15781.0,,False,False
-3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",0.1,2800,3,1,False,15784.0,1.7.4.2,17,0
-3,c1m5_6_56um_70kv_al05,SkyScan 1172 (Version F),1.5 (build 23),2018-03-16 08:25:50,6.64,Hamamatsu 100/250,70.0,141.0,Al 0.5 mm,"(4000, 2672)",0.1,6355,4,1,False,61914.0,1.7.1.0,20,25
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",0.15,225,5,1,2,14868.0,1.7.4.2,10,0
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",0.15,225,5,1,2,14868.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14868.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14868.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",0.15,225,5,1,2,14782.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14782.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14782.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:19,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",0.15,225,5,1,2,14461.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14461.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",0.15,225,5,1,2,14461.0,,False,False
-5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",0.15,225,5,1,2,14868.0,1.7.4.2,10,0
-6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",0.18,1080,4,1,False,16379.0,1.7.4.2,11,15
-6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",0.18,1080,4,1,False,16379.0,,False,False
-6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 06:15:19,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",0.18,1080,4,1,False,16567.0,,False,False
-6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 11:26:00,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",0.18,1080,4,1,False,18327.0,,False,False
-6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",0.18,1080,4,1,False,16379.0,1.7.4.2,11,15
+Figure,Sample name,Scanner,Control software version,Scan date,Voxelsize [μm],X-ray source,Source voltage [kV],Source current [μA],Filter,Projection size,360°-scan,Rotation step [°],Frame averaging,Exposure time [ms],Stacked scans,Overlap scans,Scan duration [s],NRecon version,Ring removal correction,Beam hardening correction
+1,Mouse_Israel_C2_2.98um_LeftLeg,SkyScan 1172 (Version F),1.5 (build 26),2018-10-05 16:33:22,2.99,Hamamatsu 100/250,49.0,200.0,False,"(4000, 2672)",True,0.05,3,985,1,False,42809.0,,False,False
+1,Mouse_Israel_C2_2.98um_LeftLeg,SkyScan 1172 (Version F),1.5 (build 26),2018-10-05 04:39:42,2.99,Hamamatsu 100/250,49.0,200.0,False,"(4000, 2672)",True,0.05,3,985,1,False,42810.0,,False,False
+1,Mouse_Israel_C2_2.98um_LeftLeg,SkyScan 1172 (Version F),1.5 (build 26),2018-10-05 16:33:22,2.99,Hamamatsu 100/250,49.0,200.0,False,"(4000, 2672)",True,0.05,3,985,1,False,42809.0,,False,False
+2,EDTA3_Tage_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-17 16:08:53,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,EDTA3_Tage_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-17 04:29:33,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,EDTA3_Tage_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-17 08:22:39,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,EDTA3_Tage_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-17 12:15:45,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13973.0,,False,False
+2,EDTA3_Tage_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-17 16:08:53,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 12:35:57,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-24 17:10:26,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-24 21:03:32,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 00:56:38,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13973.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 04:49:44,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13973.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 08:42:51,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13975.0,,False,False
+2,Maus_Hinterbein1_thirdScan_EDTA3plus4Tage_11Okt2017_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-25 12:35:57,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 12:58:02,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,1.7.1.0,10,20
+2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 01:18:38,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 05:11:46,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 09:04:54,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+2,Maus_Hinterbein_11OKT17_Al025um_3_18um,SkyScan 1172 (Version F),1.5 (build 23),2017-11-09 12:58:02,3.19,Hamamatsu 100/250,59.0,167.0,Al0.25mm,"(4000, 2672)",False,0.1,2,1740,1,False,13974.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15784.0,1.7.4.2,17,0
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15784.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15784.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15784.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-07 03:20:19,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15783.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-07 07:48:38,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15781.0,,False,False
+3,c1m5_1_65um_al025,SkyScan 1272,1.1.19,2018-11-06 22:51:58,1.65,Hamamatsu L11871_20,60.0,166.0,Al 0.25mm,"(4904, 3280)",False,0.1,3,2800,1,False,15784.0,1.7.4.2,17,0
+4,Mouse_kiefer_0_99um_VOI,SkyScan 1172 (Version F),1.5 (build 23),2016-11-20 02:16:10,1.0,Hamamatsu 100/250,80.0,124.0,Al 0.5 mm,"(4000, 2672)",True,0.1,4,6260,1,False,28015.0,1.6.10.2,10,90
+4,Mouse_kiefer_0_99um_VOI,SkyScan 1172 (Version F),1.5 (build 23),2016-11-20 02:16:10,1.0,Hamamatsu 100/250,80.0,124.0,Al 0.5 mm,"(4000, 2672)",True,0.1,4,6260,1,False,28015.0,1.6.10.2,10,90
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14868.0,1.7.4.2,10,0
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14868.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14868.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14868.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14782.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14782.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 18:43:06,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14782.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:19,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14461.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14461.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14461.0,,False,False
+5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14868.0,1.7.4.2,10,0
+6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16379.0,1.7.4.2,11,15
+6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16379.0,,False,False
+6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 06:15:19,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16567.0,,False,False
+6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 11:26:00,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,18327.0,,False,False
+6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16379.0,1.7.4.2,11,15
