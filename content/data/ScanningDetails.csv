@@ -39,6 +39,13 @@ Figure,Sample name,Scanner,Control software version,Scan date,Voxelsize [μm],X-
 5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14461.0,,False,False
 5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 22:58:20,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.15,5,225,1,2,14461.0,,False,False
 5,Vreni_Jaw_Jul19_AL1mm-Cu02mm_100kV_9um_OFFSET_,SkyScan 1273,1.1,2019-07-20 14:23:14,9.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(4832, 1944)",True,0.15,5,225,1,2,14868.0,1.7.4.2,10,0
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-21 17:48:28,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10915.0,1.7.4.2,13,0
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-21 17:48:28,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10915.0,,False,False
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-21 20:54:04,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10840.0,,False,False
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-22 00:01:02,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10922.0,,False,False
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-22 03:08:09,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10924.0,,False,False
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-22 06:15:13,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10921.0,,False,False
+5,Vreni_Jaw_Jul20_AL1mm-Cu02mm_100kV_21um,SkyScan 1273,1.1,2019-07-21 17:48:28,21.0,Hamamatsu L9181-02,100.0,80.0,Al1mm+Cu0.2mm,"(3072, 1944)",True,0.1,5,225,1,False,10915.0,1.7.4.2,13,0
 6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16379.0,1.7.4.2,11,15
 6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 01:34:06,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16379.0,,False,False
 6,Ruslan_sample4_2214,SkyScan 2214,1.0.0,2018-07-20 06:15:19,8.0,Hamamatsu L10711,100.0,100.0,Cu 1mm,"(2929, 1944)",True,0.18,4,1080,1,False,16567.0,,False,False
