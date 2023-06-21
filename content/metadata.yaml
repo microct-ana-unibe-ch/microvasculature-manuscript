@@ -52,7 +52,6 @@ authors:
       - Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
     contributions:
       - Data curation
-      - Investigation
       - Writing – review & editing
   - name: Eugenio Zoni
     initials: EZ
@@ -62,6 +61,8 @@ authors:
       - Department for BioMedical Research, Urology Research Laboratory, University of Bern, Bern, Switzerland
       - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
     contributions:
+      - Investigation
+      - Methodology
       - Resources
       - Writing – review & editing
   - name: Marianna Kruithof-de Julio
@@ -73,6 +74,7 @@ authors:
       - Department of Urology, Inselspital, Bern University Hospital, Bern, Switzerland
       - Department for BioMedical Research, Translation Organoid Research, University of Bern, Bern, Switzerland
     contributions:
+      - Methodology
       - Resources
       - Writing – review & editing
   - name: Stewart D. Ryan
@@ -91,6 +93,8 @@ authors:
     affiliations:
      - Department of Developmental Biology and Cancer Research, Faculty of Medicine, The Hebrew University, Organoid Research Center, Hadassah University Hospital, Jerusalem, Israel
     contributions:
+      - Investigation
+      - Methodology
       - Resources
       - Writing – review & editing
   - name: Benjamin Bellón
@@ -100,6 +104,7 @@ authors:
     affiliations:
       - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
     contributions:
+      - Investigation
       - Methodology
       - Writing – review & editing
     conflict:
@@ -111,7 +116,7 @@ authors:
     affiliations:
       - Centre for Comparative Medicine, Medical Faculty, Lund University, Lund, Sweden
     contributions:
-      - Resources
+      - Investigation
       - Writing – review & editing
   - name: Benjamin E. Pippenger
     initials: BP
@@ -121,7 +126,10 @@ authors:
       - Preclinical and Translational Research, Institut Straumann AG, Basel, Switzerland
       - Department of Periodontology, University of Bern, Bern, Switzerland
     contributions:
+      - Funding acquisition
+      - Investigation
       - Methodology
+      - Resources
       - Writing – review & editing
     conflict:
       - Employed by a company producing dental implants
@@ -143,7 +151,7 @@ authors:
     contributions:
       - Conceptualization
       - Funding acquisition
-      - Supervision
+      - Resources
       - Writing – review & editing
   - name: Ruslan Hlushchuk
     initials: RH
@@ -158,8 +166,10 @@ authors:
       - Investigation
       - Methodology
       - Project administration
+      - Resources
       - Supervision
       - Validation
+      - Visualization
       - Writing – original draft
       - Writing – review & editing
     corresponding: true
