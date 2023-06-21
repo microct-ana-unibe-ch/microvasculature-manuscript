@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-21" />
   <meta name="citation_publication_date" content="2023-06-21" />
   <meta property="article:published_time" content="2023-06-21" />
-  <meta name="dc.modified" content="2023-06-21T07:57:35+00:00" />
-  <meta property="article:modified_time" content="2023-06-21T07:57:35+00:00" />
+  <meta name="dc.modified" content="2023-06-21T10:37:19+00:00" />
+  <meta property="article:modified_time" content="2023-06-21T10:37:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/504c74c8176b1e45ec0864f11747212134bf18a1/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/504c74c8176b1e45ec0864f11747212134bf18a1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/504c74c8176b1e45ec0864f11747212134bf18a1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/504c74c8176b1e45ec0864f11747212134bf18a1/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@504c74c](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/504c74c8176b1e45ec0864f11747212134bf18a1)
+from [microct-ana-unibe-ch/microvasculature-manuscript@ce56070](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ce560700320c872e14ec94c36865d0f43183545a)
 on June 21, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...504c74c8176b1e45ec0864f11747212134bf18a1#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...ce560700320c872e14ec94c36865d0f43183545a#files_bucket).
 </em></small>
 
 
@@ -567,17 +567,17 @@ Nonetheless, the presented approach is, according to our knowledge, the best wha
 |---|---|
 |David Haberthür|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
 |Oleksiy-Zakhar Khoma|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|Tim Hoessly|Data curation; Investigation; Writing – review & editing|
-|Eugenio Zoni|Resources; Writing – review & editing|
-|Marianna Kruithof-de Julio|Resources; Writing – review & editing|
+|Tim Hoessly|Data curation; Writing – review & editing|
+|Eugenio Zoni|Investigation; Methodology; Resources; Writing – review & editing|
+|Marianna Kruithof-de Julio|Methodology; Resources; Writing – review & editing|
 |Stewart D. Ryan|Resources; Writing – review & editing|
-|Myriam Grunewald|Resources; Writing – review & editing|
-|Benjamin Bellón|Methodology; Writing – review & editing|
-|Rebecca Sandgren|Resources; Writing – review & editing|
-|Benjamin E. Pippenger|Methodology; Writing – review & editing|
+|Myriam Grunewald|Investigation; Methodology; Resources; Writing – review & editing|
+|Benjamin Bellón|Investigation; Methodology; Writing – review & editing|
+|Rebecca Sandgren|Investigation; Writing – review & editing|
+|Benjamin E. Pippenger|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
 |Dieter Bosshardt|Methodology; Writing – review & editing|
-|Valentin Djonov|Conceptualization; Funding acquisition; Supervision; Writing – review & editing|
-|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Supervision; Validation; Writing – original draft; Writing – review & editing|
+|Valentin Djonov|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
+|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
 
 
 ## Conflicts of interest {.page_break_before}
