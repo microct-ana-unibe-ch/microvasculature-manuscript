@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-21" />
   <meta name="citation_publication_date" content="2023-06-21" />
   <meta property="article:published_time" content="2023-06-21" />
-  <meta name="dc.modified" content="2023-06-21T10:37:19+00:00" />
-  <meta property="article:modified_time" content="2023-06-21T10:37:19+00:00" />
+  <meta name="dc.modified" content="2023-06-21T15:25:54+00:00" />
+  <meta property="article:modified_time" content="2023-06-21T15:25:54+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a17f61e14db1fda43ada0e0e4982cf78a47cf694/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a17f61e14db1fda43ada0e0e4982cf78a47cf694/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a17f61e14db1fda43ada0e0e4982cf78a47cf694/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce560700320c872e14ec94c36865d0f43183545a/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a17f61e14db1fda43ada0e0e4982cf78a47cf694/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@ce56070](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ce560700320c872e14ec94c36865d0f43183545a)
+from [microct-ana-unibe-ch/microvasculature-manuscript@a17f61e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/a17f61e14db1fda43ada0e0e4982cf78a47cf694)
 on June 21, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...ce560700320c872e14ec94c36865d0f43183545a#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...a17f61e14db1fda43ada0e0e4982cf78a47cf694#files_bucket).
 </em></small>
 
 
@@ -456,23 +456,16 @@ After washing out the blood with PBS, the corresponding head side was selectivel
 The perfusion was visually monitored equivalent to the previously described perfusion in mice.
 After polymerization of µAngiofil (\~30 min), the mandible was excised and fixated in 4% PFA solution.
 
-
-Mandibles were then scanned using SKYSCAN 1273 (Fig. @fig:5, panel A) or SKYSCAN 2214 (Fig. @fig:5, panel B and C).
-The scan for panel A was performed with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 80 µA.
+Mandibles were then scanned with a SKYSCAN 1273 (Fig. @fig:5).
+The scans were performed with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 80 µA.
 The X-rays were filtered by 1 mm of aluminum and 0.2 mm of copper prior to incidence onto the sample.
-Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.15° and 4 projections being averaged for noise reduction.
-Two horizontally overlapping projections were stitched to one projection with a size of 4832 x 1944 px to increase the imaged sample volume.
-Each projection image was exposed for 6260 ms.
+For the visualization shown in panel A, we recorded projection images with a size of 3072 x 1944 pixels over a sample rotation of 360°, with one projection acquired at each 0.1° and 5 projections being averaged for noise reduction.
+Each projection image was exposed for 225 ms.
+This resulted in an isometric voxel size of 21 µm.
+For the visualizations shown in panels B and C, the sample was rotated over totally 360° with one projection acquired at each 0.15° and 5 projections were averaged.
+In addition, two horizontally overlapping projections were stitched to one projection with a size of 4832 x 1944 px to increase the imaged sample volume.
+Each projection image was exposed for 225 ms.
 This resulted in an isometric voxel size of 9 µm.
-For the data shown in panels B and C, the scan was performed with an X-ray source acceleration voltage of 100 kV and an X-ray t current of 100 µA.
-The X-rays were filtered by 1 mm of copper prior to incidence onto the sample.
-The sample was rotated over totally 360° with one projection acquired at each 0.18° and 4 projections were averaged.
-This resulted in an isometric voxel size of 8 µm.
-<!---
-No logfiles for B and C are not there yet!
---->
-
-Our approach provides excellent imaging of the whole mandible vasculature down to the vessels within the root canals and pulp chamber (Fig. @fig:5).
 
 ![**microangioCT of the minipig mandibula.**
   Panel A displays the visualization of a right minipig hemimandible.
