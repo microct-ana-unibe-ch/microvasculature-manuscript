@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2023-06-29'
+date-meta: '2023-06-30'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-06-29" />
-  <meta name="citation_publication_date" content="2023-06-29" />
-  <meta property="article:published_time" content="2023-06-29" />
-  <meta name="dc.modified" content="2023-06-29T15:23:02+00:00" />
-  <meta property="article:modified_time" content="2023-06-29T15:23:02+00:00" />
+  <meta name="dc.date" content="2023-06-30" />
+  <meta name="citation_publication_date" content="2023-06-30" />
+  <meta property="article:published_time" content="2023-06-30" />
+  <meta name="dc.modified" content="2023-06-30T09:48:21+00:00" />
+  <meta property="article:modified_time" content="2023-06-30T09:48:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5fcb06820d30dce9a74cb52ecee9b6f8b8974afc/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5fcb06820d30dce9a74cb52ecee9b6f8b8974afc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5fcb06820d30dce9a74cb52ecee9b6f8b8974afc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/9a597394d072dac37390000d9381999fadeb78e5/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/9a597394d072dac37390000d9381999fadeb78e5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/9a597394d072dac37390000d9381999fadeb78e5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5fcb06820d30dce9a74cb52ecee9b6f8b8974afc/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/9a597394d072dac37390000d9381999fadeb78e5/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@5fcb068](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/5fcb06820d30dce9a74cb52ecee9b6f8b8974afc)
-on June 29, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...5fcb06820d30dce9a74cb52ecee9b6f8b8974afc#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@9a59739](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/9a597394d072dac37390000d9381999fadeb78e5)
+on June 30, 2023.
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...9a597394d072dac37390000d9381999fadeb78e5#files_bucket).
 </em></small>
 
 
@@ -312,6 +312,10 @@ Complete filling of the vasculature is an essential part of a thorough assessmen
 In the study of tumor models [@doi:10.1007/978-1-4939-3999-2_2], assessing and non-destructively imaging tumor vasculature in 3D is a challenging task.
 Due to the intraosseous location of tumor lesions, 3D microvascular imaging is even more challenging in a bone metastatic disease model.
 Since changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, simultaneous imaging of bone and vasculature is even more crucial.
+This simultaneous assessment and 3D imaging of bone and (tumor) vasculature is a challenging task, in almost every tumor model [@doi:10.1007/978-1-4939-3999-2_2].
+The desire to simultaneously assess existing bone defects makes a decalcification step highly unfavorable.
+It is thus paramount to develop an imaging method allowing for the assessment of tumor vasculature in the bone without relying on such a decalcification step.
+In this manuscript, we present such a method for visualizing intratumoral vasculature and extensive defects in  mineralized bone tissue.
 
 The problem of contrasting the vasculature becomes even further compounded in the presence of a metal implant.
 Even though such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016], they are problematic for the tomographic image acquisition.
@@ -373,15 +377,12 @@ These tomographic datasets were also used in another study [@doi:10.1126/science
 
 ### Decalcification of the µAngiofil-perfused murine tibia
 
-It is practically the standard in the field to decalcify the bone samples to enable the proper visualization and segmentation of vasculature within bone tissue [@doi:10.1038/s41598-017-13632-5; @doi:10.1016/j.bone.2011.09.051].
+To enable the proper visualization and segmentation of vasculature within bone tissue, decalcifying the bone samples has become practically a standard method [@doi:10.1038/s41598-017-13632-5; @doi:10.1016/j.bone.2011.09.051].
 We successfully established a bone-decalcifying protocol (for murine hind limb) with 10%  ethylenediamine tetra-acetic acid (EDTA) solution [@doi:10.1038/srep41842] by adapting previous work [@doi:10.1002/jemt.20720].
 
-Decalcification of bone tissue does not negatively influence the bone structure itself, but reduces the X-ray absorption of bone tissue and thus makes it impossible to visualize simultaneously with the vasculature (Fig. @fig:2 A).
+Decalcification of bone tissue does not negatively influence the bone structure itself, but reduces the X-ray absorption of bone tissue and thus makes it impossible to visualize it simultaneously with the vasculature (Fig. @fig:2 B).
 
-<!--
-MORE ABOUT METHOD HERE.
--->
-
+As described above, we instilled the lower body of <!-- WHICH --> mice with µAngiofil.
 After polymerization of the contrast agent, hind limbs were collected, fixed in 4% PFA and stored in PFA until scanning.
 After a first scan the hind limbs were decalcified over 7 days in 10% EDTA (pH 7.5) at room temperature and then a second scan was performed.
 
@@ -399,14 +400,11 @@ This resulted in an isometric voxel size of 3.19 µm.
   At the external surface of the tibia, supplying arteries are visible (*arteria et vena nutricia* (avn)).](images/Fig2_Decalcification.png){#fig:2}
 
 ### Bone metastatic disease model, microangioCT
-<!--Better to introduction?-->
-Assessment and 3D imaging of tumor vasculature is a challenging task, in almost every tumor model [@doi:10.1007/978-1-4939-3999-2_2].
-Due to the intraosseous location of tumor lesions, 3D microvascular imaging is even more challenging in a bone metastatic disease model.
-Since changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, simultaneous imaging of bone and vasculature is crucial.
-The desire to simultaneously assess existing bone defects makes the aforementioned decalcification procedure highly unfavorable.
-<!--Better to introduction?-->
 
-To verify the suitability of our microangioCT approach for this kind of experimental imaging we used the following murine bone metastatic disease model.
+As mentioned in the introduction, simultaneous imaging of bone and vasculature is crucial in a bone metastatic disease model.
+Since changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, decalcifying the bone tissue is highly unfavorable.
+
+To verify the suitability of our microangioCT approach for imaging intratumoral vasculature in native, non-decalcified bone tissue we used the following murine bone metastatic disease model.
 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6 weeks old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was conducted at days 7, 14, 21 and 28 after implantation to monitor the progression of the lesions.
 Prior to terminal anesthesia and perfusion with µAngiofil as described above, the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
