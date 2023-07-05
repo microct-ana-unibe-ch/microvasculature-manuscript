@@ -118,8 +118,7 @@ As the two references linked at the end of the first sentence of this paragr sta
 
 > Methods/Results - p. 7 lines 20 to 23 - Please remove and/or provide more data. Nothing in Figure 4 demonstrates a difference in radiopacity between the contrast agent and mineralized tissue. It does look like excellent infilling was achieved, but that's about it.
 
-DIFFERENT BONE DENSITY IN MICE --> NO DIFFERENCE IN RADIOOPACITY VISIBLE.
-THANKS FOR THE COMMENT :)
+It appears that murine bone has a higher mineral bone density of both cortical and trabecular bone, compared to humans and cows, as well as minipigs [@doi:10.1016/j.bone.2011.10.004]. Typical mice cortical bone density, that is comparable with bone density of teeth, is in range from ~900 mg/cm<sup>3</sup> in young mice, up to ~1300 mg/cm<sup>3</sup> in adults [@doi:10.1172/JCI6730]. On the other hand, bone mineral density of minpigs goes from ~600 mg/cm<sup>3</sup> in young individuals up to maximum of ~1100 mg/cm<sup>3</sup> [@doi:10.1292/jvms.66.599]. This makes it indeed more problematic to distinguish vasulature from the bone in mice sipmly baced on the grey value and requires somewhat more advanced techniques/modified contrast formulation.
 
 > Methods/Results - p 11 all, p. 12 Figure 6 - This is literally the only place where any data is given that suggestions individual segmentation is possible. However, since it is for an n of 1 (or maybe 2), it is hard to determine if this is a true result or a fluke.
 
