@@ -7,12 +7,13 @@ date: 6.6.2023
 Dear Anja Wecker, dear Reviewer#1
 
 We thank you for the opportunity to resubmit a revised version of our manuscript on *MicroCT-based imaging of microvasculature within the bone tissue* (Research Article, No. smtd.202300311).
-Below you will find our ‘point-by-point’ response to the issues mentioned by the anonymous reviever#1.
+Below you will find our point-by-point response to the issues mentioned by the anonymous reviever#1.
 
 > We would expect that any requested additional data and results are obtained before resubmission.
 
-WE DID NOT ACQUIRE ANY ADDITIONAL DATA.
-CAN WE SHOW ADDITIONAL RESULTS, E.G. SEGMENTATION OF THE MURINE MANDIBULA AND MORE `sample4` HEMIMANDIBULA?
+As we state in one of the point-by-point responses to the reviewer below, additional data *does* exist, but since the focus of the manuscript is on the methodological side this additional data is not shown.
+As the additional data and results are part of several follow-up studies which are currently being worked on, we are happy to share them *solely* for review purposes, but kindly refrain from adding them to this manuscript.
+The anonymous reviewer asked us to add "a histological element", which we refuse to add, since this has been done multiple times before.
 
 # Comments to authors
 
@@ -128,14 +129,26 @@ We could show more samples in the present manuscript, but deliberately chose not
 The follow-up study is focusing solely on the peri-implant vascularization of bone and soft tissue.
 We agree that the focus of our present study is more on the methodological side, hence we also submitted to 'Small Methods' and this comment led us to adapt the title of the manuscript emphasizing the methodological focus.
 
-> Methods/Results - In general, more animals need to be added to the general murine and murine mandible. I would expect at least 3 if not 5 per group. I can understand the limitations of working with larger species - especially with implants - to procure additional samples quickly.  Also, some sort of actual segmentation needs to be done with an objective outcome (i.e. numbers) to demonstrate true separation. Same for pre- and post-decalcification.  I encourage the authors to better replicate their previous work by adding a histological element to confirm their findings.
+> Methods/Results - In general, more animals need to be added to the general murine and murine mandible.
+> I would expect at least 3 if not 5 per group.
+> I can understand the limitations of working with larger species - especially with implants - to procure additional samples quickly.
+> Also, some sort of actual segmentation needs to be done with an objective outcome (i.e. numbers) to demonstrate true separation.
+> Same for pre- and post-decalcification.
+> I encourage the authors to better replicate their previous work by adding a histological element to confirm their findings.
 
-NO :)
+As answered to the comment above, we actually imaged more samples for most of the requested groups.
+If the editor and reviewer insist, we are happy to provide the data *for review purposes only*.
+The additional images are deliberately *not* present in the present manuscript since they are out of scope here, and they are part of follow-up studies.
+Fig. 6 shows that we can reach "true segmentation", as the visualization in panel D is solely based on the automatically extracted gray level regions shown in panel C, shown/explained in panel B.
+We kindly refuse to add "a histological element" here, since the validation and confirmation of microCT imaging findings with histology has been demonstrated multiple times by us [@doi:10.1152/ajprenal.00099.2017; @doi:10.1038/srep41842] and other authors; we happily stand on the shoulders of giants.
 
 > Limitations - While this is a limitation of the technology, this is not a limitation of your study.
 > Please expand this section to encompasses where your studies are lacking.
+
+We thank the reviewer for this helpful comment.
+We have expanded and adapted the section and described some limitations in more detail.
+
 > Further, I would encourage a cost comparison to competitive products.
 > Yes, it seems to work better, but is the cost worth it or even feasible.
 
-We expanded the section and described some limitations in more detail.
 Since our manuscript is neither a review nor a contrast agent market overview we kindly refuse to add a cost comparison of all the different available contrast agents for perfusing the vasculature.
