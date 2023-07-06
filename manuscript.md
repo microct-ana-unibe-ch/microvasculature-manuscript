@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T09:36:29+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T09:36:29+00:00" />
+  <meta name="dc.modified" content="2023-07-06T10:18:47+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T10:18:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@110c506](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/110c5061798e008eec074a09b72166447a019e1e)
+from [microct-ana-unibe-ch/microvasculature-manuscript@95cf67e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/95cf67ea25045fa1e66c32689bb38a9e540ac90f)
 on July 6, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...110c5061798e008eec074a09b72166447a019e1e#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...95cf67ea25045fa1e66c32689bb38a9e540ac90f#files_bucket).
 </em></small>
 
 
@@ -321,8 +321,9 @@ The problem of contrasting the vasculature becomes even further compounded in th
 Even though such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016], they are problematic for the tomographic image acquisition.
 Due to their large X-ray absorption, metal implants produce beam hardening, partial volume and low signal artifacts in the resulting tomographic datasets [@isbn:0819444251].
 Interactions occurring at the tissue-implant interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
-High resolution imaging of the tissue-implant interface is complicated due to the aforementioned artifacts from the metal implants.
-Imaging with increased acceleration voltage and at small resolutions alleviates the imaging artifacts and makes microCT imaging the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and at close proximity to the implant surface (i.e. closer than 100 µm).
+High resolution tomographic imaging of the tissue-implant interface is complicated due to the aforementioned artifacts from the metal implants.
+Imaging with increased acceleration voltage and at small resolutions alleviates these imaging artifacts.
+MicroCT imaging ist the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and in proximity to the implant surface (i.e. closer than 100 µm).
 
 Beyond studying the anatomy and physiology of angiogenesis and vasculature of the bone itself, the contribution of the vascular component in the healing process around bone-borne implants is also considered an area of study meriting further experimentation [@doi:10.1152/ajpcell.00195.2022; @doi:10.1111/jcpe.12424].
 To date, only few studies tried to assess and visualize the vasculature surrounding implants using microCT imaging, for examples see [@doi:10.1016/j.cellsig.2020.109873], where Wang et al. assessed a region of 100 μm around the implant surface and [@doi:10.1038/s41592-021-01363-5], where Bhargava et al. present VascuViz, a pipeline for vascular systems biology and compare it to other vascular imaging workflows.
@@ -532,7 +533,7 @@ The results will be crucial for selecting potential drug candidates and proper t
 
 In dental research, preclinical models can be divided into small and large animals.
 Small animal models, particularly mice and rats, are highly popular, due to their practical size and cost-effectiveness.
-The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, providing excellent detail resolution (Fig. @fig:4
+The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, providing excellent detail resolution (Fig. @fig:4).
 Murine mandibles and teeth are challenging for assessing the vasculature.
 This is due to the location of most of the vessels within the bone canals or in the proximity of the hard tissue.
 This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
