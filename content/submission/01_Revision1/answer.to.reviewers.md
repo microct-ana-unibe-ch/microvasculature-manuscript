@@ -73,12 +73,7 @@ As far as we know, magnetic resonance imaing does *not* offer a voxel resolution
 > Obviously the CB17SCID go with the tumor model, but which were used for the mandible and general?
 
 We combined all animal experiment approvals into [a single paragraph](https://microct.ch/microvasculature-manuscript/#animals).
-
-Which mice go into which study?
-
-- General mouse section?
-- Murine mandible section?
-- CB17SCID?
+We also specified which animals were used in which part of the study.
 
 > Methods/Results - All MicroCT References and Figure Legends - Information about the scanning parameters should appear in the methods text not the figure legends.
 
