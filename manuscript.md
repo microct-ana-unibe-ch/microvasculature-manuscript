@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2023-07-05'
+date-meta: '2023-07-06'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="dc.date" content="2023-07-05" />
-  <meta name="citation_publication_date" content="2023-07-05" />
-  <meta property="article:published_time" content="2023-07-05" />
-  <meta name="dc.modified" content="2023-07-05T10:06:39+00:00" />
-  <meta property="article:modified_time" content="2023-07-05T10:06:39+00:00" />
+  <meta name="dc.date" content="2023-07-06" />
+  <meta name="citation_publication_date" content="2023-07-06" />
+  <meta property="article:published_time" content="2023-07-06" />
+  <meta name="dc.modified" content="2023-07-06T09:36:29+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T09:36:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/1077bab6f76a9b6882019d55899749e87dfa474c/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/1077bab6f76a9b6882019d55899749e87dfa474c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/1077bab6f76a9b6882019d55899749e87dfa474c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/1077bab6f76a9b6882019d55899749e87dfa474c/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/110c5061798e008eec074a09b72166447a019e1e/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@1077bab](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/1077bab6f76a9b6882019d55899749e87dfa474c)
-on July 5, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...1077bab6f76a9b6882019d55899749e87dfa474c#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@110c506](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/110c5061798e008eec074a09b72166447a019e1e)
+on July 6, 2023.
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...110c5061798e008eec074a09b72166447a019e1e#files_bucket).
 </em></small>
 
 
@@ -425,13 +425,6 @@ Neighboring structures, such as the growth plate and the epiphysis or the menisc
   Besides irregularly patterned tumor vessels (in B & C) further bony structures like growth plate or calcified parts of the medial meniscus (MM) are clearly distinguishable.](images/Fig3_tumor tibia.png){#fig:3}
 
 ### microangioCT of murine mandible and teeth
-<!--- TO DISCUSSION? -->
-Murine mandibles and teeth are challenging for assessing the vasculature.
-This is due to the location of most of the vessels within the bone canals or in the proximity of the hard tissue.
-This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
-Nonetheless, with the improved perfusion protocol mentioned above and a well visualized difference between the X-ray absorption levels of µAngiofil and mineralized bone tissue, we achieved appropriate imaging of such samples.
-<!--- TO DISCUSSION? -->
-
 Mice were terminally anesthesized and their head was perfused with µAngiofil as described above.
 The perfused head was harvested and fixed (4% PFA at 4° C).
 Prior to tomographic imaging the mandible was excised, wrapped in a paper towel and scanned in a sealed pipette tip.
@@ -539,7 +532,12 @@ The results will be crucial for selecting potential drug candidates and proper t
 
 In dental research, preclinical models can be divided into small and large animals.
 Small animal models, particularly mice and rats, are highly popular, due to their practical size and cost-effectiveness.
-The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, providing excellent detail resolution (Fig. @fig:4).
+The microCT scan of correspondingly small samples perfused with µAngiofil can be performed with a voxel size around 1 µm, providing excellent detail resolution (Fig. @fig:4
+Murine mandibles and teeth are challenging for assessing the vasculature.
+This is due to the location of most of the vessels within the bone canals or in the proximity of the hard tissue.
+This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
+Gray value based segmentation of bone and contrast-agent-instilled vasculature is compounded by the fact that murine bone has a higher mineral bone density of both cortical and trabecular bone when compared to humans and minipigs [@doi:10.1016/j.bone.2011.10.004].
+Nonetheless, with the improved perfusion protocol mentioned above we achieved appropriate imaging of such samples and were able to visualize differences between the X-ray absorption levels of µAngiofil and mineralized bone tissue well.
 
 Nonetheless, the small size of hemimandible samples and availability of the transgenic lines would allow for a recently published imaging approach [@doi:10.1111/cpr.12578] in the murine models.
 This tissue-clearing-based approach could be a viable option for the visualization of the peri-implant tissues and vasculature in small animal models.
