@@ -1,5 +1,5 @@
 ---
-title: MicroCT-based imaging of microvasculature within the bone tissue
+title: MicroCT-based method for imaging microvasculature within bone tissue
 keywords:
 - microCT
 - contrast agent
@@ -27,15 +27,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta name="citation_title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta property="og:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
-  <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within the bone tissue" />
+  <meta name="dc.title" content="MicroCT-based method for imaging microvasculature within bone tissue" />
+  <meta name="citation_title" content="MicroCT-based method for imaging microvasculature within bone tissue" />
+  <meta property="og:title" content="MicroCT-based method for imaging microvasculature within bone tissue" />
+  <meta property="twitter:title" content="MicroCT-based method for imaging microvasculature within bone tissue" />
   <meta name="dc.date" content="2023-07-06" />
   <meta name="citation_publication_date" content="2023-07-06" />
   <meta property="article:published_time" content="2023-07-06" />
-  <meta name="dc.modified" content="2023-07-06T10:18:47+00:00" />
-  <meta property="article:modified_time" content="2023-07-06T10:18:47+00:00" />
+  <meta name="dc.modified" content="2023-07-06T11:52:16+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T11:52:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06494f9288b67f5f66b7513b711c743dc0ad3d39/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06494f9288b67f5f66b7513b711c743dc0ad3d39/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06494f9288b67f5f66b7513b711c743dc0ad3d39/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/95cf67ea25045fa1e66c32689bb38a9e540ac90f/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06494f9288b67f5f66b7513b711c743dc0ad3d39/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@95cf67e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/95cf67ea25045fa1e66c32689bb38a9e540ac90f)
+from [microct-ana-unibe-ch/microvasculature-manuscript@06494f9](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/06494f9288b67f5f66b7513b711c743dc0ad3d39)
 on July 6, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...95cf67ea25045fa1e66c32689bb38a9e540ac90f#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...06494f9288b67f5f66b7513b711c743dc0ad3d39#files_bucket).
 </em></small>
 
 
@@ -318,7 +318,7 @@ It is thus paramount to develop an imaging method allowing for the assessment of
 In this manuscript, we present such a method for visualizing intratumoral vasculature and extensive defects in  mineralized bone tissue.
 
 The problem of contrasting the vasculature becomes even further compounded in the presence of a metal implant.
-Even though such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016], they are problematic for the tomographic image acquisition.
+Even though such implants have revolutionized the treatment of patients with missing teeth or injured joints and bones [@doi:10.1111/cpr.12578; @doi:10.1016/j.biomaterials.2016.01.016], they are problematic for tomographic image acquisition.
 Due to their large X-ray absorption, metal implants produce beam hardening, partial volume and low signal artifacts in the resulting tomographic datasets [@isbn:0819444251].
 Interactions occurring at the tissue-implant interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
 High resolution tomographic imaging of the tissue-implant interface is complicated due to the aforementioned artifacts from the metal implants.
@@ -338,7 +338,7 @@ Moreover, we show that µAngiofil is suitable for simultaneous imaging and subse
 
 ### Animals
 
-In this study we used one transgenic VEGF male 21 months old mouse (see @doi:10.1126/science.abc8479 for more details), five 6 weeks old CB17SCID male mice and two Göttingen minipigs.
+In this study we used one transgenic VEGF male 21 months old mouse (see @doi:10.1126/science.abc8479 for more details), 6 weeks old CB17SCID male mice, 12 weeks old C57BL/6 mice and two Göttingen minipigs.
 Animal procedures were performed in accordance with the applicable Swedish, Israeli or Swiss legislation on the protection of animals and were approved by the corresponding committees.
 
 The murine experiment were approved by the local ethical committee of the Canton of Bern, Switzerland under the permit number BE 55/16.
@@ -426,7 +426,7 @@ Neighboring structures, such as the growth plate and the epiphysis or the menisc
   Besides irregularly patterned tumor vessels (in B & C) further bony structures like growth plate or calcified parts of the medial meniscus (MM) are clearly distinguishable.](images/Fig3_tumor tibia.png){#fig:3}
 
 ### microangioCT of murine mandible and teeth
-Mice were terminally anesthesized and their head was perfused with µAngiofil as described above.
+C57BL/6 mice were terminally anesthesized and their head was perfused with µAngiofil as described above.
 The perfused head was harvested and fixed (4% PFA at 4° C).
 Prior to tomographic imaging the mandible was excised, wrapped in a paper towel and scanned in a sealed pipette tip.
 The mouse teeth were imaged using a desktop microCT scanner SKYSCAN 1172 (Fig. @fig:4), with an X-ray source acceleration voltage of 80 kV and an X-ray source current of 124 µA.
@@ -547,7 +547,7 @@ Namely
   i) differential shrinkage among soft and hard tissues, leading to anisotropic distortion in samples where both tissue types (plus eventual metal implant) are present;
   ii) limited depth (around 800 µm in a mouse model [@doi:10.1111/cpr.12578]) due to the challenges of achieving complete transparency of bone tissue.
 Large anisotropic distortion of the sample may lead to the alteration of the common site of interest, namely the implant-tissue interface.
-The limitation of the maximal achievable visible depth makes such an approach impracticable for usage in large animal models.
+The limitation of the maximal achievable visible depth makes such an approach impractical for usage in large animal models.
 
 Our presented microangioCT approach does not have such limitations and can be easily applied for visualization of hemimandible and its vascularization in a large animal model like Göttingen minipig (Fig. @fig:5).
 µAngiofil has noticeably different attenuation than mineralized bone and allows for distinct distinction, segmentation and visualization of soft tissue, bone tissue, vessels filled with the contrast agent as well as metal implants according to their gray values in the histogram (Fig. @fig:6).
