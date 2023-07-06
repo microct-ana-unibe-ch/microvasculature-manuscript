@@ -23,7 +23,7 @@ CAN WE SHOW ADDITIONAL RESULTS, E.G. SEGMENTATION OF THE MURINE MANDIBULA AND MO
 We thank you for the kind comments regarding our methodology.
 We are well aware of the issue with low animal numbers.
 We deliberately present an overview of our instillation and analysis method to give an overview.
-Proper segmenation and analysis *is* possible, as we have shown in Fig. 6.
+Proper segmenation and analysis *is* possible, as we show in Fig. 6.
 We *did* perform quantification in another study (linked in the text, shortly before Fig. 1), but focus on the *imaging* part in the present manuscript.
 
 > Further, the methods are not well described, and the outcomes assessed do not adequately support the author's assertions that quantification from a single scan is possible.
@@ -35,7 +35,7 @@ Further work (currently being written) will focus on the quantification of the v
 > Also, the text seems rather disjointed and unnecessarily repetitive.
 
 Upon thorough inspection of the text we can confirm the meandering 'storytelling'.
-Most of the text has been reworked thoroughly to get rid of repetitions.
+Most of the text has been reworked thoroughly for minimizing repetitions.
 
 ## Major Comments:
 > Introduction - p. 1 lines 37 to 44 and lines 48 to p. 2 line 3.
