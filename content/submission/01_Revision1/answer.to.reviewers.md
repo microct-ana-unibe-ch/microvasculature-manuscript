@@ -125,9 +125,13 @@ On the other hand, bone mineral density of minpigs goes from ~600 mg/cm<sup>3</s
 This makes it indeed more problematic to distinguish vasulature from the bone in mice simply based on the grey value and requires somewhat more advanced techniques and/or modified contrast formulation.
 We removed this paragraph from the methods/results section, improved and moved it to the discussion section.
 
-> Methods/Results - p 11 all, p. 12 Figure 6 - This is literally the only place where any data is given that suggestions individual segmentation is possible. However, since it is for an n of 1 (or maybe 2), it is hard to determine if this is a true result or a fluke.
+> Methods/Results - p 11 all, p. 12 Figure 6 - This is literally the only place where any data is given that suggestions individual segmentation is possible.
+> However, since it is for an n of 1 (or maybe 2), it is hard to determine if this is a true result or a fluke.
 
-CAN/SHOULD WE SHOW MORE HERE?
+In our manuscript we only show N=1, but this N=1 is a representative sample from a larger study of ours.
+We could show more samples in the present manuscript, but deliberately chose not to do so.
+The follow-up study is focusing solely on the peri-implant vascularization of bone and soft tissue.
+We agree that the focus of our present study is more on the methodological side, hence we also submitted to 'Small Methods' and this comment led us to adapt the title of the manuscript emphasizing the methodological focus.
 
 > Methods/Results - In general, more animals need to be added to the general murine and murine mandible. I would expect at least 3 if not 5 per group. I can understand the limitations of working with larger species - especially with implants - to procure additional samples quickly.  Also, some sort of actual segmentation needs to be done with an objective outcome (i.e. numbers) to demonstrate true separation. Same for pre- and post-decalcification.  I encourage the authors to better replicate their previous work by adding a histological element to confirm their findings.
 
