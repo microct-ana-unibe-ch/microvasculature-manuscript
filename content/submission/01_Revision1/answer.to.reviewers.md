@@ -63,6 +63,8 @@ As far as we know, magnetic resonance imaing does *not* offer a voxel resolution
 > Introduction & Methods/Results - There is a lot of text in the Methods/Results that seems like it would be better suited in the Introduction.
 > I think there should be some rationale about why teeth/jaw is being assessed beyond the common use of metal implants.
 
+Thank you for this suggestion, we have sentence explaining our rationale.
+
 > Introduction - throughout - The authors vaguely allude throughout the introduction (and discussion) that there are issues or technical limitations with currently available options. However, they are only occasionally stated concretely. I would appreciate a little more discussion about the specific issues and how this new product is supposed to address them.
 
 > Methods/Results - Animals - There is a blanket statement here that all procedures were approved by some sort of oversight board.
