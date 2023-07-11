@@ -56,7 +56,7 @@ We [expanded the paragraph](https://github.com/microct-ana-unibe-ch/microvascula
 > Please add an explanation for this assertion or better frame it's relative importance to other options like MRI (e.g. "MicroCT is the best…. Because….").
 
 As you state correctly, microCT imaging is not the *only* approach to image implants in bones.
-But it is the only approach to do it *non-desctructively*, in three dimensions and at the desired resolution, as we state in the text and is stated in the linked reference [@doi:10.1111/cpr.12578].
+But it is the only approach to do it *non-desctructively*, in three dimensions and at the desired resolution, as we state in the text and is stated in the linked reference [@Yi2019].
 As you also state correctly MRI imaging can be used to visualize implants in bones, but does not offer the resolution needed to assess micro-vasculature in proximity of the implants.
 As far as we know, magnetic resonance imaging does *not* offer a voxel resolution below 100 μm, which is rather easily obtained with microCT imaging.
 
@@ -121,9 +121,9 @@ As the two references linked at the end of the first sentence of this paragraph 
 > Methods/Results - p. 7 lines 20 to 23 - Please remove and/or provide more data.
 > Nothing in Figure 4 demonstrates a difference in radiopacity between the contrast agent and mineralized tissue. It does look like excellent infilling was achieved, but that's about it.
 
-It appears that murine bone has a higher mineral bone density of both cortical and trabecular bone, compared to humans and cows, as well as minipigs [@doi:10.1016/j.bone.2011.10.004].
-Typical mice cortical bone density, which is comparable to bone density of mice teeth, ranges from ~900 mg/cm<sup>3</sup> in young mice  to ~1300 mg/cm<sup>3</sup> in adults [@doi:10.1172/JCI6730].
-On the other hand, bone mineral density of minipigs goes from ~600 mg/cm<sup>3</sup> in young individuals up to a maximum of ~1100 mg/cm<sup>3</sup> [@doi:10.1292/jvms.66.599].
+It appears that murine bone has a higher mineral bone density of both cortical and trabecular bone, compared to humans and cows, as well as minipigs [@Entezari2012].
+Typical mice cortical bone density, which is comparable to bone density of mice teeth, ranges from ~900 mg/cm<sup>3</sup> in young mice  to ~1300 mg/cm<sup>3</sup> in adults [@Windahl1999].
+On the other hand, bone mineral density of minipigs goes from ~600 mg/cm<sup>3</sup> in young individuals up to a maximum of ~1100 mg/cm<sup>3</sup> [@Inui2004].
 This makes it indeed more problematic to distinguish vasculature from the bone in mice simply based on the gray value and requires somewhat more advanced techniques and/or modified contrast formulation.
 We removed this paragraph from the methods/results section, improved and moved it to the discussion section.
 
@@ -146,7 +146,7 @@ As answered to the comment above, we actually imaged more samples for most of th
 If the editor and reviewer insist, we are happy to provide the data *for review purposes only*.
 The additional images are deliberately *not* present in the present manuscript since they are out of scope here, and they are part of follow-up studies.
 Fig. 6 shows that we can reach "true segmentation", as the visualization in panel D is solely based on the automatically extracted gray level regions shown in panel C, shown/explained in panel B.
-We kindly refuse to add "a histological element" here, since the validation and confirmation of microCT imaging findings with histology has been demonstrated multiple times by us [@doi:10.1152/ajprenal.00099.2017; @doi:10.1038/srep41842] and other authors; we happily stand on the shoulders of giants.
+We kindly refuse to add "a histological element" here, since the validation and confirmation of microCT imaging findings with histology has been demonstrated multiple times by us [@Hlushchuk2017; @Schaad2017] and other authors; we happily stand on the shoulders of giants.
 
 > Limitations - While this is a limitation of the technology, this is not a limitation of your study.
 > Please expand this section to encompasses where your studies are lacking.
