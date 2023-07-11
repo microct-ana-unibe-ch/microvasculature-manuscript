@@ -1,5 +1,5 @@
 ---
-title: Answer to reviever#1 for smtd.202300311
+title: Answer to Reviewer#1 for smtd.202300311
 author: David Haberthür
 date: 6.6.2023
 ---
@@ -7,7 +7,7 @@ date: 6.6.2023
 Dear Anja Wecker, dear Reviewer#1
 
 We thank you for the opportunity to resubmit a revised version of our manuscript on *MicroCT-based imaging of microvasculature within the bone tissue* (Research Article, No. smtd.202300311).
-Below you will find our point-by-point response to the issues mentioned by the anonymous reviever#1.
+Below you will find our point-by-point response to the issues mentioned by the anonymous reviewer#1.
 
 > We would expect that any requested additional data and results are obtained before resubmission.
 
@@ -24,7 +24,7 @@ The anonymous reviewer asked us to add "a histological element", which we refuse
 We thank you for the kind comments regarding our methodology.
 We are well aware of the issue with low animal numbers.
 We deliberately present an overview of our instillation and analysis method to give an overview.
-Proper segmenation and analysis *is* possible, as we show in Fig. 6.
+Proper segmentation and analysis *is* possible, as we show in Fig. 6.
 We *did* perform quantification in another study (linked in the text, shortly before Fig. 1), but focus on the *imaging* part in the present manuscript.
 
 > Further, the methods are not well described, and the outcomes assessed do not adequately support the author's assertions that quantification from a single scan is possible.
@@ -45,27 +45,20 @@ Most of the text has been reworked thoroughly for minimizing repetitions.
 > I think that is a whole other thing which doesn't need to be mentioned in the introduction.
 > If the authors want to bring it up in the discussion, that sounds great, but it's distracting here.
 > I think the content of these two paragraphs should be combined and edited to be more concise about what is currently in use and what the common problems are.
-
-We refer to the Nunez paper [@doi:10.1038/s41598-017-13632-5] since they also address the drawbacks of existing contrast-agent-instillation based imaging methods and not because they use phase contrast-enhanced tomography in their study.
-
 > What does an ideal product/formulation look like?
-
-We don't think there exists an ideal product for *all* imaging experiments.
-We also do not think that is feasible for us to suggest such an ideal product.
-Many of the properties of µAngiofil are close to the ideal formulation for the shown use cases.
 
 > Introduction - p. 2 - lines 4 to 5 - I know why metal implants - especially large ones - are an issue with microCT scanning (i.e. beam hardening and imaging artifacts), but as written I don't think the average reader will.
 > Please add a sentence or two explaining what these issues are and why they occur.
 
-We [expanded the paragraph](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/commit/7905d2aa6be18baec3de21df78027bb2528e8f02) with a description of which artefacts can occur and how.
+We [expanded the paragraph](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/commit/7905d2aa6be18baec3de21df78027bb2528e8f02) with a description of which artifacts can occur and how.
 
 > Introduction - p. 2 line 9 to 11 - I am not an expert at other imaging modalities, but I find it hard to believe that microCT is the *only* approach for imaging implants in bone.
 > Please add an explanation for this assertion or better frame it's relative importance to other options like MRI (e.g. "MicroCT is the best…. Because….").
 
-As you state correctly, micrCT imaging is not the *only* approach to image implants in bones.
+As you state correctly, microCT imaging is not the *only* approach to image implants in bones.
 But it is the only approach to do it *non-desctructively*, in three dimensions and at the desired resolution, as we state in the text and is stated in the linked reference [@doi:10.1111/cpr.12578].
 As you also state correctly MRI imaging can be used to visualize implants in bones, but does not offer the resolution needed to assess micro-vasculature in proximity of the implants.
-As far as we know, magnetic resonance imaing does *not* offer a voxel resolution below 100 μm, which is rather easily obtained with microCT imaging.
+As far as we know, magnetic resonance imaging does *not* offer a voxel resolution below 100 μm, which is rather easily obtained with microCT imaging.
 
 > Introduction & Methods/Results - There is a lot of text in the Methods/Results that seems like it would be better suited in the Introduction.
 
@@ -77,11 +70,6 @@ As part of the mentioned large rework we moved a lot of text to more appropriate
 Thank you for this suggestion, we have added a sentence explaining the rationale.
 
 > Introduction - throughout - The authors vaguely allude throughout the introduction (and discussion) that there are issues or technical limitations with currently available options. However, they are only occasionally stated concretely. I would appreciate a little more discussion about the specific issues and how this new product is supposed to address them.
-
-Advantages of µAngiofil have already been extensively described.
-In addition, we do not want to highlight disadvantages of other methods.
-Where these disadvantages are evident, they have been mentioned in the introduction with references from other authors.
-We kindly refuse to criticize/focus on the disadvantages of other agents and keep highlighting advantages of µAngiofil.
 
 > Methods/Results - Animals - There is a blanket statement here that all procedures were approved by some sort of oversight board.
 > Then there is more detailed information in the murine bone metastatic disease model and the large animal mandible model but not in the general mouse section nor the murine mandible section.
@@ -128,15 +116,15 @@ Nonetheless the paragraph has been moved to the introduction section of our manu
 
 > Methods/Results - p. 6 line 9 - What cancer type does this replicate?
 
-As the two references linked at the end of the first sentence of this paragr state in their title, this is a prostate cancer model.
+As the two references linked at the end of the first sentence of this paragraph state in their title, this is a prostate cancer model.
 
 > Methods/Results - p. 7 lines 20 to 23 - Please remove and/or provide more data.
 > Nothing in Figure 4 demonstrates a difference in radiopacity between the contrast agent and mineralized tissue. It does look like excellent infilling was achieved, but that's about it.
 
 It appears that murine bone has a higher mineral bone density of both cortical and trabecular bone, compared to humans and cows, as well as minipigs [@doi:10.1016/j.bone.2011.10.004].
 Typical mice cortical bone density, which is comparable to bone density of mice teeth, ranges from ~900 mg/cm<sup>3</sup> in young mice  to ~1300 mg/cm<sup>3</sup> in adults [@doi:10.1172/JCI6730].
-On the other hand, bone mineral density of minpigs goes from ~600 mg/cm<sup>3</sup> in young individuals up to a maximum of ~1100 mg/cm<sup>3</sup> [@doi:10.1292/jvms.66.599].
-This makes it indeed more problematic to distinguish vasulature from the bone in mice simply based on the grey value and requires somewhat more advanced techniques and/or modified contrast formulation.
+On the other hand, bone mineral density of minipigs goes from ~600 mg/cm<sup>3</sup> in young individuals up to a maximum of ~1100 mg/cm<sup>3</sup> [@doi:10.1292/jvms.66.599].
+This makes it indeed more problematic to distinguish vasculature from the bone in mice simply based on the gray value and requires somewhat more advanced techniques and/or modified contrast formulation.
 We removed this paragraph from the methods/results section, improved and moved it to the discussion section.
 
 > Methods/Results - p 11 all, p. 12 Figure 6 - This is literally the only place where any data is given that suggestions individual segmentation is possible.
