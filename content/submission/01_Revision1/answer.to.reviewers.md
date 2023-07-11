@@ -61,9 +61,13 @@ As you also state correctly MRI imaging can be used to visualize implants in bon
 As far as we know, magnetic resonance imaing does *not* offer a voxel resolution below 100 μm, which is rather easily obtained with microCT imaging.
 
 > Introduction & Methods/Results - There is a lot of text in the Methods/Results that seems like it would be better suited in the Introduction.
+
+Thank you for this suggestion.
+As part of the mentioned large rework we moved a lot of text to more appropriate places in the manuscript.
+
 > I think there should be some rationale about why teeth/jaw is being assessed beyond the common use of metal implants.
 
-Thank you for this suggestion, we have sentence explaining our rationale.
+Thank you for this suggestion, we have added a sentence explaining the rationale.
 
 > Introduction - throughout - The authors vaguely allude throughout the introduction (and discussion) that there are issues or technical limitations with currently available options. However, they are only occasionally stated concretely. I would appreciate a little more discussion about the specific issues and how this new product is supposed to address them.
 
