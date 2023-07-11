@@ -45,7 +45,14 @@ Most of the text has been reworked thoroughly for minimizing repetitions.
 > I think that is a whole other thing which doesn't need to be mentioned in the introduction.
 > If the authors want to bring it up in the discussion, that sounds great, but it's distracting here.
 > I think the content of these two paragraphs should be combined and edited to be more concise about what is currently in use and what the common problems are.
+
+We refer to the Nunez paper [@doi:10.1038/s41598-017-13632-5] since they also address the drawbacks of existing contrast-agent-instillation based imaging methods and not because they use phase contrast-enhanced tomography in their study.
+
 > What does an ideal product/formulation look like?
+
+We don't think there exists an ideal product for *all* imaging experiments.
+We also do not think that is feasible for us to suggest such an ideal product.
+Many of the properties of µAngiofil are close to the ideal formulation for the shown use cases.
 
 > Introduction - p. 2 - lines 4 to 5 - I know why metal implants - especially large ones - are an issue with microCT scanning (i.e. beam hardening and imaging artifacts), but as written I don't think the average reader will.
 > Please add a sentence or two explaining what these issues are and why they occur.
@@ -70,6 +77,11 @@ As part of the mentioned large rework we moved a lot of text to more appropriate
 Thank you for this suggestion, we have added a sentence explaining the rationale.
 
 > Introduction - throughout - The authors vaguely allude throughout the introduction (and discussion) that there are issues or technical limitations with currently available options. However, they are only occasionally stated concretely. I would appreciate a little more discussion about the specific issues and how this new product is supposed to address them.
+
+Advantages of µAngiofil have already been extensively described.
+In addition, we do not want to highlight disadvantages of other methods.
+Where these disadvantages are evident, they have been mentioned in the introduction with references from other authors.
+We kindly refuse to criticize/focus on the disadvantages of other agents and keep highlighting advantages of µAngiofil.
 
 > Methods/Results - Animals - There is a blanket statement here that all procedures were approved by some sort of oversight board.
 > Then there is more detailed information in the murine bone metastatic disease model and the large animal mandible model but not in the general mouse section nor the murine mandible section.
