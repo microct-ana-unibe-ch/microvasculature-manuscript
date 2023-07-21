@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-21" />
   <meta name="citation_publication_date" content="2023-07-21" />
   <meta property="article:published_time" content="2023-07-21" />
-  <meta name="dc.modified" content="2023-07-21T11:53:31+00:00" />
-  <meta property="article:modified_time" content="2023-07-21T11:53:31+00:00" />
+  <meta name="dc.modified" content="2023-07-21T12:03:31+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T12:03:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -91,9 +91,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/543a1addb6eb883238a214186c286622cc16897b/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/543a1addb6eb883238a214186c286622cc16897b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/543a1addb6eb883238a214186c286622cc16897b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4152d732a820466c9c66772b72e339b9598f7bdf/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4152d732a820466c9c66772b72e339b9598f7bdf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4152d732a820466c9c66772b72e339b9598f7bdf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -115,11 +115,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/543a1addb6eb883238a214186c286622cc16897b/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4152d732a820466c9c66772b72e339b9598f7bdf/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@543a1ad](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/543a1addb6eb883238a214186c286622cc16897b)
+from [microct-ana-unibe-ch/microvasculature-manuscript@4152d73](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4152d732a820466c9c66772b72e339b9598f7bdf)
 on July 21, 2023.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...543a1addb6eb883238a214186c286622cc16897b#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...4152d732a820466c9c66772b72e339b9598f7bdf#files_bucket).
 </em></small>
 
 
@@ -265,17 +265,17 @@ Oleksiy-Zakhar Khoma  contributed equally to this work.
 Angiogenesis is essential for skeletal development, bone healing and regeneration.
 Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue would benefit a multitude of research areas, especially implantology and tissue engineering.
 
-X-ray microtomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology.
+X-ray microtomography (microCT) is a well-suited non-destructive 3D-imaging technique for bone morphology.
 For microCT-based detection of vessels, it is paramount to use contrast-enhancement.
-Limited differences in radiopacity between perfusion agents and mineralized bone make their distinct segmentation problematic and has been the major drawback of contrast-enhanced microCT imaging.
+Limited differences in radiopacity between perfusion agents and mineralized bone make their distinct segmentation problematic and has been the major drawback of this approach.
 A decalcification step resolves this issue but inhibits simultaneous assessment of bone microstructure and vascular morphology.
-Moreover, the problem of contrasting becomes further compounded in samples with metal implants.
+The problem of contrasting becomes further compounded in samples with metal implants.
 
-This study describes µAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, with and without decalcification.
+This study describes μAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, with and without decalcification.
 We present simultaneous microvascular and bone imaging in murine tibia, murine bone metastatic model, pulp chamber, gingiva and periodontal ligaments.
 In a large animal model (minipig) we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
 
-Our manuscript introduces the first non-destructive approach for 3D imaging of the vasculature within soft and hard tissues in the vicinity of metal implants in a large animal model.
+Our manuscript introduces the first non-destructive approach for 3D-imaging of the vasculature within soft and hard tissues in the vicinity of metal implants in a large animal model.
 
 
 ## Introduction {.page_break_before}
