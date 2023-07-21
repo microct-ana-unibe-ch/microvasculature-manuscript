@@ -1,6 +1,4 @@
-# Automated scholarly manuscripts on GitHub
-
-<!-- usage note: edit the H1 title above to personalize the manuscript -->
+# MicroCT-based method for imaging microvasculature within bone tissue
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf)
@@ -9,10 +7,8 @@
 
 ## Manuscript description
 
-<!-- usage note: edit this section. -->
-
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository contains the canonical version of our manuscript on high-resolution tomographic imaging of the microvasculature within bone tissue.
+Click the buttons above to read a nicely rendered version.
 
 ## Manubot
 
