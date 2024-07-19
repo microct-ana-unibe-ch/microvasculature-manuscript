@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-19" />
   <meta name="citation_publication_date" content="2024-07-19" />
   <meta property="article:published_time" content="2024-07-19" />
-  <meta name="dc.modified" content="2024-07-19T13:17:34+00:00" />
-  <meta property="article:modified_time" content="2024-07-19T13:17:34+00:00" />
+  <meta name="dc.modified" content="2024-07-19T13:58:10+00:00" />
+  <meta property="article:modified_time" content="2024-07-19T13:58:10+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4d54037b58460bed679103ff677827e86e8333a9/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4d54037b58460bed679103ff677827e86e8333a9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4d54037b58460bed679103ff677827e86e8333a9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4d54037b58460bed679103ff677827e86e8333a9/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@4d54037](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4d54037b58460bed679103ff677827e86e8333a9)
+from [microct-ana-unibe-ch/microvasculature-manuscript@4cb6fad](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f)
 on July 19, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...4d54037b58460bed679103ff677827e86e8333a9#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...4cb6fad6e5e7853898a51fcc9eb8101bf2d46b2f#files_bucket).
 </em></small>
 
 
@@ -287,6 +287,7 @@ The problem of contrasting becomes further compounded in samples with metal impl
 This study describes μAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, with and without decalcification.
 We present simultaneous microvascular and bone imaging in murine tibia, murine bone metastatic model, pulp chamber, gingiva and periodontal ligaments.
 In a large animal model (minipig) we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
+Moreover, we show the potential of the dual-energy approach in facilitating distinction between the bone tissue and the applied contrast agent.
 
 Our manuscript introduces the first non-destructive approach for 3D-imaging of the vasculature within soft and hard tissues in the vicinity of metal implants in a large animal model.
 
