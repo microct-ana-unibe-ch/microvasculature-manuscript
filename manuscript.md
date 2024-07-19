@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-19" />
   <meta name="citation_publication_date" content="2024-07-19" />
   <meta property="article:published_time" content="2024-07-19" />
-  <meta name="dc.modified" content="2024-07-19T16:08:45+00:00" />
-  <meta property="article:modified_time" content="2024-07-19T16:08:45+00:00" />
+  <meta name="dc.modified" content="2024-07-19T16:20:04+00:00" />
+  <meta property="article:modified_time" content="2024-07-19T16:20:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@2c5d8ac](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c)
+from [microct-ana-unibe-ch/microvasculature-manuscript@bb0a56a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/bb0a56ab22843754d68810b94f124d7703a1ae91)
 on July 19, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...2c5d8acdf32a2e79201b8dedc93e67e9e64db89c#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...bb0a56ab22843754d68810b94f124d7703a1ae91#files_bucket).
 </em></small>
 
 
@@ -303,7 +303,7 @@ Histology, a destructive and two-dimensional approach, still remains a gold stan
 Classic soft tissue imaging techniques such as light sheet microscopy or confocal laser scanning microscopy face challenges in their application due to the encasement of blood vessels in calcified tissue [@doi:10.1038/s41598-017-13632-5].
 Despite recent advances in tissue clearing-based imaging methods for craniofacial and other bones [@doi:10.1016/j.cell.2022.12.031; @doi:10.1038/s41467-021-26455-w; @doi:10.1089/scd.2019.0104] as well as for whole body [@doi:10.1038/s41596-022-00788-2], the application of such methods remains challenging and is mainly limited to small animal models.
 Simultaneous non-destructive 3D imaging of the vasculature within bone tissue and of the bone tissue itself, especially in the case of larger bone grafts, has been a challenge for decades [@doi:10.1007/s10439-015-1253-3; @doi:10.1152/ajpcell.00195.2022].
-Thus, many research areas benefit from an improved three-dimensional (3D) imaging of the vasculature within bone tissue, for example: bone biology, bone metastatic disease, tissue engineering, implantology, and reconstructive surgery.
+Thus, many research areas benefit from an improved three-dimensional imaging of the vasculature within bone tissue, for example: bone biology, bone metastatic disease, tissue engineering, implantology, and reconstructive surgery.
 
 In the last decades, X-ray micro-computed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
 Due to the inherently low difference in X-ray absorption levels between vessels and different soft tissues it is not easily feasible to distinguish such structures within the bone.
@@ -525,7 +525,7 @@ Such changes allow a non-complicated segmentation of bone and μAngiofil based o
   Panel C represents segmented vasculature using the dual energy approach.
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
   Such changes in grey levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist (Bruker)).
-  Panel D represents a 3D visualization of the segmented tissues (Dragonfly 3D World (Comet Technologies Canada Inc.)).](images/Fig7_DualEnergy.png){#fig:7}
+  Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World (Comet Technologies Canada Inc.)).](images/Fig7_DualEnergy.png){#fig:7}
 
 
 
