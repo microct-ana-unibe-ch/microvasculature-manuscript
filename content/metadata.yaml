@@ -118,6 +118,15 @@ authors:
     contributions:
       - Investigation
       - Writing – review & editing
+  - name: Stephan Handschuh
+    initials: SH
+    orcid: 0000-0002-2140-7892
+    email: stephan.handschuh@vetmeduni.ac.at
+    affiliations:
+      - VetCore Facility for Research, Imaging Unit, University of Veterinary Medicine, Vienna, Austria
+    contributions:
+      - Methodology
+      - Writing – review & editing
   - name: Benjamin E. Pippenger
     initials: BP
     orcid: 0000-0001-7990-5555
