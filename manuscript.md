@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-19" />
   <meta name="citation_publication_date" content="2024-07-19" />
   <meta property="article:published_time" content="2024-07-19" />
-  <meta name="dc.modified" content="2024-07-19T15:54:12+00:00" />
-  <meta property="article:modified_time" content="2024-07-19T15:54:12+00:00" />
+  <meta name="dc.modified" content="2024-07-19T16:08:45+00:00" />
+  <meta property="article:modified_time" content="2024-07-19T16:08:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/36e6ccfe69c532d16294800cd3990193c7ce7d15/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/36e6ccfe69c532d16294800cd3990193c7ce7d15/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/36e6ccfe69c532d16294800cd3990193c7ce7d15/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/36e6ccfe69c532d16294800cd3990193c7ce7d15/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@36e6ccf](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/36e6ccfe69c532d16294800cd3990193c7ce7d15)
+from [microct-ana-unibe-ch/microvasculature-manuscript@2c5d8ac](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/2c5d8acdf32a2e79201b8dedc93e67e9e64db89c)
 on July 19, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...36e6ccfe69c532d16294800cd3990193c7ce7d15#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...2c5d8acdf32a2e79201b8dedc93e67e9e64db89c#files_bucket).
 </em></small>
 
 
@@ -524,8 +524,8 @@ Such changes allow a non-complicated segmentation of bone and μAngiofil based o
   The dashed red line in panels A and B represent the location of the corresponding intensity profile displayed in panels A’ and B’.
   Panel C represents segmented vasculature using the dual energy approach.
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
-  Such changes in grey levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (Dehist Software).
-  Panel D represents a 3D visualization of the segmented tissues (Dragonfly 3D World Software).](images/Fig7_DualEnergy.png){#fig:7}
+  Such changes in grey levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist (Bruker)).
+  Panel D represents a 3D visualization of the segmented tissues (Dragonfly 3D World (Comet Technologies Canada Inc.)).](images/Fig7_DualEnergy.png){#fig:7}
 
 
 
