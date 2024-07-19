@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-19" />
   <meta name="citation_publication_date" content="2024-07-19" />
   <meta property="article:published_time" content="2024-07-19" />
-  <meta name="dc.modified" content="2024-07-19T16:20:04+00:00" />
-  <meta property="article:modified_time" content="2024-07-19T16:20:04+00:00" />
+  <meta name="dc.modified" content="2024-07-19T16:42:05+00:00" />
+  <meta property="article:modified_time" content="2024-07-19T16:42:05+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bb0a56ab22843754d68810b94f124d7703a1ae91/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@bb0a56a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/bb0a56ab22843754d68810b94f124d7703a1ae91)
+from [microct-ana-unibe-ch/microvasculature-manuscript@8f8e192](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5)
 on July 19, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...bb0a56ab22843754d68810b94f124d7703a1ae91#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...8f8e192621ccd6fe6fb2a9f6c5dfba3e5a5e69a5#files_bucket).
 </em></small>
 
 
@@ -508,15 +508,15 @@ Tomographic imaging of such samples and straightforward segmentation of features
   Corresponding peaks with color legend are marked on the histogram in panel C.
   Such differences in gray levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.](images/Fig6_Segmentation.png){#fig:6}
 
-Unfortunately, not all the samples display such a pronounced difference between the grey values of bone tissue and µAngiofil when scanned under standard scanning parameters.
-It is often the case especially in the murine samples, while the bone mineral density of mouse bones is generally higher than in other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi;10.1292/jvms.66.599].
-It results in very similar grey levels of bone tissue and μAngiofil rendering their distinction based on histogram levels impossible (e.g., Fig. @fig:4).
+Unfortunately, not all the samples display such a pronounced difference between the gray values of bone tissue and µAngiofil when scanned under standard scanning parameters.
+It is often the case especially in the murine samples, while the bone mineral density of mouse bones is generally higher than in other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
+It results in very similar gray levels of bone tissue and μAngiofil rendering their distinction based on histogram levels impossible (e.g., Fig. @fig:4).
 Although decalcification may be helpful (see Fig. @fig:2), there is another approach which we believe is more efficient – dual-energy scanning.
 It has been demonstrated previously that microscopic dual energy CT imaging (microDECT) using commercial lab-based microCT setups can achieve a spectral separation of two or three materials at micron resolution [@doi:10.1111/jmi.12543].
-Importantly, hydroxyapatite (the mineral in bone bone and teeth) versus iodine (the high-Z component in µAngiofil) offer optimal properties for spectral X-Ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007/s13244-010-0057-0; @doi:329091].
+Importantly, hydroxyapatite (the mineral in bone bone and teeth) versus iodine (the high-Z component in µAngiofil) offer optimal properties for spectral X-Ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007i/s13244-010-0057-0; @doi:10.1118/1.594374].
 
 We have tested multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using out multiscale scanner SkyScan 2214 (Fig. @fig:7).
-For our scanner the optimal combination was 50 kV and 90 kV: in comparison to 50 kV, at 90 kV the grey value of the bone tissue was decreased and the grey value of μAngiofil increased (Fig. @fig:7 C’).
+For our scanner the optimal combination was 50 kV and 90 kV: in comparison to 50 kV, at 90 kV the gray value of the bone tissue was decreased and the gray value of μAngiofil increased (Fig. @fig:7 C’).
 Such changes allow a non-complicated segmentation of bone and μAngiofil based on the combined histogram (Fig. @fig:7 C’’).
 
 ![**Dual energy microangioCT of a murine mandibula.**
@@ -524,8 +524,8 @@ Such changes allow a non-complicated segmentation of bone and μAngiofil based o
   The dashed red line in panels A and B represent the location of the corresponding intensity profile displayed in panels A’ and B’.
   Panel C represents segmented vasculature using the dual energy approach.
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
-  Such changes in grey levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist (Bruker)).
-  Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World (Comet Technologies Canada Inc.)).](images/Fig7_DualEnergy.png){#fig:7}
+  Such changes in gray levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhisti, Bruker, Kontich, Belgium).
+  Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World, Comet Technologies Canada Inc., Montréal, Canada).](images/Fig7_DualEnergy.png){#fig:7}
 
 
 
@@ -573,10 +573,10 @@ Gray value based segmentation of bone and contrast-agent-instilled vasculature i
 Nonetheless, with the dual energy approach described above we achieved appropriate imaging of such samples and were able to visualize and distinguish vasculature in/from mineralized bone tissue.
 
 In the small animal model studies without metal or similar biomedical implants, the application of whole mouse clearing and imaging with vDISCO approach could be the method of choice [@doi:10.1038/s41596-022-00788-2].
-Another promising improvement to the clearing protocols and immunolabeling of the samples with the bone tissue is the introduction of the collagenase digestion step, which improves the antibody penetration throughout the stained bones and, therefore, the immunostaining [@doi: 10.1016/j.cell.2022.12.031].
+Another promising improvement to the clearing protocols and immunolabeling of the samples with the bone tissue is the introduction of the collagenase digestion step, which improves the antibody penetration throughout the stained bones and, therefore, the immunostaining [@doi:10.1016/j.cell.2022.12.031].
 Although newer tissue clearing and immunostaining immersion-based visualization techniques provide very high resolution, three-dimensional, intact images, these methods may produce artifacts such as tissue deformation and illumination inhomogeneity [@doi:10.1016/j.crmeth.2021.100151].
 
-In the presence of the implanted biomedical devices the situation with the imaging becomes even mor echallenging.
+In the presence of the implanted biomedical devices the situation with the imaging becomes even more challenging.
 For murine model studies, a recently published tissue-clearing-based imaging approach [@doi:10.1111/cpr.12578] could be a viable option for the visualization of the peri-implant tissues and vasculature due to the small size of hemimandible samples and availability of transgenic mouse lines.
 Though, there are limitations of such a tissue-clearing imaging approach.
 Namely;
