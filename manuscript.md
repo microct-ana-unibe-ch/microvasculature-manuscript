@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-22" />
   <meta name="citation_publication_date" content="2024-07-22" />
   <meta property="article:published_time" content="2024-07-22" />
-  <meta name="dc.modified" content="2024-07-22T16:31:04+00:00" />
-  <meta property="article:modified_time" content="2024-07-22T16:31:04+00:00" />
+  <meta name="dc.modified" content="2024-07-22T16:42:12+00:00" />
+  <meta property="article:modified_time" content="2024-07-22T16:42:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5a1232dab1f855387d6873a16789cae62c49ff57/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5a1232dab1f855387d6873a16789cae62c49ff57/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5a1232dab1f855387d6873a16789cae62c49ff57/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -114,16 +114,16 @@ manubot-clear-requests-cache: false
 
 
 
-_Version [`v1.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of this manuscript was submitted to [Small Methods](http://www.small-methods.com/) and is available as preprint at bioRχiv with the DOI [10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
+_Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v1.0) of this manuscript was submitted to [Scientific Reports](https://www.nature.com/srep/) and is available as preprint at bioRχiv with the DOI [10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
 
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5a1232dab1f855387d6873a16789cae62c49ff57/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@5a1232d](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/5a1232dab1f855387d6873a16789cae62c49ff57)
+from [microct-ana-unibe-ch/microvasculature-manuscript@78c9c0e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/78c9c0e08a41ef32bb155d7aa530e5d920823712)
 on July 22, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v1.0...5a1232dab1f855387d6873a16789cae62c49ff57#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...78c9c0e08a41ef32bb155d7aa530e5d920823712#files_bucket).
 </em></small>
 
 
