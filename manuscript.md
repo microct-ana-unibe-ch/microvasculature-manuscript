@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-23" />
   <meta name="citation_publication_date" content="2024-07-23" />
   <meta property="article:published_time" content="2024-07-23" />
-  <meta name="dc.modified" content="2024-07-23T12:16:39+00:00" />
-  <meta property="article:modified_time" content="2024-07-23T12:16:39+00:00" />
+  <meta name="dc.modified" content="2024-07-23T12:51:27+00:00" />
+  <meta property="article:modified_time" content="2024-07-23T12:51:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2f7734501752cb30a143ea75929d542c69105a1f/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2f7734501752cb30a143ea75929d542c69105a1f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2f7734501752cb30a143ea75929d542c69105a1f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2f7734501752cb30a143ea75929d542c69105a1f/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@031396e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/031396e71e3c1a2b3116ab317b03dcebf74fbb66)
+from [microct-ana-unibe-ch/microvasculature-manuscript@2f77345](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/2f7734501752cb30a143ea75929d542c69105a1f)
 on July 23, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...031396e71e3c1a2b3116ab317b03dcebf74fbb66#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...2f7734501752cb30a143ea75929d542c69105a1f#files_bucket).
 </em></small>
 
 
@@ -614,20 +614,20 @@ The presented method is suitable to answer important questions regarding the mic
 
 |Author|Contributions|
 |---|---|
-|David Haberthür|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|Oleksiy-Zakhar Khoma|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|Tim Hoessly|Data curation; Investigation; Visualization; Writing – review & editing|
-|Eugenio Zoni|Investigation; Methodology; Resources; Writing – review & editing|
-|Marianna Kruithof-de Julio|Methodology; Resources; Writing – review & editing|
-|Stewart D. Ryan|Resources; Writing – review & editing|
-|Myriam Grunewald|Investigation; Methodology; Resources; Writing – review & editing|
-|Benjamin Bellón|Investigation; Methodology; Writing – review & editing|
-|Rebecca Sandgren|Investigation; Writing – review & editing|
-|Stephan Handschuh|Methodology; Writing – review & editing|
-|Benjamin E. Pippenger|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
-|Dieter Bosshardt|Methodology; Writing – review & editing|
-|Valentin Djonov|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
-|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|DH|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|OK|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|TH|Data curation; Investigation; Visualization; Writing – review & editing|
+|EZ|Investigation; Methodology; Resources; Writing – review & editing|
+|MK|Methodology; Resources; Writing – review & editing|
+|SR|Resources; Writing – review & editing|
+|MG|Investigation; Methodology; Resources; Writing – review & editing|
+|BB|Investigation; Methodology; Writing – review & editing|
+|RS|Investigation; Writing – review & editing|
+|SH|Methodology; Writing – review & editing|
+|BP|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
+|DB|Methodology; Writing – review & editing|
+|VD|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
+|RH|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
 
 
 ## Conflicts of interest {.page_break_before}
