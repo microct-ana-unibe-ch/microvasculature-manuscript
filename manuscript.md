@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-23" />
   <meta name="citation_publication_date" content="2024-07-23" />
   <meta property="article:published_time" content="2024-07-23" />
-  <meta name="dc.modified" content="2024-07-23T11:26:56+00:00" />
-  <meta property="article:modified_time" content="2024-07-23T11:26:56+00:00" />
+  <meta name="dc.modified" content="2024-07-23T12:16:39+00:00" />
+  <meta property="article:modified_time" content="2024-07-23T12:16:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/58304881437ee8cf60910bdc61cc95276c22bf36/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/58304881437ee8cf60910bdc61cc95276c22bf36/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/58304881437ee8cf60910bdc61cc95276c22bf36/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/58304881437ee8cf60910bdc61cc95276c22bf36/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/031396e71e3c1a2b3116ab317b03dcebf74fbb66/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@5830488](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/58304881437ee8cf60910bdc61cc95276c22bf36)
+from [microct-ana-unibe-ch/microvasculature-manuscript@031396e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/031396e71e3c1a2b3116ab317b03dcebf74fbb66)
 on July 23, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...58304881437ee8cf60910bdc61cc95276c22bf36#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...031396e71e3c1a2b3116ab317b03dcebf74fbb66#files_bucket).
 </em></small>
 
 
@@ -253,6 +253,8 @@ Changes to the submitted version are visualized [here on GitHub](https://github.
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0002-6722-8996](https://orcid.org/0000-0002-6722-8996)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [RuslanHlushchuk](https://github.com/RuslanHlushchuk)
     <br>
   <small>
      Institute of Anatomy, University of Bern, Baltzerstrasse 2, CH-3012 Bern, Switzerland
