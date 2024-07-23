@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2024-07-22'
+date-meta: '2024-07-23'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2024-07-22" />
-  <meta name="citation_publication_date" content="2024-07-22" />
-  <meta property="article:published_time" content="2024-07-22" />
-  <meta name="dc.modified" content="2024-07-22T16:42:12+00:00" />
-  <meta property="article:modified_time" content="2024-07-22T16:42:12+00:00" />
+  <meta name="dc.date" content="2024-07-23" />
+  <meta name="citation_publication_date" content="2024-07-23" />
+  <meta property="article:published_time" content="2024-07-23" />
+  <meta name="dc.modified" content="2024-07-23T09:51:20+00:00" />
+  <meta property="article:modified_time" content="2024-07-23T09:51:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce3ada947777478f0c8686e72f975c51bbe6b8be/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce3ada947777478f0c8686e72f975c51bbe6b8be/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce3ada947777478f0c8686e72f975c51bbe6b8be/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/78c9c0e08a41ef32bb155d7aa530e5d920823712/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ce3ada947777478f0c8686e72f975c51bbe6b8be/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@78c9c0e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/78c9c0e08a41ef32bb155d7aa530e5d920823712)
-on July 22, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...78c9c0e08a41ef32bb155d7aa530e5d920823712#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@ce3ada9](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ce3ada947777478f0c8686e72f975c51bbe6b8be)
+on July 23, 2024.
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...ce3ada947777478f0c8686e72f975c51bbe6b8be#files_bucket).
 </em></small>
 
 
@@ -294,7 +294,7 @@ Our manuscript introduces the first non-destructive approach for 3D imaging of t
 
 ## Introduction {.page_break_before}
 
-Angiogenesis, the formation of new blood vessels from preexisting vessels, is crucial for skeletal development as well as for bone healing and regeneration [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106, @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
+Angiogenesis, the formation of new blood vessels from preexisting vessels, is crucial for skeletal development as well as for bone healing and regeneration [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106; @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
 In addition to carrying nutrients and growth factors, those newly formed blood vessels are a delivery route of stem cells and progenitor cells to the bone-defect site [@doi:10.1016/j.actbio.2018.07.050; @doi:10.1016/j.actbio.2019.02.021; @doi:10.3389/fbioe.2017.00068].
 In the case of bone grafts, many synthetic ones fail to bridge critically sized defects due to their inability to promote vascularization [@doi:10.1089/ten.teb.2009.0085; @doi:10.1152/ajpcell.00195.2022].
 The structural nature of skeletal tissue makes three-dimensional (3D) imaging of its vasculature extremely difficult.
@@ -369,7 +369,7 @@ The perfusion lasted until the organ of interest appeared completely blue [@doi:
 In bones, it is not possible to visually monitor this color change, thus perfusion of the neighboring soft tissues serves as an indirect marker of sufficient perfusion within the bone.
 To achieve correct perfusion of the vessels within the bone, we prolonged the perfusion time by instilling at least 2 ml of extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue.
 After μAngiofil polymerization we fixed the samples in a 4% paraformaldehyde (PFA) solution at 4° C and stored them in PFA until tomographic imaging.
-Samples were then imaged using a SKYSCAN 1172 (Bruker microCT, Kontich, Belgium).
+Samples were then imaged using a SKYSCAN 1172 (Bruker microCT N.V., Kontich, Belgium).
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder in a wet atmosphere.
 This scan was performed on a SKYSCAN 1172 with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.05° and 3 projections being averaged for noise reduction.
@@ -427,7 +427,7 @@ Projection images were recorded over a sample rotation of 180°, with one projec
 Each projection image with a size of 4904 x 3280 pixels was exposed for 2800 ms.
 This resulted in an isometric voxel size of 1.65 μm.
 
-The visualization (CTvox (v.3.3.1, microCT Bruker, Kontich, Belgium)) displays intratumoral vasculature and extensive defects in mineralized bone tissue.
+The visualization (CTvox (v.3.3.1), Bruker microCT N.V., Kontich, Belgium) displays intratumoral vasculature and extensive defects in mineralized bone tissue.
 Neighboring structures, such as the growth plate and the epiphysis or the menisci are also easily assessed (Fig. @fig:3).
 
 ![**microangioCT of a xenograft tumor implanted into tibia of 6 weeks old CB17SCID male mice.**
@@ -524,7 +524,7 @@ Such changes allow a non-complicated segmentation of bone and μAngiofil based o
   The dashed red line in panels A and B represents the location of the corresponding intensity profile displayed in panels A’ and B’.
   Panel C represents segmented vasculature using the dual energy approach.
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
-  Such changes in gray levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist, Bruker, Kontich, Belgium).
+  Such changes in gray levels allow a segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist, Bruker microCT N.V., Kontich, Belgium).
   Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World (2024.1), Comet Technologies Canada Inc., Montréal, Canada).](images/Fig7_DualEnergy.png){#fig:7}
 
 
