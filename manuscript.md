@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-25" />
   <meta name="citation_publication_date" content="2024-07-25" />
   <meta property="article:published_time" content="2024-07-25" />
-  <meta name="dc.modified" content="2024-07-25T11:48:59+00:00" />
-  <meta property="article:modified_time" content="2024-07-25T11:48:59+00:00" />
+  <meta name="dc.modified" content="2024-07-25T15:16:39+00:00" />
+  <meta property="article:modified_time" content="2024-07-25T15:16:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06012c262e1518feba1d4a80cc6fe1cd190347ae/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06012c262e1518feba1d4a80cc6fe1cd190347ae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06012c262e1518feba1d4a80cc6fe1cd190347ae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/06012c262e1518feba1d4a80cc6fe1cd190347ae/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@fcffa00](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/fcffa0087a542624fb45ba0b02507274c88de2b1)
+from [microct-ana-unibe-ch/microvasculature-manuscript@06012c2](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/06012c262e1518feba1d4a80cc6fe1cd190347ae)
 on July 25, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...fcffa0087a542624fb45ba0b02507274c88de2b1#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...06012c262e1518feba1d4a80cc6fe1cd190347ae#files_bucket).
 </em></small>
 
 
@@ -616,7 +616,7 @@ The presented method is suitable to answer important questions regarding the mic
 |---|---|
 |DH|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
 |OK|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|TH|Data curation; Investigation; Visualization; Writing – review & editing|
+|TH|Data curation; Investigation; Writing – review & editing|
 |EZ|Investigation; Methodology; Resources; Writing – review & editing|
 |MK|Methodology; Resources; Writing – review & editing|
 |SR|Resources; Writing – review & editing|
