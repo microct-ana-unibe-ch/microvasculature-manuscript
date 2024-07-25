@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-25" />
   <meta name="citation_publication_date" content="2024-07-25" />
   <meta property="article:published_time" content="2024-07-25" />
-  <meta name="dc.modified" content="2024-07-25T11:45:35+00:00" />
-  <meta property="article:modified_time" content="2024-07-25T11:45:35+00:00" />
+  <meta name="dc.modified" content="2024-07-25T11:48:59+00:00" />
+  <meta property="article:modified_time" content="2024-07-25T11:48:59+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fcffa0087a542624fb45ba0b02507274c88de2b1/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@4553826](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4553826ea783de945631b8eb24c8fb68402dc549)
+from [microct-ana-unibe-ch/microvasculature-manuscript@fcffa00](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/fcffa0087a542624fb45ba0b02507274c88de2b1)
 on July 25, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...4553826ea783de945631b8eb24c8fb68402dc549#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...fcffa0087a542624fb45ba0b02507274c88de2b1#files_bucket).
 </em></small>
 
 
@@ -397,8 +397,8 @@ We successfully established a bone-decalcifying protocol (for murine hind limb) 
 Decalcification of bone tissue does not negatively influence the bone structure itself, but reduces the X-ray absorption of bone tissue and thus makes it impossible to visualize it simultaneously with the vasculature (Fig. @fig:2 B).
 
 As described above, we instilled the lower body of 6 weeks old CB17SCID male mice with μAngiofil.
-After polymerization of the contrast agent, hind limbs were collected, fixed in 4% PFA and stored in PFA until scanning.
-After a first scan the hind limbs were decalcified over 7 days in 10% EDTA (pH 7.5) at room temperature and then a second scan was performed.
+Following polymerization of the contrast agent, the hind limbs were collected, fixed in 4% PFA, and stored in PFA until scanning.
+After an initial tomographic scan, the hind limbs were decalcified in 10% EDTA (pH 7.5) at room temperature for 7 days, followed by a second tomographic scan of the sample.
 
 These samples were imaged with a SKYSCAN 1172, with an X-ray source acceleration voltage of 59 kV and an X-ray source current of 167 μA.
 The X-rays were filtered by 0.25 mm of aluminum.
