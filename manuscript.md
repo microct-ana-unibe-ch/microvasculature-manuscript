@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-07-25" />
   <meta name="citation_publication_date" content="2024-07-25" />
   <meta property="article:published_time" content="2024-07-25" />
-  <meta name="dc.modified" content="2024-07-25T10:22:48+00:00" />
-  <meta property="article:modified_time" content="2024-07-25T10:22:48+00:00" />
+  <meta name="dc.modified" content="2024-07-25T11:45:35+00:00" />
+  <meta property="article:modified_time" content="2024-07-25T11:45:35+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/cbb635e46be1af71fa04eab280f474e9657462b2/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/cbb635e46be1af71fa04eab280f474e9657462b2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/cbb635e46be1af71fa04eab280f474e9657462b2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/cbb635e46be1af71fa04eab280f474e9657462b2/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/4553826ea783de945631b8eb24c8fb68402dc549/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@cbb635e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/cbb635e46be1af71fa04eab280f474e9657462b2)
+from [microct-ana-unibe-ch/microvasculature-manuscript@4553826](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/4553826ea783de945631b8eb24c8fb68402dc549)
 on July 25, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...cbb635e46be1af71fa04eab280f474e9657462b2#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0...4553826ea783de945631b8eb24c8fb68402dc549#files_bucket).
 </em></small>
 
 
@@ -355,8 +355,8 @@ Moreover, we show that the polymer-based contrast agent μAngiofil is suitable f
 In this study, we used one transgenic VEGF male 21 months old mouse (see @doi:10.1126/science.abc8479 for more details), 6 weeks old CB17SCID male mice, 12 weeks old C57BL/6 mice, and two Göttingen minipigs.
 Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation on the protection of animals and were approved by the corresponding committees.
 
-Murine experiments were approved by the local ethical committee of the Canton of Bern, Switzerland under the permit number BE 55/16.
-Minipig experiments were approved by the Malmö/Lund regional ethical committee, Sweden under license 5.8.18-15672/2019.
+Murine experiments were approved by the local Swiss ethical committee (Tierversuchskommission des Kantons Bern, Amt für Veterinärwesen, Bern, Switzerland) under the permit number BE 55/16.
+Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal Testing at the Lund District Court, Sweden under license 5.8.18-15672/2019.
 
 ### Contrast-enhanced microangioCT of mice using μAngiofil
 
