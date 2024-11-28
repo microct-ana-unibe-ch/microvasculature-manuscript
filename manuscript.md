@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-11-28" />
   <meta name="citation_publication_date" content="2024-11-28" />
   <meta property="article:published_time" content="2024-11-28" />
-  <meta name="dc.modified" content="2024-11-28T17:26:38+00:00" />
-  <meta property="article:modified_time" content="2024-11-28T17:26:38+00:00" />
+  <meta name="dc.modified" content="2024-11-28T17:29:11+00:00" />
+  <meta property="article:modified_time" content="2024-11-28T17:29:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@26dbae6](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/26dbae6e24bc68965762c3256d63bc487b7fcbc8)
+from [microct-ana-unibe-ch/microvasculature-manuscript@22e853f](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/22e853f68cb636970b7cc5b06da82b0c07f8de1e)
 on November 28, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...26dbae6e24bc68965762c3256d63bc487b7fcbc8#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...22e853f68cb636970b7cc5b06da82b0c07f8de1e#files_bucket).
 </em></small>
 
 
