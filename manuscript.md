@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2024-11-27'
+date-meta: '2024-11-28'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2024-11-27" />
-  <meta name="citation_publication_date" content="2024-11-27" />
-  <meta property="article:published_time" content="2024-11-27" />
-  <meta name="dc.modified" content="2024-11-27T10:50:17+00:00" />
-  <meta property="article:modified_time" content="2024-11-27T10:50:17+00:00" />
+  <meta name="dc.date" content="2024-11-28" />
+  <meta name="citation_publication_date" content="2024-11-28" />
+  <meta property="article:published_time" content="2024-11-28" />
+  <meta name="dc.modified" content="2024-11-28T17:23:19+00:00" />
+  <meta property="article:modified_time" content="2024-11-28T17:23:19+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d9781d9f60f91a73e001f498b42ac701bfe660f7/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d9781d9f60f91a73e001f498b42ac701bfe660f7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d9781d9f60f91a73e001f498b42ac701bfe660f7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d9781d9f60f91a73e001f498b42ac701bfe660f7/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@d9781d9](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d9781d9f60f91a73e001f498b42ac701bfe660f7)
-on November 27, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...d9781d9f60f91a73e001f498b42ac701bfe660f7#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@754d085](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/754d0853e39a06335e790da25857626c2f87a10b)
+on November 28, 2024.
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...754d0853e39a06335e790da25857626c2f87a10b#files_bucket).
 </em></small>
 
 
@@ -360,7 +360,12 @@ Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal 
 
 The following reporting adheres to the ARRIVE Guidelines 2.0 [@doi:10.1371/journal.pbio.3000411] for relevant items.
 
-### Contrast-enhanced microangioCT of mice using μAngiofil
+### Tomographic imaging
+For this study, we imaged all samples with different Bruker SkyScan X-ray microtomography scanner.
+An overview on the relevant scanning and reconstruction parameters is given in the text below. 
+A table listing all the scanning and reconstruction parameters of all the performed scans is given in the [Supplementary Materials].
+
+#### Contrast-enhanced microangioCT of mice using μAngiofil
 
 The contrast agent μAngiofil (Fumedica AG, Switzerland) was prepared according to the manufacturer's recommendations.
 The perfusion of the mice was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
@@ -374,13 +379,12 @@ The perfusion lasted until the organ of interest appeared completely blue [@doi:
 In bones, it is not possible to visually monitor this color change, thus perfusion of the neighboring soft tissues serves as an indirect marker of sufficient perfusion within the bone.
 To achieve correct perfusion of the vessels within the bone, we prolonged the perfusion time by instilling at least 2 ml of extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue.
 After μAngiofil polymerization we fixed the samples in a 4% paraformaldehyde (PFA) solution at 4° C and stored them in PFA until tomographic imaging.
-Samples were then imaged using a SKYSCAN 1172 (Bruker microCT N.V., Kontich, Belgium).
+Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium) with 
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder in a wet atmosphere.
-This scan was performed on a SKYSCAN 1172 with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
+Tomographic imaing was performed with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.05° and 3 projections being averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 985 ms.
-This resulted in an isometric voxel size of 2.99 μm.
-All scanning and reconstruction parameters for each dataset shown in each figure are given in the [Supplementary Materials].
+This resulted in datasets with an isometric voxel size of 2.99 μm.
 
 Figure @fig:1 shows the bone microstructure and vascularization of a tibia of a 21-month-old VEGF transgenic male mouse.
 This visualization approach enables a simultaneous display of bone and its vascularization.
@@ -393,7 +397,7 @@ These tomographic datasets were also used in another study [@doi:10.1126/science
   On the right side of the image, one can distinguish the bigger epiphyseal vessels.
   The bone tissue appears white at the plane of the virtual section through the microCT-dataset.](images/Fig1_murine tibia.png){#fig:1}
 
-### Decalcification of the μAngiofil-perfused murine tibia
+#### Decalcification of the μAngiofil-perfused murine tibia
 
 We successfully established a bone-decalcifying protocol (for murine hind limb) with 10% ethylenediamine tetra-acetic acid (EDTA) solution [@doi:10.1038/srep41842] by adapting previous work [@doi:10.1002/jemt.20720].
 
@@ -403,8 +407,8 @@ As described above, we instilled the lower body of 10 weeks old CB17SCID male mi
 Following polymerization of the contrast agent, the hind limbs were collected, fixed in 4% PFA, and stored in PFA until scanning.
 After an initial tomographic scan, the hind limbs were decalcified in 10% EDTA (pH 7.5) at room temperature for 7 days, followed by a second tomographic scan of the sample.
 
-These samples were imaged with a SKYSCAN 1172, with an X-ray source acceleration voltage of 59 kV and an X-ray source current of 167 μA.
-The X-rays were filtered by 0.25 mm of aluminum.
+These samples were imaged with a SkyScan 1172 (Version F, control software version 1.5 (build 23), Bruker microCT N.V., Kontich, Belgium), with an X-ray source acceleration voltage of 59 kV and an X-ray source current of 167 μA.
+The X-ray spectrum was filtered by 0.25 mm of aluminum.
 Projection images were recorded over a sample rotation of 180°, with one projection acquired at each 0.1° and 2 projections being averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 1740 ms.
 This resulted in an isometric voxel size of 3.19 μm.
@@ -417,7 +421,7 @@ This resulted in an isometric voxel size of 3.19 μm.
   At the external surface of the tibia, supplying arteries are visible (*arteria et vena nutricia* (avn)).
   The structure of the bone tissue is no more clearly detectable after the decalcification (B-B’).](images/Fig2_Decalcification.png){#fig:2}
 
-### Bone metastatic disease model, microangioCT
+#### Bone metastatic disease model, microangioCT
 
 As mentioned in the introduction, simultaneous imaging of bone and vasculature is crucial in a bone metastatic disease model.
 Since changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, decalcifying the bone tissue is highly unfavorable.
@@ -426,7 +430,7 @@ To verify the suitability of our microangioCT approach for imaging intratumoral 
 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6-week-old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was conducted at days 7, 14, 21 and 28 after implantation to monitor the progression of the lesions.
 Before perfusion with μAngiofil (as described above), the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
-The harvested and fixated murine hind limb (4% PFA at 4° C) was then imaged using a desktop microCT scanner SKYSCAN 1272 (Fig. @fig:3), with an X-ray source acceleration voltage of 60 kV and an X-ray source current of 166 μA.
+The harvested and fixated murine hind limb (4% PFA at 4° C) was then imaged using a desktop microCT scanner (Fig. @fig:3) (SkyScan 1272, control software 1.1.19, Bruker microCT N.V., Kontich, Belgium) with an X-ray source acceleration voltage of 60 kV and an X-ray source current of 166 μA.
 The X-rays were filtered by 0.25 mm of aluminum.
 Projection images were recorded over a sample rotation of 180°, with one projection acquired at each 0.1° and 3 projections being averaged for noise reduction.
 Each projection image with a size of 4904 x 3280 pixels was exposed for 2800 ms.
@@ -442,12 +446,13 @@ Neighboring structures, such as the growth plate and the epiphysis or the menisc
   C: A more deeply positioned virtual section displaying the inner surface of the diseased tibia.
   Besides irregularly patterned tumor vessels (in B & C) further bony structures like growth plate or calcified parts of the medial meniscus (MM) are clearly distinguishable.](images/Fig3_tumor tibia.png){#fig:3}
 
-### microangioCT of murine mandible and teeth
+#### microangioCT of murine mandible and teeth
 
 C57BL/6 mice were anesthetized (with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidin (0.5 mg/kg)), and their head was perfused with μAngiofil as described above.
 The perfused head was harvested and fixed (4% PFA at 4° C).
 Before tomographic imaging the mandible was excised, wrapped in a paper towel, and scanned in a sealed pipette tip.
-The mouse teeth were imaged using a desktop microCT scanner SKYSCAN 1172 (Fig. @fig:4), with an X-ray source acceleration voltage of 80 kV and an X-ray source current of 124 μA.
+
+The mouse teeth were imaged using a desktop microCT scanner (SkyScan 1172 (Version F, control software version 1.5 (build 23)), Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:4), with an X-ray source acceleration voltage of 80 kV and an X-ray source current of 124 μA.
 The X-rays were filtered by 0.5 mm of aluminum.
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.1° and 4 projections being averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 6260 ms.
@@ -462,7 +467,7 @@ The microvasculature of murine mandible, periodontal ligament, and the teeth (ev
   The microvessels within the pulp cavities and root canals are distinguishable.
   C: Detailed view of the dentogingival plexus and periodontal ligament vessels (PLV).](images/Fig4_mouse teeth.png){#fig:4}
 
-### microangioCT of the mandible in a large animal model (Göttingen Minipig)
+#### microangioCT of the mandible in a large animal model (Göttingen Minipig)
 
 Göttingen minipigs (Ellegaard Göttingen Minipig, Dalmose, Denmark) were anesthetized intramuscularly (25--35 mg/kg, Dexdomitor; Orion Pharma Animal Health and 50--70 mg/kg, Zoletil 100 Vet, Virbac) and intravenously heparinized with 300 IE/kg (Heparin LEO, LEO Pharma).
 After heparin infusion, the pigs were euthanized with an intravenous dose (100 mg/kg) of pentobarbital (Euthanimal vet, VM Pharma).
@@ -471,7 +476,7 @@ After washing out the blood with PBS, the corresponding head side was selectivel
 Otherwise, the perfusion was performed with the same approach as in the previously described mice experiments.
 After polymerization of μAngiofil we excised the mandible and fixated and stored it in 4% PFA solution at 4° C.
 
-Mandibles were then scanned with a SKYSCAN 1273 (Fig. @fig:5).
+Mandibles were then scanned with a SkyScan 1273 (control software version 1.1, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:5).
 The scans were performed with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 80 μA.
 The X-rays were filtered by 1 mm of aluminum and 0.2 mm of copper.
 For the visualization shown in panel A, we recorded projection images with a size of 3072 x 1944 pixels over a sample rotation of 360°, with one projection acquired at each 0.1° and 5 projections being averaged for noise reduction.
@@ -497,7 +502,7 @@ While microCT imaging allows for non-destructive, fully 3D imaging of dental res
 A decalcification step reduces the density of the sample but inevitably leads to the loss of information on the bone microstructure making the simultaneous assessment of the bone and vessels impossible [@doi:10.1038/s41598-017-13632-5].
 For distinguishing the vasculature from both the metal implants and the mineralized bone tissue, we instilled the vasculature with a suitable contrast agent (μAngiofil).
 The X-ray absorption characteristics of μAngiofil make it possible to visualize and differentiate between soft tissue, bone tissue, contrast agent-filled vessels as well as metal (titanium) implants.
-We imaged an μAngiofil-instilled minipig hemimandibula with a SKYSCAN 2214 (Fig. @fig:6), with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 100 μA.
+We imaged an μAngiofil-instilled minipig hemimandibula with a SkyScan 2214 (control software version 1.0.0, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:6), with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 100 μA.
 The X-rays were filtered by 1 mm of copper.
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.18° and 4 projections being averaged for noise reduction.
 Each projection image with a size of 2929 x 1944 pixels was exposed for 1080 ms.
@@ -520,8 +525,13 @@ Although decalcification may be helpful (see Fig. @fig:2), there is another appr
 It has been demonstrated previously that microscopic dual energy CT imaging (microDECT) using commercial lab-based microCT setups can achieve a spectral separation of two or three materials at micron resolution [@doi:10.1111/jmi.12543].
 Importantly, hydroxyapatite (the mineral in bone and teeth) versus iodine (the high-Z component in μAngiofil) offer optimal properties for spectral X-Ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007/s13244-010-0057-0; @doi:10.1118/1.594374].
 
-We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using out multiscale scanner SkyScan 2214 (Fig. @fig:7).
-For our scanner the optimal combination was 50 kV and 90 kV: in comparison to 50 kV, at 90 kV the gray value of the bone tissue was decreased and the gray value of μAngiofil increased (Fig. @fig:7 C’).
+We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (control software version 1.8, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:7).
+The optimal dual-energy combination of the x-ray source were 50 kV/120 uA and 90 kV/100 uA (acceleration voltage/source current).
+Projection images were recorded over a sample rotation of 360°, with one projection acquired at every [.1° and 7 projections being averaged for noise reduction.
+Each projection image with a size of 4032 x 2688 pixels was exposed for 6000 ms (on average).
+This resulted in datasets with an isometric voxel size of 1.4 μm.
+
+In comparison to 50 kV, at 90 kV the gray value of the bone tissue was decreased and the gray value of μAngiofil increased (Fig. @fig:7 C’).
 Such changes allow a non-complicated segmentation of bone and μAngiofil based on the combined histogram (Fig. @fig:7 C’’).
 
 ![**Dual energy microangioCT of a murine mandibula.**
