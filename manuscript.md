@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-11-28" />
   <meta name="citation_publication_date" content="2024-11-28" />
   <meta property="article:published_time" content="2024-11-28" />
-  <meta name="dc.modified" content="2024-11-28T17:23:19+00:00" />
-  <meta property="article:modified_time" content="2024-11-28T17:23:19+00:00" />
+  <meta name="dc.modified" content="2024-11-28T17:26:38+00:00" />
+  <meta property="article:modified_time" content="2024-11-28T17:26:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/754d0853e39a06335e790da25857626c2f87a10b/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/26dbae6e24bc68965762c3256d63bc487b7fcbc8/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@754d085](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/754d0853e39a06335e790da25857626c2f87a10b)
+from [microct-ana-unibe-ch/microvasculature-manuscript@26dbae6](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/26dbae6e24bc68965762c3256d63bc487b7fcbc8)
 on November 28, 2024.
-Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...754d0853e39a06335e790da25857626c2f87a10b#files_bucket).
+Changes to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...26dbae6e24bc68965762c3256d63bc487b7fcbc8#files_bucket).
 </em></small>
 
 
@@ -379,9 +379,9 @@ The perfusion lasted until the organ of interest appeared completely blue [@doi:
 In bones, it is not possible to visually monitor this color change, thus perfusion of the neighboring soft tissues serves as an indirect marker of sufficient perfusion within the bone.
 To achieve correct perfusion of the vessels within the bone, we prolonged the perfusion time by instilling at least 2 ml of extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue.
 After μAngiofil polymerization we fixed the samples in a 4% paraformaldehyde (PFA) solution at 4° C and stored them in PFA until tomographic imaging.
-Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium) with 
+Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium).
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder in a wet atmosphere.
-Tomographic imaing was performed with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
+Tomographic imaging was performed with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at each 0.05° and 3 projections being averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 985 ms.
 This resulted in datasets with an isometric voxel size of 2.99 μm.
@@ -430,7 +430,7 @@ To verify the suitability of our microangioCT approach for imaging intratumoral 
 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6-week-old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was conducted at days 7, 14, 21 and 28 after implantation to monitor the progression of the lesions.
 Before perfusion with μAngiofil (as described above), the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
-The harvested and fixated murine hind limb (4% PFA at 4° C) was then imaged using a desktop microCT scanner (Fig. @fig:3) (SkyScan 1272, control software 1.1.19, Bruker microCT N.V., Kontich, Belgium) with an X-ray source acceleration voltage of 60 kV and an X-ray source current of 166 μA.
+The harvested and fixated murine hind limb (4% PFA at 4° C) was then imaged using a desktop microCT scanner (SkyScan 1272, control software 1.1.19, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:3) with an X-ray source acceleration voltage of 60 kV and an X-ray source current of 166 μA.
 The X-rays were filtered by 0.25 mm of aluminum.
 Projection images were recorded over a sample rotation of 180°, with one projection acquired at each 0.1° and 3 projections being averaged for noise reduction.
 Each projection image with a size of 4904 x 3280 pixels was exposed for 2800 ms.
