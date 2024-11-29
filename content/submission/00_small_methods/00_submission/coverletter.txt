@@ -1,0 +1,15 @@
+Dear Editorial Board
+
+Herewith we submit our manuscript on *MicroCT-based imaging of microvasculature within the bone tissue* as an original contribution to Small Methods.
+David Haberthür and Oleksiy-Zakhar Khoma equally contributed to the work.
+
+The manuscript introduces contrast agent enhanced X-ray microtomographic imaging and visualization of vasculature within bone tissue in small and large animal models.
+This study documents simultaneous microvascular and bone imaging in murine tibia, murine bone metastatic model, pulp chamber, gingiva and periodontal ligaments.
+In a large animal model (minipig) we present the visualization and segmentation of different tissue types and vessels in the hemimandible containing several metal implants.
+
+Herewith we provide for the first time a non-destructive 3D-imaging approach of the vasculature within soft and hard tissues in the vicinity of metal implants in a large animal model.
+The presented approach is, according to our knowledge, the best what can be achieved with the modern microCT-scanners and is a big step forward for qualitative and quantitative imaging in the tissue engineering and implantology research as well as many other related research fields.
+
+A preprint of the manuscript has been deposited to biorRχiv.
+
+We are looking forward to your positive, feedback.
