@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2024-11-28'
+date-meta: '2024-11-29'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2024-11-28" />
-  <meta name="citation_publication_date" content="2024-11-28" />
-  <meta property="article:published_time" content="2024-11-28" />
-  <meta name="dc.modified" content="2024-11-28T17:29:11+00:00" />
-  <meta property="article:modified_time" content="2024-11-28T17:29:11+00:00" />
+  <meta name="dc.date" content="2024-11-29" />
+  <meta name="citation_publication_date" content="2024-11-29" />
+  <meta property="article:published_time" content="2024-11-29" />
+  <meta name="dc.modified" content="2024-11-29T09:21:17+00:00" />
+  <meta property="article:modified_time" content="2024-11-29T09:21:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0b67e320bccaa67f87f71611d89c603567cc5fbd/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0b67e320bccaa67f87f71611d89c603567cc5fbd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0b67e320bccaa67f87f71611d89c603567cc5fbd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/22e853f68cb636970b7cc5b06da82b0c07f8de1e/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0b67e320bccaa67f87f71611d89c603567cc5fbd/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@22e853f](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/22e853f68cb636970b7cc5b06da82b0c07f8de1e)
-on November 28, 2024.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...22e853f68cb636970b7cc5b06da82b0c07f8de1e#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@0b67e32](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/0b67e320bccaa67f87f71611d89c603567cc5fbd)
+on November 29, 2024.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...0b67e320bccaa67f87f71611d89c603567cc5fbd#files_bucket).
 </em></small>
 
 
@@ -627,28 +627,28 @@ The presented method is suitable to answer important questions regarding the mic
 
 |Author|Contributions|
 |---|---|
-|DH|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|OK|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|TH|Data curation; Investigation; Writing – review & editing|
-|EZ|Investigation; Methodology; Resources; Writing – review & editing|
-|MK|Methodology; Resources; Writing – review & editing|
-|SR|Resources; Writing – review & editing|
-|MG|Investigation; Methodology; Resources; Writing – review & editing|
-|BB|Investigation; Methodology; Writing – review & editing|
-|RS|Investigation; Writing – review & editing|
-|SH|Methodology; Writing – review & editing|
-|BP|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
-|DB|Methodology; Writing – review & editing|
-|VD|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
-|RH|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|David Haberthür|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|Oleksiy-Zakhar Khoma|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
+|Tim Hoessly|Data curation; Investigation; Writing – review & editing|
+|Eugenio Zoni|Investigation; Methodology; Resources; Writing – review & editing|
+|Marianna Kruithof-de Julio|Methodology; Resources; Writing – review & editing|
+|Stewart D. Ryan|Resources; Writing – review & editing|
+|Myriam Grunewald|Investigation; Methodology; Resources; Writing – review & editing|
+|Benjamin Bellón|Investigation; Methodology; Writing – review & editing|
+|Rebecca Sandgren|Investigation; Writing – review & editing|
+|Stephan Handschuh|Methodology; Writing – review & editing|
+|Benjamin E. Pippenger|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
+|Dieter Bosshardt|Methodology; Writing – review & editing|
+|Valentin Djonov|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
+|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
 
 
 ## Conflicts of interest {.page_break_before}
 
 |Author|Conflict|
 |---|---|
-|BB|Employed by a company producing dental implants|
-|BP|Employed by a company producing dental implants|
+|Benjamin Bellón|Employed by a company producing dental implants|
+|Benjamin E. Pippenger|Employed by a company producing dental implants|
 
 
 
