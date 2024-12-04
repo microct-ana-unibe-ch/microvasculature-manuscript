@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-12-04" />
   <meta name="citation_publication_date" content="2024-12-04" />
   <meta property="article:published_time" content="2024-12-04" />
-  <meta name="dc.modified" content="2024-12-04T10:43:32+00:00" />
-  <meta property="article:modified_time" content="2024-12-04T10:43:32+00:00" />
+  <meta name="dc.modified" content="2024-12-04T12:17:04+00:00" />
+  <meta property="article:modified_time" content="2024-12-04T12:17:04+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d78eb1544ff617e80d965fa2e62d75b591e69c70/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d78eb1544ff617e80d965fa2e62d75b591e69c70/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d78eb1544ff617e80d965fa2e62d75b591e69c70/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/668f56ec287761261650644f932140667f6fb53a/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/668f56ec287761261650644f932140667f6fb53a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/668f56ec287761261650644f932140667f6fb53a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The version of the manuscript you see here
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d78eb1544ff617e80d965fa2e62d75b591e69c70/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/668f56ec287761261650644f932140667f6fb53a/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@d78eb15](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d78eb1544ff617e80d965fa2e62d75b591e69c70)
+from [microct-ana-unibe-ch/microvasculature-manuscript@668f56e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/668f56ec287761261650644f932140667f6fb53a)
 on December 4, 2024.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...d78eb1544ff617e80d965fa2e62d75b591e69c70#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...668f56ec287761261650644f932140667f6fb53a#files_bucket).
 </em></small>
 
 
@@ -534,7 +534,7 @@ This resulted in datasets with an isotropic voxel size of 1.4 μm.
 In comparison to 50 kV, at 90 kV the gray value of the bone tissue was decreased and the gray value of μAngiofil increased (Fig. @fig:7 C’).
 Such changes allow a non-complicated segmentation of bone and μAngiofil based on the combined histogram (Fig. @fig:7 C’’).
 
-![**dual-energy microAngioCT of a murine mandibula.**
+![**Dual-energy microAngioCT of a murine mandibula.**
   Panel A and B represent virtual sections through the microCT datasets obtained at different accelerating voltages: 50 kV (A) and 90 kV (B).
   The dashed red line in panels A and B represents the location of the corresponding intensity profile displayed in panels A’ and B’.
   Panel C represents segmented vasculature using the dual-energy approach.
