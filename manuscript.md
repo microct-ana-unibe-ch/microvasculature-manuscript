@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2024-12-05" />
   <meta name="citation_publication_date" content="2024-12-05" />
   <meta property="article:published_time" content="2024-12-05" />
-  <meta name="dc.modified" content="2024-12-05T15:15:17+00:00" />
-  <meta property="article:modified_time" content="2024-12-05T15:15:17+00:00" />
+  <meta name="dc.modified" content="2024-12-05T16:12:41+00:00" />
+  <meta property="article:modified_time" content="2024-12-05T16:12:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be7e13bbfb2a06c641670ebe5de5c4c746deea63/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be7e13bbfb2a06c641670ebe5de5c4c746deea63/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be7e13bbfb2a06c641670ebe5de5c4c746deea63/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be7e13bbfb2a06c641670ebe5de5c4c746deea63/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@be7e13b](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/be7e13bbfb2a06c641670ebe5de5c4c746deea63)
+from [microct-ana-unibe-ch/microvasculature-manuscript@0de83d7](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/0de83d720061fa502ff1d2c64f409ce66e4535e4)
 on December 5, 2024.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...be7e13bbfb2a06c641670ebe5de5c4c746deea63#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...0de83d720061fa502ff1d2c64f409ce66e4535e4#files_bucket).
 </em></small>
 
 
@@ -382,7 +382,7 @@ After μAngiofil polymerization, samples were fixed in a 4 % paraformaldehyde (P
 Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium).
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder under humid conditions.
 Tomographic imaging was performed with an X-ray source acceleration voltage of 49 kV and an X-ray source current of 200 μA.
-Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.05° with 3 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.05°, with 3 projections averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 985 ms.
 This resulted in datasets with an isotropic voxel size of 2.99 μm.
 
@@ -409,7 +409,7 @@ After an initial tomographic scan, the hind limbs were decalcified in 10% EDTA (
 
 These samples were imaged with a SkyScan 1172 (Version F, control software version 1.5 (build 23), Bruker microCT N.V., Kontich, Belgium), with an X-ray source acceleration voltage of 59 kV and an X-ray source current of 167 μA.
 The X-ray spectrum was filtered by 0.25 mm of aluminum.
-Projection images were recorded over a sample rotation of 180°, with one projection acquired at every 0.1° with 2 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 180°, with one projection acquired at every 0.1°, with 2 projections averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 1740 ms.
 This resulted in an isotropic voxel size of 3.19 μm.
 
@@ -432,7 +432,7 @@ The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was 
 Before perfusion with μAngiofil (as described above), the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
 The harvested and fixated murine hind limb (4 % PFA at 4 °C) was then imaged using a desktop microCT scanner (SkyScan 1272, control software 1.1.19, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:3) with an X-ray source acceleration voltage of 60 kV and an X-ray source current of 166 μA.
 The X-rays were filtered by 0.25 mm of aluminum.
-Projection images were recorded over a sample rotation of 180°, with one projection acquired at every 0.1° with 3 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 180°, with one projection acquired at every 0.1°, with 3 projections averaged for noise reduction.
 Each projection image with a size of 4904 x 3280 pixels was exposed for 2800 ms.
 This resulted in an isotropic voxel size of 1.65 μm.
 
@@ -454,7 +454,7 @@ Before tomographic imaging the mandible was excised, wrapped in a paper towel, a
 
 The mouse teeth were imaged using a desktop microCT scanner (SkyScan 1172 (Version F, control software version 1.5 (build 23)), Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:4), with an X-ray source acceleration voltage of 80 kV and an X-ray source current of 124 μA.
 The X-rays were filtered by 0.5 mm of aluminum.
-Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.1° with 4 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.1°, with 4 projections averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels was exposed for 6260 ms.
 This resulted in an isotropic voxel size of 1 μm.
 
@@ -479,10 +479,10 @@ After the polymerization of μAngiofil, we excised the mandible and fixated and 
 Mandibles were then scanned with a SkyScan 1273 (control software version 1.1, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:5).
 The scans were performed with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 80 μA.
 The X-rays were filtered by 1 mm of aluminum and 0.2 mm of copper.
-For the visualization shown in panel A, we recorded projection images with a size of 3072 x 1944 pixels over a sample rotation of 360°, with one projection acquired at every 0.1° with 5 projections averaged for noise reduction.
+For the visualization shown in panel A, we recorded projection images with a size of 3072 x 1944 pixels over a sample rotation of 360°, with one projection acquired at every 0.1°, with 5 projections averaged for noise reduction.
 Each projection image was exposed for 225 ms.
 This resulted in an isotropic voxel size of 21 μm.
-For the visualizations shown in panels B and C, the sample was rotated over 360° with one projection acquired at every 0.15°, and 5 projections averaged for noise reduction.
+For the visualizations shown in panels B and C, the sample was rotated over 360° with one projection acquired at every 0.15°, with 5 projections averaged for noise reduction.
 In addition, two horizontally overlapping projections were stitched to one projection with a size of 4832 x 1944 px to increase the imaged sample volume.
 Each projection image was exposed for 225 ms.
 This resulted in an isotropic voxel size of 9 μm.
@@ -505,7 +505,7 @@ To distinguish the vasculature from both the metal implants and the mineralized 
 The X-ray absorption characteristics of μAngiofil make it possible to visualize and differentiate between soft tissue, bone tissue, contrast agent-filled vessels as well as metal (titanium) implants.
 We imaged an μAngiofil-instilled minipig hemimandibula with a SkyScan 2214 (control software version 1.0.0, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:6), with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 100 μA.
 The X-rays were filtered by 1 mm of copper.
-Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.18° with 4 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.18°, with 4 projections averaged for noise reduction.
 Each projection image with a size of 2929 x 1944 pixels was exposed for 1080 ms.
 This resulted in an isotropic voxel size of 8 μm.
 
@@ -528,7 +528,7 @@ Notably, the contrasting properties of hydroxyapatite (the primary mineral in bo
 
 We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (control software version 1.8, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:7).
 The optimal dual-energy settings for the X-ray source were 50 kV/120 µA and 90 kV/100 µA (acceleration voltage/source current).
-Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.1° with 7 projections averaged for noise reduction.
+Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.1°, with 7 projections averaged for noise reduction.
 Each projection image with a size of 4032 x 2688 pixels was exposed for 6000 ms (on average).
 This resulted in datasets with an isotropic voxel size of 1.4 μm.
 
@@ -617,7 +617,8 @@ However, for larger samples, such as the minipig hemimandible, the achievable vo
 In such cases, the finest microvessels with diameters under 40 μm cannot be accurately visualized (see Fig. @fig:5 & @fig:6).
 
 Beyond the inherent limitations of tomographic imaging, the approach presented here—instilling the vasculature in bone tissue with a polymerizing contrast agent—marks a significant advancement in both qualitative and quantitative imaging.
-This innovative method holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields."
+This innovative method holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
+
 
 ## Author Contributions {.page_break_before}
 
