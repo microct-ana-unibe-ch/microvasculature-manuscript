@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2024-12-05'
+date-meta: '2024-12-06'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2024-12-05" />
-  <meta name="citation_publication_date" content="2024-12-05" />
-  <meta property="article:published_time" content="2024-12-05" />
-  <meta name="dc.modified" content="2024-12-05T16:12:41+00:00" />
-  <meta property="article:modified_time" content="2024-12-05T16:12:41+00:00" />
+  <meta name="dc.date" content="2024-12-06" />
+  <meta name="citation_publication_date" content="2024-12-06" />
+  <meta property="article:published_time" content="2024-12-06" />
+  <meta name="dc.modified" content="2024-12-06T10:54:16+00:00" />
+  <meta property="article:modified_time" content="2024-12-06T10:54:16+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/829e482233bbce26d94ff2fe11a39130982e99d9/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/829e482233bbce26d94ff2fe11a39130982e99d9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/829e482233bbce26d94ff2fe11a39130982e99d9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v2.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0de83d720061fa502ff1d2c64f409ce66e4535e4/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/829e482233bbce26d94ff2fe11a39130982e99d9/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@0de83d7](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/0de83d720061fa502ff1d2c64f409ce66e4535e4)
-on December 5, 2024.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...0de83d720061fa502ff1d2c64f409ce66e4535e4#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@829e482](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/829e482233bbce26d94ff2fe11a39130982e99d9)
+on December 6, 2024.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v2.0.1...829e482233bbce26d94ff2fe11a39130982e99d9#files_bucket).
 </em></small>
 
 
@@ -527,7 +527,7 @@ Previous studies have demonstrated that microscopic dual-energy CT imaging (micr
 Notably, the contrasting properties of hydroxyapatite (the primary mineral in bone and teeth) and iodine (the high-Z component in μAngiofil) make them ideal for spectral X-ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007/s13244-010-0057-0; @doi:10.1118/1.594374].
 
 We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (control software version 1.8, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:7).
-The optimal dual-energy settings for the X-ray source were 50 kV/120 µA and 90 kV/100 µA (acceleration voltage/source current).
+The optimal dual-energy settings for the X-ray source were 50 kV/120 µA and 90 kV/100 µA, respectively (acceleration voltage/source current).
 Projection images were recorded over a sample rotation of 360°, with one projection acquired at every 0.1°, with 7 projections averaged for noise reduction.
 Each projection image with a size of 4032 x 2688 pixels was exposed for 6000 ms (on average).
 This resulted in datasets with an isotropic voxel size of 1.4 μm.
