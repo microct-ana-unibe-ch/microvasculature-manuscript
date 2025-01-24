@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-01-24" />
   <meta name="citation_publication_date" content="2025-01-24" />
   <meta property="article:published_time" content="2025-01-24" />
-  <meta name="dc.modified" content="2025-01-24T07:32:10+00:00" />
-  <meta property="article:modified_time" content="2025-01-24T07:32:10+00:00" />
+  <meta name="dc.modified" content="2025-01-24T07:45:39+00:00" />
+  <meta property="article:modified_time" content="2025-01-24T07:45:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/54b86a4971bc9863c54cc286617616d5b18a5f04/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/54b86a4971bc9863c54cc286617616d5b18a5f04/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/54b86a4971bc9863c54cc286617616d5b18a5f04/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v3.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/54b86a4971bc9863c54cc286617616d5b18a5f04/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@54b86a4](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/54b86a4971bc9863c54cc286617616d5b18a5f04)
+from [microct-ana-unibe-ch/microvasculature-manuscript@5db0800](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/5db080079f32573eb14700e9480e081a35d0058b)
 on January 24, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...54b86a4971bc9863c54cc286617616d5b18a5f04#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...5db080079f32573eb14700e9480e081a35d0058b#files_bucket).
 </em></small>
 
 
@@ -294,7 +294,7 @@ Moreover, we show the potential of the dual-energy approach in facilitating the 
 Our manuscript introduces the first non-destructive approach for 3D imaging of the vasculature within soft and hard tissues in the vicinity of metal implants in a large animal model.
 
 
-alone ## Introduction {.page_break_before}
+## Introduction {.page_break_before}
 
 Angiogenesis, the formation of new blood vessels from preexisting vessels, is crucial for skeletal development as well as for bone healing and regeneration [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106; @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
 In addition to carrying nutrients and growth factors, those newly formed blood vessels are a delivery route of stem cells and progenitor cells to the bone-defect site [@doi:10.1016/j.actbio.2018.07.050; @doi:10.1016/j.actbio.2019.02.021; @doi:10.3389/fbioe.2017.00068].
