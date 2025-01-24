@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-01-22'
+date-meta: '2025-01-24'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2025-01-22" />
-  <meta name="citation_publication_date" content="2025-01-22" />
-  <meta property="article:published_time" content="2025-01-22" />
-  <meta name="dc.modified" content="2025-01-22T09:23:43+00:00" />
-  <meta property="article:modified_time" content="2025-01-22T09:23:43+00:00" />
+  <meta name="dc.date" content="2025-01-24" />
+  <meta name="citation_publication_date" content="2025-01-24" />
+  <meta property="article:published_time" content="2025-01-24" />
+  <meta name="dc.modified" content="2025-01-24T07:24:48+00:00" />
+  <meta property="article:modified_time" content="2025-01-24T07:24:48+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0ff45a36ac51e1e92abec62fb2db265c67d51b8/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0ff45a36ac51e1e92abec62fb2db265c67d51b8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0ff45a36ac51e1e92abec62fb2db265c67d51b8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e22ea04f22feb312897c1cf33688d68f2715e999/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e22ea04f22feb312897c1cf33688d68f2715e999/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e22ea04f22feb312897c1cf33688d68f2715e999/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v3.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d0ff45a36ac51e1e92abec62fb2db265c67d51b8/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e22ea04f22feb312897c1cf33688d68f2715e999/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@d0ff45a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d0ff45a36ac51e1e92abec62fb2db265c67d51b8)
-on January 22, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...d0ff45a36ac51e1e92abec62fb2db265c67d51b8#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@e22ea04](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/e22ea04f22feb312897c1cf33688d68f2715e999)
+on January 24, 2025.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...e22ea04f22feb312897c1cf33688d68f2715e999#files_bucket).
 </em></small>
 
 
@@ -286,7 +286,7 @@ Limited differences in radiopacity between perfusion agents and mineralized bone
 A decalcification step resolves this issue but inhibits the simultaneous assessment of bone microstructure and vascular morphology.
 The problem of contrasting becomes further compounded in samples with metal implants.
 
-This study describes μAngiofil-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, with and without decalcification.
+This study describes contrast-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, also in the vicinity of the metal implants.
 We present simultaneous microvascular and bone imaging in murine tibia, a murine bone metastatic model, the pulp chamber, gingiva, and periodontal ligaments.
 In a large animal model (minipig), we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
 Moreover, we show the potential of the dual-energy approach in facilitating the distinction between bone tissue and the applied contrast agent.
