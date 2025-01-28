@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-01-24'
+date-meta: '2025-01-28'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2025-01-24" />
-  <meta name="citation_publication_date" content="2025-01-24" />
-  <meta property="article:published_time" content="2025-01-24" />
-  <meta name="dc.modified" content="2025-01-24T07:45:39+00:00" />
-  <meta property="article:modified_time" content="2025-01-24T07:45:39+00:00" />
+  <meta name="dc.date" content="2025-01-28" />
+  <meta name="citation_publication_date" content="2025-01-28" />
+  <meta property="article:published_time" content="2025-01-28" />
+  <meta name="dc.modified" content="2025-01-28T16:17:01+00:00" />
+  <meta property="article:modified_time" content="2025-01-28T16:17:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v3.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5db080079f32573eb14700e9480e081a35d0058b/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@5db0800](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/5db080079f32573eb14700e9480e081a35d0058b)
-on January 24, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...5db080079f32573eb14700e9480e081a35d0058b#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@be664c0](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa)
+on January 28, 2025.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v3.0...be664c0f4d4f8a4d99ca11bc522ef9cd3f02e6fa#files_bucket).
 </em></small>
 
 
@@ -600,7 +600,7 @@ Significant anisotropic distortion of the sample may alter the implant-tissue in
 The limitation of the maximal achievable imaging depth makes such an approach impractical for usage in large animal models.
 
 Our presented microAngioCT approach does not have such limitations and can be easily applied for visualization of hemimandible and its vascularization in a large animal model like Göttingen minipig (Fig. @fig:5).
-μAngiofil exhibits significantly different attenuation properties than mineralized bone in most species and allows for distinction, segmentation and visualization of soft tissue, bone tissue, vessels filled with the contrast agent as well as metal implants according to their gray values in the histogram (Fig. @fig:6).
+Iodine-based μAngiofil exhibits significantly different attenuation properties than mineralized bone in most species and allows for distinction, segmentation and visualization of soft tissue, bone tissue, vessels filled with the contrast agent as well as metal implants according to their gray values in the histogram (Fig. @fig:6).
 
 To the best of our knowledge, our study is the first to demonstrate non-destructive 3D imaging of the microvasculature of bone in the proximity of metal objects/implants in a large animal model.
 
@@ -616,7 +616,7 @@ For small samples, such as those just a few millimeters in diameter, voxel sizes
 However, for larger samples, such as the minipig hemimandible, the achievable voxel size is approximately 10 times larger (≥8 μm).
 In such cases, the finest microvessels with diameters under 40 μm cannot be accurately visualized (see Fig. @fig:5 & @fig:6).
 
-Beyond the inherent limitations of tomographic imaging, the approach presented here—instilling the vasculature in bone tissue with a polymerizing contrast agent—marks a significant advancement in both qualitative and quantitative imaging.
+Beyond the inherent limitations of tomographic imaging, the approach presented here—instilling the vasculature in bone tissue with a polymerizing contrast agent—marks a significant advancement in biomedical x-ray imaging.
 This innovative method holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
 
 
