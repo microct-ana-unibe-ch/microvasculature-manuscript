@@ -9,5 +9,5 @@ filters:
 - citeproc
 wrap: preserve
 metadata:
-  csl: https://www.zotero.org/styles/journal-of-microscopy
+  csl: https://www.zotero.org/styles/elsevier-with-titles-alphabetical
   link-citations: true
