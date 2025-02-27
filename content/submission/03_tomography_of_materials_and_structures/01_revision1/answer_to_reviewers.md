@@ -2,32 +2,64 @@
 
 ## Reviewer 1
 
-> Reviewer #1: The study proposes a contrast agent - the µAngiofil - that promises to fill even microvessels; its performance was verified by the authors ex-vivo on different animal models: i.e nr. 1 21-month-old transgenic VEGF male mouse, five CB17SCID male mice, three C57BL/6 mice, and two Göttingen minipigs. Different microtomographic systems, with several experimental settings were tested in order to allow the analysis of biopsies of interest in the field of dentistry and oral pathology. The contrast agent is already on the market and, according to what the authors claim, it holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
-Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
+> The study proposes a contrast agent - the µAngiofil - that promises to fill even microvessels; its performance was verified by the authors ex-vivo on different animal models: i.e nr. 1 21-month-old transgenic VEGF male mouse, five CB17SCID male mice, three C57BL/6 mice, and two Göttingen minipigs.
+> Different microtomographic systems, with several experimental settings were tested in order to allow the analysis of biopsies of interest in the field of dentistry and oral pathology.
+> The contrast agent is already on the market and, according to what the authors claim, it holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
+> Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
 
 ### Main Comments:
-> 1. Therefore, the first doubt lies in the novelty of the study. In fact, there are already several studies in the literature that use microAngiofill also for the study of bone tissue. For this reason, it would be appropriate to better outline how this study surpasses the performance of previous ones, paying particular attention to citing all these studies.
-> 2. Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
-> 3. In any case this reviewer continues to consider the proposed problem relating to the simultaneous visualization of soft tissues (in this specific case, the vascular endothelium) and hard tissues (bones, teeth, dental implants, etc.) through the use of the benchtop microCT. Unfortunately, this reviewer fears that the problem has not been well focused in the present study and, consequently, the experimental method to address that. In fact, both in dental diagnostics and in oral pathology, up to bone tissue engineering, the object of study requires a very high resolution to be able to visualize even the smallest blood capillaries which are the main actors in tumor kinetics and tissue regeneration. Consequently, to appreciate the effectiveness of this contrast medium, it is first necessary to have a high-resolution tomograph (I would say a nanotomograph!) to maintain a single experimental setting for all the tests. Subsequently, it is necessary to provide an adequate number of biopsies (same situ in animal models of the same strain, age, sex, etc) that present the same clinical problem, in order to proceed with a quantitative analysis compared to a control group (also made of adequate number of elements).
+> Therefore, the first doubt lies in the novelty of the study.
+> In fact, there are already several studies in the literature that use microAngiofill also for the study of bone tissue.
+> For this reason, it would be appropriate to better outline how this study surpasses the performance of previous ones, paying particular attention to citing all these studies.
+
+
+> Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
+
+
+> In any case this reviewer continues to consider the proposed problem relating to the simultaneous visualization of soft tissues (in this specific case, the vascular endothelium) and hard tissues (bones, teeth, dental implants, etc.) through the use of the benchtop microCT.
+> Unfortunately, this reviewer fears that the problem has not been well focused in the present study and, consequently, the experimental method to address that.
+> In fact, both in dental diagnostics and in oral pathology, up to bone tissue engineering, the object of study requires a very high resolution to be able to visualize even the smallest blood capillaries which are the main actors in tumor kinetics and tissue regeneration.
+> Consequently, to appreciate the effectiveness of this contrast medium, it is first necessary to have a high-resolution tomograph (I would say a nanotomograph!) to maintain a single experimental setting for all the tests.
+> Subsequently, it is necessary to provide an adequate number of biopsies (same situ in animal models of the same strain, age, sex, etc) that present the same clinical problem, in order to proceed with a quantitative analysis compared to a control group (also made of adequate number of elements).
 > In fact, only a quantitative analysis, based on selection of appropriate shape complexity features, can establish the actual efficacy of a contrast agent in these contexts. The visualization of large vessels as performed in your work does not determine the effectiveness of contrast agents in solving problems that are more specifically related to micro vessels, to capillaries, for example in the case of tumor invasion.
 
 ### Minor comments:
 
-> 4. In the Materials and Methods chapter, it would be necessary to insert a descriptive table of each animal model studied, reporting strain, age, number, sex, model of the tomograph used to study it, pixel size, Energy, current, etc.
-> 5. avoid repeating the same concepts in different parts of the manuscript; for example, the fact that decalcification does not allow the simultaneous study of bone and vessels.
-> 6. if the object of the study lies in the characteristics of the contrast agent, it is not enough to recall some literature to describe it, but a brief description of its preparation is also needed.
-> 7. Nowadays, threshold-based segmentation of tomographic images is obsolete for many researches since convolutional neural networks support more performant segmentations, also based on morphology and orientation of structures. Although this is not the subject of this study, it is necessary to mention these options in the Discussion, citing the supporting literature.
-> 8. With reference to the analyses conducted in Dual Energy, it is not very clear what the gain is in terms of vessels detection. The analysis carried out at 50kV already allows for a sufficiently clear threshold segmentation. In fact, the increase in energy (90kV) seems only allow for an increase in the counts, probably improving the peak shape referred to the vessels.
+> In the Materials and Methods chapter, it would be necessary to insert a descriptive table of each animal model studied, reporting strain, age, number, sex, model of the tomograph used to study it, pixel size, Energy, current, etc.
+
+> avoid repeating the same concepts in different parts of the manuscript; for example, the fact that decalcification does not allow the simultaneous study of bone and vessels.
+
+> if the object of the study lies in the characteristics of the contrast agent, it is not enough to recall some literature to describe it, but a brief description of its preparation is also needed.
+
+> Nowadays, threshold-based segmentation of tomographic images is obsolete for many researches since convolutional neural networks support more performant segmentations, also based on morphology and orientation of structures.
+> Although this is not the subject of this study, it is necessary to mention these options in the Discussion, citing the supporting literature.
+
+> With reference to the analyses conducted in Dual Energy, it is not very clear what the gain is in terms of vessels detection.
+> The analysis carried out at 50kV already allows for a sufficiently clear threshold segmentation.
+> In fact, the increase in energy (90kV) seems only allow for an increase in the counts, probably improving the peak shape referred to the vessels.
 
 
 ## Reviewer 2
 
-> The manuscript presents valuable results beautiful images of vasculature in different bones (in some cases including implants) imaged using µCT following perfusion with the contrast agent µAngiofil. While I believe that the results are methodology shown are very valuable, I do think that the manuscript could benefit from some restructuring to better highlight the main results. At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
+> The manuscript presents valuable results beautiful images of vasculature in different bones (in some cases including implants) imaged using µCT following perfusion with the contrast agent µAngiofil.
+> While I believe that the results are methodology shown are very valuable, I do think that the manuscript could benefit from some restructuring to better highlight the main results.
+> At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
 
 # Major comments:
 
-> 1. It's not clear to me why in this instance, the results should be merged with the materials and methods section. The details on µCT settings are not the main finding of this paper are they? Therefore, I would strongly suggest to separate the results, so that the authors can fully focus on presenting these in a separate section and/or merge them with the discussion section.
-> 2. The images are very nice, but there is a number of very large figures (Figs. 1-5), not all of which appear necessary to me. At the same time the results are then not presented in much detail. Importantly, I'm missing any quantitative evaluation of the perfusion quality achieved. Segmentations are sometimes provided, e.g. in Fig.6, but it is unclear to me what we learn from this. This poses the important question: how do the authors assess the quality of their perfusion? I strongly believe that at least some quantification of vessel diameters, connectivity or similar should be performed for all instances.
-> 3. As said above, the images provided are beautiful. But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly. Importantly, I would also like to see corresponding histological slices that show whether certain blood vessels remained non-perfused and that would also show if any shrinkage of the perfusion agent occured.
+> It's not clear to me why in this instance, the results should be merged with the materials and methods section.
+> The details on µCT settings are not the main finding of this paper are they?
+> Therefore, I would strongly suggest to separate the results, so that the authors can fully focus on presenting these in a separate section and/or merge them with the discussion section.
+
+> The images are very nice, but there is a number of very large figures (Figs. 1-5), not all of which appear necessary to me.
+> At the same time the results are then not presented in much detail.
+> Importantly, I'm missing any quantitative evaluation of the perfusion quality achieved.
+> Segmentations are sometimes provided, e.g. in Fig.6, but it is unclear to me what we learn from this.
+> This poses the important question: how do the authors assess the quality of their perfusion?
+> I strongly believe that at least some quantification of vessel diameters, connectivity or similar should be performed for all instances.
+
+> As said above, the images provided are beautiful.
+> But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly.
+> Importantly, I would also like to see corresponding histological slices that show whether certain blood vessels remained non-perfused and that would also show if any shrinkage of the perfusion agent occured.
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
