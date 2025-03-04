@@ -27,6 +27,7 @@ dependencies:
     - opentimestamps==0.4.3
     - pandoc-eqnos
     - pandoc-fignos
+    - git+https://github.com/nandokawka/pandoc-xnos@284474574f51888be75603e7d1df667a0890504d#egg=pandoc-xnos
     - pandoc-tablenos
     - pandoc-xnos
     - pandocfilters
