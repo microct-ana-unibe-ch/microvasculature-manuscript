@@ -46,6 +46,12 @@ pandoc --verbose \
   --defaults=common.yaml \
   --defaults=html.yaml
 
+# Create PDF output via typst
+echo >&2 "Exporting PDF via typst"
+pandoc --verbose \
+  --data-dir="$PANDOC_DATA_DIR" \
+  --defaults=pdf-typst.yaml
+
 # Create PDF output (unless BUILD_PDF environment variable equals "false")
 # If Docker is not available, use WeasyPrint to create PDF
 if [ "${BUILD_PDF}" != "false" ] && [ "${MANUBOT_USE_DOCKER}" != "true" ]; then
