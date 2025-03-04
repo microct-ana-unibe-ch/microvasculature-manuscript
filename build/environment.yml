@@ -9,6 +9,7 @@ dependencies:
   - jsonschema=4.17.0
   - librsvg=2.52.5
   - pandoc
+  - typst
   - pango=1.48.10
   - pip=22.3.1
   - python=3.11.0
