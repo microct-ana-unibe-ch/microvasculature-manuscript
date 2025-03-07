@@ -42,9 +42,9 @@ In addition---as mentioned in the supplementary materials section---*all* logfil
 > The analysis carried out at 50kV already allows for a sufficiently clear threshold segmentation.
 > In fact, the increase in energy (90kV) seems only allow for an increase in the counts, probably improving the peak shape referred to the vessels.
 
-We agree that a gray value threshold-based segmentation seems already possible with the data from the 50 kV scan, but the compunding issue is that the mineralization of the mouse bones (and thus the gray value in the data) varies in a larger extent than what is visible in panel A of Fig. 7.
+We agree that a gray value threshold-based segmentation seems already possible with the data from the 50 kV scan, but the compounding issue is that the mineralization of the mouse bones (and thus the gray value in the data) varies in a larger extent than what is visible in panel A of Fig. 7.
 Combining both scans into a dual-energy dataset greatly enhances detectability.
-As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV positive, while the gray value difference inside the blood vessels between those values is negative, as is technivally evident in panel C' of Fig. 7.
+As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV positive, while the gray value difference inside the blood vessels between those values is negative, as is technically evident in panel C' of Fig. 7.
 Your statement about already allowing threshold segmentation on the shown data is true in the case for the shown slice, but it is *not* true for the full three-dimensional dataset.
 
 ## Reviewer 2
