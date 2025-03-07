@@ -27,6 +27,10 @@
 
 > In the Materials and Methods chapter, it would be necessary to insert a descriptive table of each animal model studied, reporting strain, age, number, sex, model of the tomograph used to study it, pixel size, Energy, current, etc.
 
+The relevant parameters of the tomographic imaging are mentioned in the text at the beginning of each relevant section.
+In addition, a tabular collection of the relevant parameters is collated in a table both attached as supplementary material and available online (linked in the manuscript) at https://github.com/habi/BrukerSkyScanLogfileRuminator/tree/microvasculature-manuscript
+In addition---as mentioned in the supplementary materials section---*all* logfiles of *all* scans performed for this study are also available online, permitting the keen reader to exactly replicate the tomographic scan settings we used.
+
 > avoid repeating the same concepts in different parts of the manuscript; for example, the fact that decalcification does not allow the simultaneous study of bone and vessels.
 
 > if the object of the study lies in the characteristics of the contrast agent, it is not enough to recall some literature to describe it, but a brief description of its preparation is also needed.
