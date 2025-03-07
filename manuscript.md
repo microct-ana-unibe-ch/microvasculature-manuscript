@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-03-04'
+date-meta: '2025-03-07'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="og:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
   <meta property="twitter:title" content="MicroCT-based imaging of microvasculature within bone and peri-implant tissues" />
-  <meta name="dc.date" content="2025-03-04" />
-  <meta name="citation_publication_date" content="2025-03-04" />
-  <meta property="article:published_time" content="2025-03-04" />
-  <meta name="dc.modified" content="2025-03-04T14:44:44+00:00" />
-  <meta property="article:modified_time" content="2025-03-04T14:44:44+00:00" />
+  <meta name="dc.date" content="2025-03-07" />
+  <meta name="citation_publication_date" content="2025-03-07" />
+  <meta property="article:published_time" content="2025-03-07" />
+  <meta name="dc.modified" content="2025-03-07T11:33:45+00:00" />
+  <meta property="article:modified_time" content="2025-03-07T11:33:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d80871acdeae2a7d1189271dce9036f3c6812898/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d80871acdeae2a7d1189271dce9036f3c6812898/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d80871acdeae2a7d1189271dce9036f3c6812898/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d554325bed09987b86fdbcc12fab1ecd1503d7c8/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d554325bed09987b86fdbcc12fab1ecd1503d7c8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d554325bed09987b86fdbcc12fab1ecd1503d7c8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d80871acdeae2a7d1189271dce9036f3c6812898/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/d554325bed09987b86fdbcc12fab1ecd1503d7c8/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@d80871a](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d80871acdeae2a7d1189271dce9036f3c6812898)
-on March 4, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...d80871acdeae2a7d1189271dce9036f3c6812898#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@d554325](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/d554325bed09987b86fdbcc12fab1ecd1503d7c8)
+on March 7, 2025.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...d554325bed09987b86fdbcc12fab1ecd1503d7c8#files_bucket).
 </em></small>
 
 
@@ -280,7 +280,7 @@ Oleksiy-Zakhar Khoma  contributed equally to this work.
 Angiogenesis is essential for skeletal development, bone healing, and regeneration.
 Improved non-destructive, three-dimensional (3D) imaging of the vasculature within bone tissue would benefit many research areas, especially implantology and tissue engineering.
 
-X-ray microtomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology.
+X-ray microcomputed tomography (microCT) is a well-suited non-destructive 3D imaging technique for bone morphology.
 For microCT-based detection of vessels, it is paramount to use contrast enhancement.
 Limited differences in radiopacity between perfusion agents and mineralized bone make their distinct segmentation problematic and have been a major drawback of this approach.
 A decalcification step resolves this issue but inhibits the simultaneous assessment of bone microstructure and vascular morphology.
@@ -338,7 +338,7 @@ Due to their high X-ray absorption, metal implants produce beam hardening, parti
 Interactions occurring at the tissue-implant interface are widely believed to play a crucial role in the success of implant placement and healing [@doi:10.1111/cpr.12578; @doi:10.1016/j.actbio.2018.06.023].
 High-resolution tomographic imaging of the tissue-implant interface is complicated due to artifacts from the metal implants in the resulting datasets.
 Imaging with increased acceleration voltage and at low resolutions alleviates these imaging artifacts.
-MicroCT imaging is the only available approach to non-destructively investigate the intact bone-implant interface in both 3D [@doi:10.1111/cpr.12578] and in proximity to the implant surface (i.e. closer than 100 μm).
+MicroCT imaging is the only available approach for non-destructively investigating the intact bone-implant interface in 3D [@doi:10.1111/cpr.12578] and in proximity to the implant surface (i.e. closer than 100 μm).
 
 Implantology and osteology studies are often conducted in large animal models rendering the corresponding imaging even more complicated due to the lack of transgenic lines as well as the larger size of the harvested samples.
 The Göttingen Minipig is widely recognized as a valuable large animal model in preclinical dental and orofacial research, mainly because of its anatomical similarities to humans [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
@@ -361,8 +361,9 @@ Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal 
 The following reporting adheres to the ARRIVE Guidelines 2.0 [@doi:10.1371/journal.pbio.3000411] for relevant items.
 
 ### Tomographic imaging
-For this study, we imaged all samples with different Bruker SkyScan X-ray microtomography scanners.
-An overview of the relevant scanning and reconstruction parameters is given in the text below. 
+
+For this study, we imaged all samples with different Bruker SkyScan X-ray microcomputed tomography scanners.
+An overview of the relevant scanning and reconstruction parameters is given in the text below.
 A table listing all the scanning and reconstruction parameters of all the performed scans is given in the [Supplementary Materials].
 
 #### Contrast-enhanced microAngioCT of mice using μAngiofil
