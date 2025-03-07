@@ -1,4 +1,0 @@
-# Pandoc --defaults for PDF output via typst
-# Load on top of HTML defaults.
-output-file: output/manuscript-typst.pdf
-pdf-engine: typst

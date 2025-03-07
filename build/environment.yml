@@ -8,8 +8,7 @@ dependencies:
   - jinja2=3.1.2
   - jsonschema=4.17.0
   - librsvg=2.52.5
-  - pandoc
-  - typst
+  - pandoc=2.19.2
   - pango=1.48.10
   - pip=22.3.1
   - python=3.11.0
@@ -26,14 +25,14 @@ dependencies:
     - isbnlib==3.10.10
     - opentimestamps-client==0.7.1
     - opentimestamps==0.4.3
-    - pandoc-eqnos
-    - pandoc-fignos
-    - git+https://github.com/nandokawka/pandoc-xnos@284474574f51888be75603e7d1df667a0890504d#egg=pandoc-xnos
-    - pandoc-tablenos
-    - pandoc-xnos
-    - pandocfilters
-    - panflute
+    - pandoc-eqnos==2.5.0
+    - pandoc-fignos==2.4.0
+    - pandoc-tablenos==2.3.0
+    - pandoc-xnos==2.5.0
+    - pandocfilters==1.5.0
+    - panflute==2.2.3
     - psutil==5.9.4
     - pybase62==0.5.0
     - python-bitcoinlib==0.11.2
     - pyyaml==6.0
+
