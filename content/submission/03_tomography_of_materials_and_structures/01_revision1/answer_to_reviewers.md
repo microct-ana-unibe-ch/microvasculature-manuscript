@@ -1,13 +1,17 @@
-# Answer to reviewers
+---
+title: Answer to reviewers
+author: David Haberthür
+date: 13.03.2025
+---
 
-## Reviewer 1
+# Reviewer 1
 
 > The study proposes a contrast agent - the µAngiofil - that promises to fill even microvessels; its performance was verified by the authors ex-vivo on different animal models: i.e nr. 1 21-month-old transgenic VEGF male mouse, five CB17SCID male mice, three C57BL/6 mice, and two Göttingen minipigs.
 > Different microtomographic systems, with several experimental settings were tested in order to allow the analysis of biopsies of interest in the field of dentistry and oral pathology.
 > The contrast agent is already on the market and, according to what the authors claim, it holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
 > Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
 
-### Main Comments:
+## Main Comments:
 > Therefore, the first doubt lies in the novelty of the study.
 > In fact, there are already several studies in the literature that use microAngiofill also for the study of bone tissue.
 > For this reason, it would be appropriate to better outline how this study surpasses the performance of previous ones, paying particular attention to citing all these studies.
@@ -51,13 +55,13 @@ Combining both scans into a dual-energy dataset greatly enhances detectability.
 As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV positive, while the gray value difference inside the blood vessels between those values is negative, as is technically evident in panel C' of Fig. 7.
 Your statement about already allowing threshold segmentation on the shown data is true in the case for the shown slice, but it is *not* true for the full three-dimensional dataset.
 
-## Reviewer 2
+# Reviewer 2
 
 > The manuscript presents valuable results beautiful images of vasculature in different bones (in some cases including implants) imaged using µCT following perfusion with the contrast agent µAngiofil.
 > While I believe that the results are methodology shown are very valuable, I do think that the manuscript could benefit from some restructuring to better highlight the main results.
 > At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
 
-# Major comments:
+## Major comments:
 
 > It's not clear to me why in this instance, the results should be merged with the materials and methods section.
 > The details on µCT settings are not the main finding of this paper are they?
