@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-03-11'
+date-meta: '2025-03-13'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="og:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="twitter:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta name="dc.date" content="2025-03-11" />
-  <meta name="citation_publication_date" content="2025-03-11" />
-  <meta property="article:published_time" content="2025-03-11" />
-  <meta name="dc.modified" content="2025-03-11T16:41:01+00:00" />
-  <meta property="article:modified_time" content="2025-03-11T16:41:01+00:00" />
+  <meta name="dc.date" content="2025-03-13" />
+  <meta name="citation_publication_date" content="2025-03-13" />
+  <meta property="article:published_time" content="2025-03-13" />
+  <meta name="dc.modified" content="2025-03-13T09:29:29+00:00" />
+  <meta property="article:modified_time" content="2025-03-13T09:29:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e7cfd1995d240409a8060ed777e77b53e8abdf52/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e7cfd1995d240409a8060ed777e77b53e8abdf52/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e7cfd1995d240409a8060ed777e77b53e8abdf52/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/e7cfd1995d240409a8060ed777e77b53e8abdf52/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@e7cfd19](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/e7cfd1995d240409a8060ed777e77b53e8abdf52)
-on March 11, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...e7cfd1995d240409a8060ed777e77b53e8abdf52#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@c593ccd](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/c593ccd3fada4d49fa296c315f52d3099eee1deb)
+on March 13, 2025.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...c593ccd3fada4d49fa296c315f52d3099eee1deb#files_bucket).
 </em></small>
 
 
@@ -352,18 +352,20 @@ Moreover, we show that this approach is suitable for simultaneous imaging and su
 
 ### Animals
 
-In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five CB17SCID male mice, three C57BL/6 mice, and two Göttingen minipigs.
+In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five 10-week-old CB17SCID male mice, three 12-week-old C57BL/6 mice, one 60-week-old C57BL/6 mouse, and six female Göttingen minipigs.
 Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation on the protection of animals and were approved by the corresponding committees.
 
 Murine experiments were approved by the local Swiss ethical committee (Tierversuchskommission des Kantons Bern, Amt für Veterinärwesen, Bern, Switzerland) under permit number BE 55/16.
 Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal Testing at the Lund District Court, Sweden under license 5.8.18-15672/2019.
+
+Animal model, strain, age, animal number and sex are collected in a table available in the [Supplementary Materials].
 
 The following reporting adheres to the ARRIVE Guidelines 2.0 [@doi:10.1371/journal.pbio.3000411] for relevant items.
 
 ### Tomographic imaging
 
 For this study, we imaged all samples with different Bruker SkyScan X-ray microcomputed tomography scanners.
-An overview of the relevant scanning and reconstruction parameters is given in the text below.
+An overview of the imaging and reconstruction parameters is given in the text below.
 A table listing all the scanning and reconstruction parameters of all the performed scans is given in the [Supplementary Materials].
 
 #### Contrast-enhanced microAngioCT of mice using μAngiofil
