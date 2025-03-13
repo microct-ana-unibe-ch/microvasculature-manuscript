@@ -27,6 +27,10 @@
 
 > In the Materials and Methods chapter, it would be necessary to insert a descriptive table of each animal model studied, reporting strain, age, number, sex, model of the tomograph used to study it, pixel size, Energy, current, etc.
 
+Information on the animals used and and overview on the settings of the tomographic imaging were already present in the manuscript text.
+The complete information on the tomographic imaging was already present in a table in the supplementary materials.
+We included all the requested information into the mentioned table.
+
 The relevant parameters of the tomographic imaging are mentioned in the text at the beginning of each relevant section.
 In addition, a tabular collection of the relevant parameters is collated in a table both attached as supplementary material and available online (linked in the manuscript) at https://github.com/habi/BrukerSkyScanLogfileRuminator/tree/microvasculature-manuscript
 In addition---as mentioned in the supplementary materials section---*all* logfiles of *all* scans performed for this study are also available online, permitting the keen reader to exactly replicate the tomographic scan settings we used.
