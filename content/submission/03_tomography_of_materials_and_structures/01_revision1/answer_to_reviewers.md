@@ -114,3 +114,5 @@ In a total of 3800 assessed capillaries we found that 98% of them were microAngi
 For some of the samples shown in the present study, namely those with metal implants it is also not feasible to produce histological slices.
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
+
+We hope that we were able address the major comments of this reviewer and are looking forward to hear about the minor comments to implement those appropriately into our work.
