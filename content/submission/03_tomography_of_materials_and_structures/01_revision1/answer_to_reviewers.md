@@ -21,9 +21,21 @@ date: 13.03.2025
 
 
 > In any case this reviewer continues to consider the proposed problem relating to the simultaneous visualization of soft tissues (in this specific case, the vascular endothelium) and hard tissues (bones, teeth, dental implants, etc.) through the use of the benchtop microCT.
+
+We are *not* visualizing (and interested in) the vascular endothelium, this is beyond the scope and the detail resolution of the present manuscript.
+
 > Unfortunately, this reviewer fears that the problem has not been well focused in the present study and, consequently, the experimental method to address that.
 > In fact, both in dental diagnostics and in oral pathology, up to bone tissue engineering, the object of study requires a very high resolution to be able to visualize even the smallest blood capillaries which are the main actors in tumor kinetics and tissue regeneration.
+
+We acknowledge that resolving the smallest blood capillaries requires very high resolution tomographic imaging and have previously showen that this is possible in https://doi.org/10.1038/srep41842, where we imaged the contrast-enhanced vasculature network in murine hind-limbs with sub-micrometer voxel side lenghts (0.66 μm).
+However, our study was not designed to resolve individual capillaries but rather to assess the overall effectiveness of the contrast medium in enhancing vascular visualization within a practical and widely accessible imaging framework.
+
 > Consequently, to appreciate the effectiveness of this contrast medium, it is first necessary to have a high-resolution tomograph (I would say a nanotomograph!) to maintain a single experimental setting for all the tests.
+
+One of the machines that was used for imaging in our study is the SkyScan 2214, offering a 3D spatial resolution <500 nm.
+We have performed scans with voxel sizes 0.66 μm on our machine, but the limits on the visible field of view (~1 mm³) are so constrained that the sample volume that is imaged for such scans is *not* large enough to give insights into biologically relevant processes.
+It would for example not be possible to image the vascular network *around* an implant in the hemimandibles (as shown in our figures 5-7) without destroying the sample, as features of interest are much larger than the available field of view at this very high resolution.
+
 > Subsequently, it is necessary to provide an adequate number of biopsies (same situ in animal models of the same strain, age, sex, etc) that present the same clinical problem, in order to proceed with a quantitative analysis compared to a control group (also made of adequate number of elements).
 > In fact, only a quantitative analysis, based on selection of appropriate shape complexity features, can establish the actual efficacy of a contrast agent in these contexts. The visualization of large vessels as performed in your work does not determine the effectiveness of contrast agents in solving problems that are more specifically related to micro vessels, to capillaries, for example in the case of tumor invasion.
 
