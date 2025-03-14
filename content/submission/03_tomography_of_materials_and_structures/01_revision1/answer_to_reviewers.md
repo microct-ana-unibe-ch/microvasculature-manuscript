@@ -19,6 +19,18 @@ date: 13.03.2025
 
 > Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
 
+Interestingly, both Alessandra Giuliani and Max Langer are the overlapping authors in the Venn diagram of all the authors of these two example publications.
+One of the authors of the manuscript reviewed here has experience working at a synchrotron beamline, and we are familiar with the research conducted in such facilities.
+
+A major limitation of both referenced studies is the restricted accessibility of their methodology, namely 'synchrotron phase tomography' and 'synchrotron radiation-based holotomography'.
+The technique presented in our manuscript is much more attainable for researchers in the preclinical field compared to securing beamtime at a synchrotron facility.
+
+Furthermore, both referenced studies rely on phase-contrast imaging, which provides enhanced spectral sensitivity.
+However, such imaging techniques are not commonly available in commercially accessible desktop micro-CT systems.
+In contrast, our approach offers a more practical and feasible alternative for researchers without the need for specialized synchrotron infrastructure.
+
+Having said all that we decided to mention the possibility to perform studies of the vasculature in bone with synchrotron radiation microtomography in the introduction of our manuscript, actually strenthening our case for applicability of our presented method in broad preclinical reasearch.
+We only cited the first of the mentioned studies, since the second one highlights a severe drawback of synchrotron radiation studies (very small visualized sample volume (in that case ~1.25 mm³), which is many times smaller than the volume of the implants shown in our figure 6).
 
 > In any case this reviewer continues to consider the proposed problem relating to the simultaneous visualization of soft tissues (in this specific case, the vascular endothelium) and hard tissues (bones, teeth, dental implants, etc.) through the use of the benchtop microCT.
 
