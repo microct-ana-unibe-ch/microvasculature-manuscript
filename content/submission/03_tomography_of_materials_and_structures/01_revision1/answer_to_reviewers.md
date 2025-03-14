@@ -51,7 +51,17 @@ It would for example not be possible to image the vascular network *around* an i
 > Subsequently, it is necessary to provide an adequate number of biopsies (same situ in animal models of the same strain, age, sex, etc) that present the same clinical problem, in order to proceed with a quantitative analysis compared to a control group (also made of adequate number of elements).
 > In fact, only a quantitative analysis, based on selection of appropriate shape complexity features, can establish the actual efficacy of a contrast agent in these contexts. The visualization of large vessels as performed in your work does not determine the effectiveness of contrast agents in solving problems that are more specifically related to micro vessels, to capillaries, for example in the case of tumor invasion.
 
-### Minor comments:
+Regarding the experimental methodology, we recognize the importance of standardization in animal models, including sample size, strain, age, and sex.
+While our study was primarily intended to give an overview of the possibilities of the method, future investigations will incorporate a larger and more standardized sample set to allow for robust quantitative analyses.
+Additionally, we agree that a quantitative evaluation using shape complexity features could provide deeper insights into the effectiveness of the contrast agent.
+While our current study focused on qualitative assessments, we acknowledge the value of a more refined morphometric approach in future research.
+
+Finally, while we primarily visualized larger vascular structures, this does not preclude the potential application of our contrast medium in detecting microvasculature.
+Further optimization of imaging parameters, coupled with advanced reconstruction and segmentation techniques, may allow for improved visualization of smaller vessels within the resolution constraints of micro-CT.
+
+We appreciate the reviewer’s constructive feedback and will incorporate these considerations into our ongoing research to further refine and validate the applicability of our method.
+
+## Minor comments:
 
 > In the Materials and Methods chapter, it would be necessary to insert a descriptive table of each animal model studied, reporting strain, age, number, sex, model of the tomograph used to study it, pixel size, Energy, current, etc.
 
