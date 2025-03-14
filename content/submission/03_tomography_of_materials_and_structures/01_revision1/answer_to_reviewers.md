@@ -124,6 +124,10 @@ We generalized the description of the instillation for all experiments and added
 > Nowadays, threshold-based segmentation of tomographic images is obsolete for many researches since convolutional neural networks support more performant segmentations, also based on morphology and orientation of structures.
 > Although this is not the subject of this study, it is necessary to mention these options in the Discussion, citing the supporting literature.
 
+The reviewer is absolutely correct that convolutional neural networks are a powerful tool for vascular segmentation.
+We have already peformed some work on the segmentation of the vasculature with neural network-based approaches for the project dealing with implants in the minipig mandibles, but the results are not ready to be described in a manuscript.
+We thank the reviewer for the suggestion to mention such approaches in our manuscript and added a paragraph in the discussion.
+
 > With reference to the analyses conducted in Dual Energy, it is not very clear what the gain is in terms of vessels detection.
 > The analysis carried out at 50kV already allows for a sufficiently clear threshold segmentation.
 > In fact, the increase in energy (90kV) seems only allow for an increase in the counts, probably improving the peak shape referred to the vessels.
