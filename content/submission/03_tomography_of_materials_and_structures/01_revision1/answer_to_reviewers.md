@@ -43,6 +43,10 @@ In addition---as mentioned in the supplementary materials section---*all* logfil
 
 > if the object of the study lies in the characteristics of the contrast agent, it is not enough to recall some literature to describe it, but a brief description of its preparation is also needed.
 
+We added a paragraph on the preparation of the contrast agent at the beginning of the method section.
+The instillation of the contrast agent was explained in detail for the first experiment.
+We generalized the description of the instillation for all experiments and added this description after this general paragraph.
+
 > Nowadays, threshold-based segmentation of tomographic images is obsolete for many researches since convolutional neural networks support more performant segmentations, also based on morphology and orientation of structures.
 > Although this is not the subject of this study, it is necessary to mention these options in the Discussion, citing the supporting literature.
 
