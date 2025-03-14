@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-03-13'
+date-meta: '2025-03-14'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="og:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="twitter:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta name="dc.date" content="2025-03-13" />
-  <meta name="citation_publication_date" content="2025-03-13" />
-  <meta property="article:published_time" content="2025-03-13" />
-  <meta name="dc.modified" content="2025-03-13T09:29:29+00:00" />
-  <meta property="article:modified_time" content="2025-03-13T09:29:29+00:00" />
+  <meta name="dc.date" content="2025-03-14" />
+  <meta name="citation_publication_date" content="2025-03-14" />
+  <meta property="article:published_time" content="2025-03-14" />
+  <meta name="dc.modified" content="2025-03-14T10:21:15+00:00" />
+  <meta property="article:modified_time" content="2025-03-14T10:21:15+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c593ccd3fada4d49fa296c315f52d3099eee1deb/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@c593ccd](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/c593ccd3fada4d49fa296c315f52d3099eee1deb)
-on March 13, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...c593ccd3fada4d49fa296c315f52d3099eee1deb#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@abf32e0](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/abf32e096df0950908bac92c2a7288a79f62f4ae)
+on March 14, 2025.
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...abf32e096df0950908bac92c2a7288a79f62f4ae#files_bucket).
 </em></small>
 
 
@@ -307,7 +307,7 @@ Despite recent advances in tissue clearing-based imaging methods for craniofacia
 Simultaneously imaging both vasculature and bone tissue non-destructively in 3D has long been a challenge, especially in large bone grafts or near metal implants [@doi:10.1007/s10439-015-1253-3; @doi:10.1152/ajpcell.00195.2022].
 Thus, many research areas benefit from improved three-dimensional imaging of the vasculature within bone tissue, for example, tissue engineering, implantology, reconstructive surgery, bone biology, and bone metastatic disease
 
-In the last decades, X-ray micro-computed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
+In the last decades, X-ray microcomputed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
 Due to the inherently low difference in X-ray absorption levels between vessels and different soft tissues, it is not easily feasible to distinguish such structures within the bone.
 To unambiguously detect vasculature within bone it is thus necessary to instill the vessels with either a contrast agent or use a casting method to otherwise fill the blood vessels.
 Currently, existing protocols for imaging the vasculature within the bone via vascular replica have drawbacks, like showing disjoint vascular components or completely missing vascular segments [@doi:10.1002/jemt.20720; @doi:10.1038/s41598-017-13632-5].
@@ -344,7 +344,7 @@ Implantology and osteology studies are often conducted in large animal models re
 The Göttingen Minipig is widely recognized as a valuable large animal model in preclinical dental and orofacial research, mainly because of its anatomical similarities to humans [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
 Its bone structure and bone remodeling processes closely resemble those of humans, further enhancing its suitability for such studies, including ours.
 
-The present study introduces a technique for high-resolution microCT-based visualization of microvasculature within bone tissue in small and large animal models, both with and without bone decalcification.
+The present study introduces a technique for high-resolution microCT-based visualization of microvasculature within bone tissue in small and large animal models.
 Moreover, we show that this approach is suitable for simultaneous imaging and subsequent analysis of peri-implant hard and soft tissues as well as their vascularization in the vicinity of metal implants in a large animal model.
 
 
@@ -368,19 +368,30 @@ For this study, we imaged all samples with different Bruker SkyScan X-ray microc
 An overview of the imaging and reconstruction parameters is given in the text below.
 A table listing all the scanning and reconstruction parameters of all the performed scans is given in the [Supplementary Materials].
 
-#### Contrast-enhanced microAngioCT of mice using μAngiofil
+### Contrast agent μAngiofil
+For all the applications mentioned below, we instilled the vasculature of the model animals with the iodine-based contrast agent μAngiofil (Fumedica AG, Switzerland).
 
-The contrast agent μAngiofil (Fumedica AG, Switzerland) was prepared according to the manufacturer's recommendations.
-The perfusion of the mice was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
-Heparinized animals were deeply anesthetized with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg).
-The thorax and the peritoneal cavity were opened with scissors to expose the descending aorta.
+The contrast agent was prepared according to the manufacturer's recommendations.
+Briefly, in a preparation step two out of three components (labelled 'Contrast Solution' (blue) and 'PU') are mixed together.
+During instillation, these components are again mixed with a hardener in a mixing tube.
+The instillation into the cannulated animal vascular system is ideally performed with a syringe pump, taking care of a reproducible instillation speed.
+
+The perfusion of the animals was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
+Briefly, heparinized animals were deeply anesthetized (details for each animal model are given below).
+Here is a brief description of the perfusion procedure, as performed in mice: The thorax and the peritoneal cavity were opened with scissors to expose the descending aorta.
 The exposed aorta was then cannulated in either antegrade (for the perfusion of the hind limbs) or retrograde direction (for the perfusion of the head and teeth) with a Venflon cannula (26 GA).
 Afterward, the blood was flushed out with a warm PBS solution.
 Several cuts of the liver edge allowed for drainage of the blood and buffer solution.
+
 Thereafter, the selected part of the body (hind limbs or head and teeth) was perfused with μAngiofil at 1--1.5 ml/min using a syringe pump.
 The perfusion lasted until the organ of interest appeared completely filled with the blue contrast agent [@doi:10.1016/j.vph.2018.09.003; @doi:10.1152/ajprenal.00099.2017].
 In bones, it is not possible to visually monitor this color change, thus perfusion of the neighboring soft tissues serves as an indirect marker of sufficient perfusion within the bone.
 To achieve correct perfusion of the vessels within the bone, we prolonged the perfusion time by instilling at least 2 ml of extra volume of contrast agent after all the superficial tissues of the extremity or head turned blue.
+
+#### Contrast-enhanced microAngioCT of mice using μAngiofil
+
+Here, one 21-month-old VEGF transgenic male mouse was anesthetized with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg).
+μAngiofil perfusion was performed as described above.
 After μAngiofil polymerization, samples were fixed in 4 % paraformaldehyde (PFA) solution at 4 °C and stored in PFA until tomographic imaging.
 Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium).
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder under humid conditions.
@@ -451,7 +462,7 @@ Neighboring structures, such as the growth plate and the epiphysis or the menisc
 
 #### microAngioCT of murine mandible and teeth
 
-C57BL/6 mice were anesthetized (with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg)), and their head was perfused with μAngiofil as described above.
+C57BL/6 mice were anesthetized (with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg)), and their head was perfused with μAngiofil.
 The perfused head was harvested and fixed (4 % PFA at 4 °C).
 Before tomographic imaging the mandible was excised, wrapped in a paper towel, and scanned in a sealed pipette tip.
 
@@ -521,6 +532,8 @@ Tomographic imaging of such samples and straightforward segmentation of features
   The colored circles mark structures with different gray value ranges.
   Corresponding peaks with color legend are marked on the histogram in panel C.
   Such differences in gray levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.](images/Fig6_Segmentation.png){#fig:6}
+  
+#### Enhancing cntrast dual-energy MicroCT
 
 Unfortunately, not all samples exhibit a pronounced difference in gray values between bone tissue and μAngiofil when scanned using standard scanning parameters.
 This issue is particularly common in murine samples, even though the bone mineral density of mouse bones is generally higher than that of other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
@@ -587,7 +600,7 @@ Murine mandibles and teeth are challenging for assessing the vasculature.
 This is due to the location of most of the vessels within the bone canals or in the proximity of the hard tissue.
 This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
 Gray value-based segmentation of bone and contrast-agent-instilled vasculature is compounded by the fact that murine bone has a higher mineral bone density when compared to other species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
-Nonetheless, with the dual-energy approach described above, we achieved appropriate imaging of such samples and were able to visualize and distinguish vasculature in/from mineralized bone tissue.
+Nonetheless, with the dual-energy approach described above, we achieved appropriate imaging of such samples and were able to visualize and distinguish vasculature within/from mineralized bone tissue.
 
 In the small animal model studies without metal or similar biomedical implants, the application of whole mouse clearing and imaging with vDISCO approach could be the method of choice [@doi:10.1038/s41596-022-00788-2].
 Another promising improvement to the clearing protocols and immunolabeling of the samples with the bone tissue is the introduction of the collagenase digestion step, which improves the antibody penetration throughout the stained bones and, therefore, the immunostaining [@doi:10.1016/j.cell.2022.12.031].
