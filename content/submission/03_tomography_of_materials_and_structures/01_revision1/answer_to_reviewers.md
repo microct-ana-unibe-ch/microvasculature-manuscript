@@ -90,9 +90,19 @@ We would like to kindly refuse this suggestion, also in the light that it would 
 > The images are very nice, but there is a number of very large figures (Figs. 1-5), not all of which appear necessary to me.
 > At the same time the results are then not presented in much detail.
 > Importantly, I'm missing any quantitative evaluation of the perfusion quality achieved.
+
+Qualitative evaluation of the perfusion is done during instillation, due to the blue color of the contrast agent.
+A secondary qualitative evaluation of the perfusion is performed after tomographic imaging and visualization, where continuitiy in the filling of the vasculature is visually evaluated.
+In total, we have a failure rate of 5-20% of the instillations, where most failures actually happen at instillation, due to operator error.
+Once the vasculature is filled with the contrast agent, nearly no discontinuities are observed, even for less skilled researchers instilling the contrast agent.
+A quantitative evaluation of the achieved perfusion quality can to the best of our knowledge only be achieved with the analysis of the graph of the vasculature, showing no discontinuities.
+
 > Segmentations are sometimes provided, e.g. in Fig.6, but it is unclear to me what we learn from this.
 > This poses the important question: how do the authors assess the quality of their perfusion?
 > I strongly believe that at least some quantification of vessel diameters, connectivity or similar should be performed for all instances.
+
+As answered above, we qualitatively assess the perfusion during instillation and after scanning.
+Ongoing research in our group focuses on the actual analysis of the vascular network, the presented work is focusing on the method of visualizing the vasculature under in a brad range of scenarios.
 
 > As said above, the images provided are beautiful.
 > But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly.
