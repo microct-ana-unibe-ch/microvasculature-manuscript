@@ -16,6 +16,46 @@ date: 13.03.2025
 > In fact, there are already several studies in the literature that use microAngiofill also for the study of bone tissue.
 > For this reason, it would be appropriate to better outline how this study surpasses the performance of previous ones, paying particular attention to citing all these studies.
 
+We were not able to find "several studies" using microAngiofil to study bone tissue.
+See 
+- https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=microangiofil&btnG=
+- https://www.sciencedirect.com/science/article/pii/S2666166723003349
+  Specifically mentions that "*Microfil* and bone tend to have similar attenuation and the skull may not be completely removed by adjusting thresholding parameters.
+  "To achieve radiolucency of bone, consider decalcification before scanning"
+  The authors of this study use Microfil, which is a different product to the *MicroAngiofil* we have used.
+- https://doi.org/10.1161/CIRCULATIONAHA.120.050635 investigates the role of Vascular Endothelial Growth Factor B (VEGF-B) in coronary vessel development and its potential therapeutic applications for cardiac regeneration.
+  "Bone" is never mentioned in the study
+
+- https://scholar.google.com/scholar?&q=%CE%BCangiofil+bone
+  - lists 29 results, 11 of which the authors of the reviewed manuscript are co-authors of.
+  - 1 result is the abstract booklet of a conference where one of the authors presesented their work on microAngiofil, not related to bone
+  - Of those where we are *not* on the authors list
+    - https://doi.org/10.1302/1358-992X.2024.2.006 is an abstract where microAngiofil and micro-CT were used to analyse the 3D microvascular structure of the human meniscus
+    - https://doi.org/10.1111/jmi.13369 Stefan Handschuh paper on vasculature imaging, published in November 24.
+      Currently writing a review article together
+    - https://doi.org/10.3390/ijms22063263 is a overview of the application of ex vivo microCT for the characterization of the cardiovascular system.
+      Each reference to microAngiofil links to a publication of the authors of the here reviewed manuscript.
+    Mentions of contrast-agent supported studies in bone are referencing to *Microfil* studies.
+    - https://doi.org/10.3390/cancers15235609 is by [an author that might a reviewer](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/issues/13#issuecomment-2694793968) of our manuscript (see below).
+      The authors used a barium sulfate-based contrast agent and employed synchrotron radiation imaging.
+      They used synchrotron radiation to acquire high-resolution, three-dimensional images of mouse tibiae affected by metastatic cancer.
+      In addition they employed neural network-based architecture for the simultaneous segmentation of bone tissue, vascular structures, and metastatic lesions.
+    - https://doi.org/10.1109/TBME.2021.3137265 which performs ultrasound imaging of brain vasculature, and did *one* microCT scan to compare both imaging modalities.
+    - https://doi.org/10.1088/1361-6560/ad3328 scanned *one* mouse under laboratory conditions on a synchrotron setup to employ phase constrast.
+      They applied phase-contrast tomography to separate three channels, namely water, iodine and calcium (soft tissue, vasculatura and bone, respectively).
+
+-   https://pubmed.ncbi.nlm.nih.gov/?term=muangiofil&filter=datesearch.y_10
+-   https://pubmed.ncbi.nlm.nih.gov/?term=MicroAngiofil&filter=datesearch.y_10
+-   https://www.semanticscholar.org/search?q=microAngiofil&sort=relevance
+-   https://www.base-search.net/Search/Results?type=all&lookfor=microangiofil
+
+-   https://www.refseek.com/search?q=microangiofil+bone finds *many* more
+    - https://doi.org/10.1007/s00586-016-4849-x analyzes blood vessel morphology within the rabbit vertebral endplate using micro-computed tomography (micro-CT) at 9 um voxel size.
+      The authors used two diffrerent contrast agents and fail to three-dimensionally visualize the vasculature in half of their contrasted samples.
+
+- ChatGPT "Find studies that use microangiofil in bone research" --> "specific studies employing MicroAngiofil in bone research are not readily identifiable."
+  - https://doi.org/10.1016/j.aanat.2024.152368 which does *not* do uCT
+  - https://doi.org/10.1016/j.bone.2018.01.012 does not use any contrast agent, and images bone with MRI
 
 > Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
 
