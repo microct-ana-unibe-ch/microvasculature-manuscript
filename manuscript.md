@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-14" />
   <meta name="citation_publication_date" content="2025-03-14" />
   <meta property="article:published_time" content="2025-03-14" />
-  <meta name="dc.modified" content="2025-03-14T11:42:37+00:00" />
-  <meta property="article:modified_time" content="2025-03-14T11:42:37+00:00" />
+  <meta name="dc.modified" content="2025-03-14T12:31:58+00:00" />
+  <meta property="article:modified_time" content="2025-03-14T12:31:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c2ba9847c5bcc41dbb1efea6768bedafc895c7bc/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c2ba9847c5bcc41dbb1efea6768bedafc895c7bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c2ba9847c5bcc41dbb1efea6768bedafc895c7bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5e0e4ebc4cd87222100969dcfc7f303777def1f9/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5e0e4ebc4cd87222100969dcfc7f303777def1f9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5e0e4ebc4cd87222100969dcfc7f303777def1f9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/c2ba9847c5bcc41dbb1efea6768bedafc895c7bc/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5e0e4ebc4cd87222100969dcfc7f303777def1f9/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@c2ba984](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/c2ba9847c5bcc41dbb1efea6768bedafc895c7bc)
+from [microct-ana-unibe-ch/microvasculature-manuscript@5e0e4eb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/5e0e4ebc4cd87222100969dcfc7f303777def1f9)
 on March 14, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...c2ba9847c5bcc41dbb1efea6768bedafc895c7bc#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...5e0e4ebc4cd87222100969dcfc7f303777def1f9#files_bucket).
 </em></small>
 
 
@@ -604,6 +604,11 @@ This is due to the location of most of the vessels within the bone canals or in 
 This consequently leads to the lack of larger bone-free volumes in which the vasculature is easily distinguishable.
 Gray value-based segmentation of bone and contrast-agent-instilled vasculature is compounded by the fact that murine bone has a higher mineral bone density when compared to other species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
 Nonetheless, with the dual-energy approach described above, we achieved appropriate imaging of such samples and were able to visualize and distinguish vasculature within/from mineralized bone tissue.
+
+Further work, also from our group, and ongoing research is focusing on improving the segmentation of vasculature in microtomographic datasets
+Convolutional neural networks (CNNs) have emerged as a powerful tool for vascular segmentation [@doi:10.2144/btn-2020-0108].
+Specifically, the U-Net architecture of CNNs seems very promising for vascular segmentation tasks and has been applied for the segmenation of murine vascular networks [@doi:10.1161/ATVBAHA.124.320672].
+While neural network-based segmentation methods have shown promising results, the scarcity of annotated public datasets poses a challenge for training robust models and developing models that can generalize across different tissues, modalities, scales, and pathologies remains an active area of research.
 
 In the small animal model studies without metal or similar biomedical implants, the application of whole mouse clearing and imaging with vDISCO approach could be the method of choice [@doi:10.1038/s41596-022-00788-2].
 Another promising improvement to the clearing protocols and immunolabeling of the samples with the bone tissue is the introduction of the collagenase digestion step, which improves the antibody penetration throughout the stained bones and, therefore, the immunostaining [@doi:10.1016/j.cell.2022.12.031].
