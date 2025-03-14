@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-14" />
   <meta name="citation_publication_date" content="2025-03-14" />
   <meta property="article:published_time" content="2025-03-14" />
-  <meta name="dc.modified" content="2025-03-14T10:21:15+00:00" />
-  <meta property="article:modified_time" content="2025-03-14T10:21:15+00:00" />
+  <meta name="dc.modified" content="2025-03-14T11:29:43+00:00" />
+  <meta property="article:modified_time" content="2025-03-14T11:29:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ea096d874c1012ce8e5425768d6c28ad80923f17/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ea096d874c1012ce8e5425768d6c28ad80923f17/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ea096d874c1012ce8e5425768d6c28ad80923f17/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/abf32e096df0950908bac92c2a7288a79f62f4ae/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ea096d874c1012ce8e5425768d6c28ad80923f17/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@abf32e0](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/abf32e096df0950908bac92c2a7288a79f62f4ae)
+from [microct-ana-unibe-ch/microvasculature-manuscript@ea096d8](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ea096d874c1012ce8e5425768d6c28ad80923f17)
 on March 14, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...abf32e096df0950908bac92c2a7288a79f62f4ae#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...ea096d874c1012ce8e5425768d6c28ad80923f17#files_bucket).
 </em></small>
 
 
@@ -310,6 +310,9 @@ Thus, many research areas benefit from improved three-dimensional imaging of the
 In the last decades, X-ray microcomputed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
 Due to the inherently low difference in X-ray absorption levels between vessels and different soft tissues, it is not easily feasible to distinguish such structures within the bone.
 To unambiguously detect vasculature within bone it is thus necessary to instill the vessels with either a contrast agent or use a casting method to otherwise fill the blood vessels.
+Another alternative to detect vessels within bone is synchrotron-radiation based tomography, specifically employing phase contrast-tomography [@doi:10.3389/fphys.2017.00769].
+Albeit its potential, synchrotron-radiation based tomography is not as easily attainable for most preclinical researchers as microCT and has severe drawbacks in terms of visualized sample volume.
+
 Currently, existing protocols for imaging the vasculature within the bone via vascular replica have drawbacks, like showing disjoint vascular components or completely missing vascular segments [@doi:10.1002/jemt.20720; @doi:10.1038/s41598-017-13632-5].
 The minor contrast difference between the perfusion agent used to generate the vascular network replica and the mineralized bone makes it problematic to distinguish bone tissue and vasculature.
 To enable proper visualization and segmentation of vasculature within bone tissue, decalcifying the bone samples has become practically a standard method [@doi:10.1038/s41598-017-13632-5; @doi:10.1016/j.bone.2011.09.051].
@@ -344,7 +347,7 @@ Implantology and osteology studies are often conducted in large animal models re
 The Göttingen Minipig is widely recognized as a valuable large animal model in preclinical dental and orofacial research, mainly because of its anatomical similarities to humans [@doi:10.1111/j.1601-0825.2006.01337.x; @doi:10.22203/eCM.v013a01; @doi:10.1201/b11356-37].
 Its bone structure and bone remodeling processes closely resemble those of humans, further enhancing its suitability for such studies, including ours.
 
-The present study introduces a technique for high-resolution microCT-based visualization of microvasculature within bone tissue in small and large animal models.
+The present study introduces a technique for microCT-based visualization of microvasculature within bone tissue in small and large animal models.
 Moreover, we show that this approach is suitable for simultaneous imaging and subsequent analysis of peri-implant hard and soft tissues as well as their vascularization in the vicinity of metal implants in a large animal model.
 
 
