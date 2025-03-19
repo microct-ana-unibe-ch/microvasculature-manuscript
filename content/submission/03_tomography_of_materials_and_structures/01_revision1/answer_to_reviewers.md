@@ -12,6 +12,7 @@ date: 13.03.2025
 > Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
 
 ## Main Comments:
+
 > Therefore, the first doubt lies in the novelty of the study.
 > In fact, there are already several studies in the literature that use microAngiofill also for the study of bone tissue.
 > For this reason, it would be appropriate to better outline how this study surpasses the performance of previous ones, paying particular attention to citing all these studies.
@@ -60,7 +61,7 @@ See
 > Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
 
 Interestingly, both Alessandra Giuliani and Max Langer are the overlapping authors in the Venn diagram of all the authors of these two example publications.
-One of the authors of the manuscript reviewed here has experience working at a synchrotron beamline, and we are familiar with the research conducted in such facilities.
+One of the authors of the manuscript reviewed was employed as a PostDoc at a synchrotron beamline, and we are familiar with the research conducted in such facilities.
 
 A major limitation of both referenced studies is the restricted accessibility of their methodology, namely 'synchrotron phase tomography' and 'synchrotron radiation-based holotomography'.
 The technique presented in our manuscript is much more attainable for researchers in the preclinical field compared to securing beamtime at a synchrotron facility.
@@ -96,8 +97,8 @@ While our study was primarily intended to give an overview of the possibilities 
 Additionally, we agree that a quantitative evaluation using shape complexity features could provide deeper insights into the effectiveness of the contrast agent.
 While our current study focused on qualitative assessments, we acknowledge the value of a more refined morphometric approach in future research.
 
-Finally, while we primarily visualized larger vascular structures, this does not preclude the potential application of our contrast medium in detecting microvasculature.
-Further optimization of imaging parameters, coupled with advanced reconstruction and segmentation techniques, may allow for improved visualization of smaller vessels within the resolution constraints of micro-CT.
+Finally, while we primarily visualized "large" vascular structures, this does not preclude the application of our contrast medium in assessing microvasculature.
+Within the actual resolution constraints of microCT as well as synchrotron-radiation based microtomography combined with the total visualized sample size (dental implant in a large animal model with intact peri-implant tissues) it seems non-realistic to obtain enough detail resolution to assess single capillaries.
 
 We appreciate the reviewer’s constructive feedback and will incorporate these considerations into our ongoing research to further refine and validate the applicability of our method.
 
