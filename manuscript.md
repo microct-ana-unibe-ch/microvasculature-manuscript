@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-19" />
   <meta name="citation_publication_date" content="2025-03-19" />
   <meta property="article:published_time" content="2025-03-19" />
-  <meta name="dc.modified" content="2025-03-19T08:37:42+00:00" />
-  <meta property="article:modified_time" content="2025-03-19T08:37:42+00:00" />
+  <meta name="dc.modified" content="2025-03-19T09:46:41+00:00" />
+  <meta property="article:modified_time" content="2025-03-19T09:46:41+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/eb5458d89a769f78692a726bdc30c95cddb9ee01/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/eb5458d89a769f78692a726bdc30c95cddb9ee01/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/eb5458d89a769f78692a726bdc30c95cddb9ee01/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fde56c889e3e6e22950e4b82f20ded9ae053654a/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fde56c889e3e6e22950e4b82f20ded9ae053654a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fde56c889e3e6e22950e4b82f20ded9ae053654a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/eb5458d89a769f78692a726bdc30c95cddb9ee01/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/fde56c889e3e6e22950e4b82f20ded9ae053654a/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@eb5458d](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/eb5458d89a769f78692a726bdc30c95cddb9ee01)
+from [microct-ana-unibe-ch/microvasculature-manuscript@fde56c8](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/fde56c889e3e6e22950e4b82f20ded9ae053654a)
 on March 19, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...eb5458d89a769f78692a726bdc30c95cddb9ee01#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...fde56c889e3e6e22950e4b82f20ded9ae053654a#files_bucket).
 </em></small>
 
 
@@ -293,7 +293,6 @@ We further demonstrate the potential of dual-energy imaging in distinguishing bo
 
 This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model.
 
-
 ## Introduction {.page_break_before}
 
 Angiogenesis, the formation of new blood vessels from preexisting vessels, is crucial for skeletal development and bone healing and regeneration [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106; @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
@@ -355,7 +354,7 @@ Moreover, we show that this approach is suitable for simultaneous imaging and su
 
 ### Animals
 
-In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five 10-week-old CB17SCID male mice, three 12-week-old C57BL/6 mice, one 60-week-old C57BL/6 mouse, and six female Göttingen minipigs.
+In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five 10-week-old CB17SCID male mice, three 12-week-old C57BL/6 mice, one 73-week-old C57BL/6 mouse, and six female 30-month-old Göttingen minipigs.
 Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation on the protection of animals and were approved by the corresponding committees.
 
 Murine experiments were approved by the local Swiss ethical committee (Tierversuchskommission des Kantons Bern, Amt für Veterinärwesen, Bern, Switzerland) under permit number BE 55/16.
@@ -367,16 +366,16 @@ The following reporting adheres to the ARRIVE Guidelines 2.0 [@doi:10.1371/journ
 
 ### Tomographic imaging
 
-For this study, we imaged all samples with different Bruker SkyScan X-ray microcomputed tomography scanners.
+For this study, we imaged all samples with different Bruker SkyScan X-ray microcomputed tomography scanners (all from Bruker microCT N.V., Kontich, Belgium).
 An overview of the imaging and reconstruction parameters is given in the text below.
 Imaging parameters are mentioned briefly below and summarized in detail in a table given in the [Supplementary Materials].
 
 ### Animal preparation and perfusion of contrast agent μAngiofil
-The vasculature of all animals was instilled with the iodine-based contrast agent μAngiofil (Fumedica AG, Switzerland). 
+The vasculature of all animals was instilled with the iodine-based contrast agent μAngiofil (Fumedica AG, Switzerland).
 
-The contrast agent was prepared according to the manufacturer's instructions by mixing two components ('Contrast Solution' and 'PU') in a preparation step.
-These pre-mixed components are then mixed together with a hardener during instillation into the cannulated animal vascular system.
-Perfusion was performed using a syringe pump to ensure reproducible flow rates (1–1.5 ml/min).
+The contrast agent μAngiofil was prepared following the manufacturer's instructions by first combining the two components 'Contrast Solution' and 'PU'.
+These pre-mixed components were then mixed with a hardener immediately before instillation into the cannulated vascular system of the animals.
+Perfusion was conducted using a syringe pump to maintain consistent flow rates between 1 and 1.5 ml/min, ensuring reproducibility across experiments.
 
 The perfusion of the animals was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
 Heparinized animals were deeply anesthetized (details on anesthezia for each animal model are given below).
@@ -394,7 +393,7 @@ For minipigs, the external carotid artery was cannulated, and perfusion was perf
 Here, one 21-month-old VEGF transgenic male mouse was anesthetized with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg).
 μAngiofil perfusion was performed as described above.
 After μAngiofil polymerization, samples were fixed in 4 % paraformaldehyde (PFA) solution at 4 °C and stored in PFA until tomographic imaging.
-Samples were then imaged using a SkyScan 1172 (Version F, control software version 1.5 (build 26), Bruker microCT N.V., Kontich, Belgium).
+Samples were then imaged using a SkyScan 1172.
 For imaging, the samples were removed from the PFA solution, wrapped in closed-pore foam, and scanned in a custom-made sealed plastic sample holder under humid conditions.
 Imaging parameters included an acceleration voltage of 49 kV, a current of 200 μA, and an isotropic voxel size of 2.99 μm.
 Projection images were recorded over a sample rotation of 360°, acquiring one projection every 0.05°, with 3 projections averaged for noise reduction.
@@ -419,7 +418,7 @@ Decalcification of bone tissue does not negatively influence the bone structure 
 
 To evaluate the effects of decalcification, hind limbs of 10-week-old CB17SCID male mice were scanned before and after decalcification in 10% EDTA for 7 days.
 
-These samples were imaged with a SkyScan 1172 (Version F, control software version 1.5 (build 23), Bruker microCT N.V., Kontich, Belgium).
+These samples were imaged with a SkyScan 1172.
 Imaging parameters included an acceleration voltage of 59 kV, a current of 167 μA, and an isotropic voxel size of 3.19 μm.
 Projection images were recorded over a sample rotation of 180°, acquiring one projection every 0.1°, with 2 projections averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels had an exposure time of 1740 ms.
@@ -441,7 +440,7 @@ To verify the suitability of our microAngioCT approach for imaging intratumoral 
 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6-week-old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was conducted on days 7, 14, 21, and 28 after implantation to monitor the progression of the lesions.
 Before perfusion with μAngiofil (as described above), the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
-The harvested and fixated murine hind limb (4 % PFA at 4 °C) was then imaged using a desktop microCT scanner (SkyScan 1272, control software 1.1.19, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:3).
+The harvested and fixated murine hind limb (4 % PFA at 4 °C) was then imaged using a SkyScan 1272 (Fig. @fig:3).
 Imaging parameters included an acceleration voltage of 60 kV, a current of 166 μA, and an isotropic voxel size of 1.65 μm.
 Projection images were recorded over a sample rotation of 180°, acquiring one projection every 0.1°, with 3 projections averaged for noise reduction.
 Each projection image with a size of 4904 x 3280 pixels had an exposure time of 2800 ms.
@@ -462,7 +461,7 @@ C57BL/6 mice were anesthetized (with a mixture of fentanyl (0.05 mg/kg), midazol
 The perfused head was harvested and fixed (4 % PFA at 4 °C).
 Before tomographic imaging the mandible was excised, wrapped in a paper towel, and scanned in a sealed pipette tip.
 
-The mouse teeth were imaged using a desktop microCT scanner (SkyScan 1172 (Version F, control software version 1.5 (build 23)), Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:4).
+The mouse teeth were imaged using a SkyScan 1172 (Fig. @fig:4).
 Imaging parameters included an acceleration voltage of 80 kV, a current of 124 μA, and an isotropic voxel size of 1 μm.
 Projection images were recorded over a sample rotation of 360°, acquiring one projection every 0.1°, with 4 projections averaged for noise reduction.
 Each projection image with a size of 4000 x 2672 pixels had an exposure time of 6260 ms.
@@ -485,7 +484,7 @@ After washing out the blood with PBS, the corresponding head side was selectivel
 Otherwise, the perfusion was performed with the same approach as in the previously described mice experiments.
 After the polymerization of μAngiofil, we excised the mandible and fixated and stored it in 4 % PFA solution at 4 °C.
 
-Mandibles were then scanned with a SkyScan 1273 (control software version 1.1, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:5).
+Mandibles were then scanned with a SkyScan 1273 (Fig. @fig:5).
 Imaging parameters included an acceleration voltage of 100 kV, a current of 80 μA, and an isotropic voxel size of 21 μm (panel A) of 9 μm (panels B and C).
 For the visualization shown in panel A, we recorded projection images with a size of 3072 x 1944 pixels over a sample rotation of 360°, acquiring one projection every 0.1°, with 5 projections averaged for noise reduction.
 Each projection image had an exposure time of 225 ms.
@@ -509,7 +508,7 @@ This is due to the presence of high-density metal parts with strong X-ray absorp
 A decalcification step reduces the density of the sample but inevitably leads to the loss of information on the bone microstructure making the simultaneous assessment of the bone and vessels impossible [@doi:10.1038/s41598-017-13632-5].
 To distinguish the vasculature from both the metal implants and the mineralized bone tissue, we instilled the vasculature with a suitable contrast agent (μAngiofil).
 The X-ray absorption characteristics of μAngiofil make it possible to visualize and differentiate between soft tissue, bone tissue, contrast agent-filled vessels and metal (titanium) implants.
-We imaged an μAngiofil-instilled minipig hemimandibula with a SkyScan 2214 (control software version 1.0.0, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:6), with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 100 μA.
+We imaged an μAngiofil-instilled minipig hemimandibula with a SkyScan 2214 (Fig. @fig:6), with an X-ray source acceleration voltage of 100 kV and an X-ray source current of 100 μA.
 The X-rays were filtered by 1 mm of copper.
 Projection images were recorded over a sample rotation of 360°, acquiring one projection every 0.18°, with 4 projections averaged for noise reduction.
 Each projection image with a size of 2929 x 1944 pixels had an exposure time of 1080 ms.
@@ -534,7 +533,7 @@ While decalcification can improve contrast (see Fig. @fig:2), we propose an alte
 Previous studies have demonstrated that microscopic dual-energy CT imaging (microDECT) using commercial lab-based microCT systems can achieve spectral separation of two or more materials with micrometer resolution [@doi:10.1111/jmi.12543; @doi:10.1111/jmi.13369].
 Notably, the contrasting properties of hydroxyapatite (the primary mineral in bone and teeth) and iodine (the high-Z component in μAngiofil) make them ideal for spectral X-ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007/s13244-010-0057-0; @doi:10.1118/1.594374].
 
-We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (control software version 1.8, Bruker microCT N.V., Kontich, Belgium) (Fig. @fig:7).
+We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (Fig. @fig:7).
 The optimal dual-energy settings for the X-ray source were 50 kV/120 µA and 90 kV/100 µA, respectively (acceleration voltage/source current).
 Projection images were recorded over a sample rotation of 360°, acquiring one projection every 0.1°, with 7 projections averaged for noise reduction.
 Each projection image with a size of 4032 x 2688 pixels had an exposure time of 6000 ms (on average).
