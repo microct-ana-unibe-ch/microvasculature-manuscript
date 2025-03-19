@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/>.
-The permalink for this webpage version is <https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/5e0e4ebc4cd87222100969dcfc7f303777def1f9/>.
+The permalink for this webpage version is <https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/eb5458d89a769f78692a726bdc30c95cddb9ee01/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`5e0e4ebc4cd87222100969dcfc7f303777def1f9`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/commit/5e0e4ebc4cd87222100969dcfc7f303777def1f9).
+[`eb5458d89a769f78692a726bdc30c95cddb9ee01`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/commit/eb5458d89a769f78692a726bdc30c95cddb9ee01).
