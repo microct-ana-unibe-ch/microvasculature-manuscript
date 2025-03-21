@@ -11,7 +11,7 @@ date: 13.03.2025
 > The contrast agent is already on the market and, according to what the authors claim, it holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
 > Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
 
-We thank the reviewer for the agreement on the usefulnes of applying µAngiofil to the study of vasculature in various fields of research.
+We thank the reviewer for the agreement on the usefulness of applying µAngiofil to the study of vasculature in various fields of research.
 Below, we address the concerns raised regarding the experimental methodology and its ability to support our claims:
 
 ## Main Comments:
@@ -26,8 +26,8 @@ We were searching with Google Scholar, which either results in [no useful result
 
 Here's a rundown on our literature research:
 
-  - [1 result is the abstract booklet of a conference](https://www.vliz.be/imisdocs/publications/ocrd/305348.pdf) where one of the authors presesented their work on microAngiofil, not related to bone
-  - [3D Quantitative Characterization of the Human Meniscal Vascular Network Using X-ray Micro-Computed Tomography](https://doi.org/10.1302/1358-992X.2024.2.006) by F. Orellana et al. is an conference proceeding presenting a method where where microAngiofil and micro-CT were used to analyse the 3D microvascular structure of the human meniscus
+  - [1 result is the abstract booklet of a conference](https://www.vliz.be/imisdocs/publications/ocrd/305348.pdf) where one of the authors presented their work on microAngiofil, not related to bone
+  - [3D Quantitative Characterization of the Human Meniscal Vascular Network Using X-ray Micro-Computed Tomography](https://doi.org/10.1302/1358-992X.2024.2.006) by F. Orellana et al. is an conference proceeding presenting a method where where microAngiofil and micro-CT were used to analyze the 3D microvascular structure of the human meniscus
   - [In situ isotropic 3D imaging of vasculature perfusion specimens using x-ray microscopic dual-energy CT](https://doi.org/10.1111/jmi.13369) by Stefan Handschuh et al. is a paper on vasculature imaging, with advanced microscopic dual-energy computed tomography (microDECT) for in situ visualization and analysis of microvasculature within intact tissues.
       We cite the paper several times in our manuscript and have an ongoing collaboration with the first author.
   - [A Review of Ex Vivo X-ray Microfocus Computed Tomography-Based Characterization of the Cardiovascular System](https://doi.org/10.3390/ijms22063263) by Lisa Leyssens et al. is a overview of the application of ex vivo microCT for the characterization of the cardiovascular system.
@@ -37,16 +37,16 @@ Here's a rundown on our literature research:
     The authors used a barium sulfate-based contrast agent and employed synchrotron radiation imaging.
     They used synchrotron radiation to acquire high-resolution, three-dimensional images of mouse tibiae affected by metastatic cancer.
     In addition they employed neural network-based architecture for the simultaneous segmentation of bone tissue, vascular structures, and metastatic lesions.
-    Based on this publication and a reviewer comment we adde a paragraph about advances in segmentation methods to our manuscript.
+    Based on this publication and a reviewer comment we added a paragraph about advances in segmentation methods to our manuscript.
   - [3D Transcranial Ultrasound Localization Microscopy in the Rat Brain with a Multiplexed Matrix Probe](https://doi.org/10.1109/TBME.2021.3137265) is a study in which A. Chavignon et al. performed ultrasound imaging of brain vasculature, and did *one* microCT scan to compare both imaging modalities.
-  - [Edge-illumination spectral phase-contrast tomography](https://doi.org/10.1088/1361-6560/ad3328] is a study in which Luca Brombal et al. scanned *one* mouse under laboratory conditions on a synchrotron setup to employ phase constrast.
-    They applied phase-contrast tomography to separate three channels, namely water, iodine and calcium (soft tissue, vasculatura and bone, respectively).
-  - [A protocol for visualization of murine in situ neurovascular interfaces](https://www.sciencedirect.com/science/article/pii/S2666166723003349) pecifically mentions that "*Microfil* and bone tend to have similar attenuation and the skull may not be completely removed by adjusting thresholding parameters.
+  - [Edge-illumination spectral phase-contrast tomography](https://doi.org/10.1088/1361-6560/ad3328] is a study in which Luca Brombal et al. scanned *one* mouse under laboratory conditions on a synchrotron setup to employ phase contrast.
+    They applied phase-contrast tomography to separate three channels, namely water, iodine and calcium (soft tissue, vasculature and bone, respectively).
+  - [A protocol for visualization of murine in situ neurovascular interfaces](https://www.sciencedirect.com/science/article/pii/S2666166723003349) specifically mentions that "*Microfil* and bone tend to have similar attenuation and the skull may not be completely removed by adjusting thresholding parameters.
     The authors of this study use Microfil, which is a different product to the *MicroAngiofil* we have used.
   - [VEGF-B Promotes Endocardium-Derived Coronary Vessel Development and Cardiac Regeneration](https://doi.org/10.1161/CIRCULATIONAHA.120.050635 investigates the role of Vascular Endothelial Growth Factor B (VEGF-B) in coronary vessel development and its potential therapeutic applications for cardiac regeneration.
     "Bone" is never mentioned in the study
   - [A novel micro-CT-based method to monitor the morphology of blood vessels in the rabbit endplate](https://doi.org/10.1007/s00586-016-4849-x) analyzes blood vessel morphology within the rabbit vertebral endplate using micro-computed tomography (micro-CT) at 9 um voxel size.
-    The authors used two diffrerent contrast agents and fail to three-dimensionally visualize the vasculature in half of their contrasted samples.
+    The authors used two different contrast agents and fail to three-dimensionally visualize the vasculature in half of their contrasted samples.
 
 Further searches were unfruitful:
 
@@ -54,14 +54,14 @@ Further searches were unfruitful:
 - A [PubMed search for "MicroAngiofil"](https://pubmed.ncbi.nlm.nih.gov/?term=MicroAngiofil&filter=datesearch.y_10) returns *no* results.
 - A [BASE search for μangiofil](https://www.base-search.net/Search/Results?type=all&lookfor=%CE%BCangiofil&ling=1&oaboost=1&name=&thes=&refid=dcresen&newsearch=1) does not surface additional results.
 - A [refseek* query](https://www.refseek.com/search?q=microangiofil+bone) finds *many* more, but all results lead to unrelated questions asked on ResearchGate or ResearchGate pages of close collaborators of former group members.
-- A search on ChatGPT to "Find studies that use microangiofil in bone research" told us that "specific studies employing MicroAngiofil in bone research are not readily identifiable." and found [Microvasculature and trabecular bone in beagle proximal femur: Microstructural insights](https://doi.org/10.1016/j.aanat.2024.152368) by Alam et al., which does *not* do uCT, but looks at desctructive histological slice and [Bone matrix microdamage and vascular changes characterize bone marrow lesions in the subchondral bone of knee osteoarthritis](https://doi.org/10.1016/j.bone.2018.01.012) in which Muratovic et al. image bone with MRI and do not use any contrast agent.
+- A search on ChatGPT to "Find studies that use microAngiofil in bone research" told us that "specific studies employing MicroAngiofil in bone research are not readily identifiable." and found [Microvasculature and trabecular bone in beagle proximal femur: Microstructural insights](https://doi.org/10.1016/j.aanat.2024.152368) by Alam et al., which does *not* do uCT, but looks at destructive histological slice and [Bone matrix microdamage and vascular changes characterize bone marrow lesions in the subchondral bone of knee osteoarthritis](https://doi.org/10.1016/j.bone.2018.01.012) in which Muratovic et al. image bone with MRI and do not use any contrast agent.
 
 Our literature review revealed that most studies employed alternative contrast agents, such as Microfil, which have limitations in terms of vascular filling and imaging quality.
 In our study we highlight µAngiofil's applicability in simultaneous imaging of bone and vasculature, even in challenging scenarios like large animal models and metal implants.
 
 > Moreover, the authors have omitted to cite, neither in the Introduction nor in the Discussion, research and review studies that have already addressed the problem of simultaneously visualizing and, above all, quantifying vascular flow and bone microarchitecture; in particular, the studies performed at the synchrotron using phase contrast microtomography without the use of contrast media, successfully performed on both animal and human model biopsies (examples: https://doi.org/10.3389/fphys.2017.00769 ; https://doi.org/10.5966/sctm.2012-0136 , etc. ).
 
-Interestingly, both Alessandra Giuliani and Max Langer are the overlapping authors in the Venn diagram of all the authors of these two example publications.
+Interestingly, both Alessandra Giuliani and Max Langer are the overlapping authors in the Venn diagram of all the authors of these two example publications, and Max Langer is also the author of one study we mention above.
 One of the authors of the manuscript reviewed was employed as a PostDoc at a synchrotron beamline, and we are familiar with the research conducted in such facilities.
 
 A major limitation of both referenced studies is the restricted accessibility of their methodology, namely 'synchrotron phase tomography' and 'synchrotron radiation-based holotomography'.
@@ -71,7 +71,7 @@ Furthermore, both referenced studies rely on phase-contrast imaging, which provi
 However, such imaging techniques are not commonly available in commercially accessible desktop micro-CT systems.
 In contrast, our approach offers a more practical and feasible alternative for researchers without the need for specialized synchrotron infrastructure.
 
-Having said all that we decided to mention the possibility to perform studies of the vasculature in bone with synchrotron radiation microtomography in the introduction of our manuscript, actually strenthening our case for applicability of our presented method in broad preclinical reasearch.
+Having said all that we decided to mention the possibility to perform studies of the vasculature in bone with synchrotron radiation microtomography in the introduction of our manuscript, actually strengthening our case for applicability of our presented method in broad preclinical research.
 We only cited the first of the mentioned studies, since the second one highlights a severe drawback of synchrotron radiation studies (very small visualized sample volume (in that case ~1.25 mm³), which is many times smaller than the volume of the implants shown in our figure 6).
 
 > In any case this reviewer continues to consider the proposed problem relating to the simultaneous visualization of soft tissues (in this specific case, the vascular endothelium) and hard tissues (bones, teeth, dental implants, etc.) through the use of the benchtop microCT.
@@ -81,7 +81,7 @@ We are *not* visualizing (and interested in) the vascular endothelium, this is b
 > Unfortunately, this reviewer fears that the problem has not been well focused in the present study and, consequently, the experimental method to address that.
 > In fact, both in dental diagnostics and in oral pathology, up to bone tissue engineering, the object of study requires a very high resolution to be able to visualize even the smallest blood capillaries which are the main actors in tumor kinetics and tissue regeneration.
 
-We acknowledge that resolving the smallest blood capillaries requires very high resolution tomographic imaging and have previously showen that this is possible in https://doi.org/10.1038/srep41842, where we imaged the contrast-enhanced vasculature network in murine hind-limbs with sub-micrometer voxel side lenghts (0.66 μm).
+We acknowledge that resolving the smallest blood capillaries requires very high resolution tomographic imaging and have previously shown that this is possible in https://doi.org/10.1038/srep41842, where we imaged the contrast-enhanced vasculature network in murine hind-limbs with sub-micrometer voxel side lengths (0.66 μm).
 However, our study was not designed to resolve individual capillaries but rather to assess the overall effectiveness of the contrast medium in enhancing vascular visualization within a practical and widely accessible imaging framework.
 
 > Consequently, to appreciate the effectiveness of this contrast medium, it is first necessary to have a high-resolution tomograph (I would say a nanotomograph!) to maintain a single experimental setting for all the tests.
@@ -127,7 +127,7 @@ We generalized the description of the instillation for all experiments and added
 > Although this is not the subject of this study, it is necessary to mention these options in the Discussion, citing the supporting literature.
 
 The reviewer is absolutely correct that convolutional neural networks are a powerful tool for vascular segmentation.
-We have already peformed some work on the segmentation of the vasculature with neural network-based approaches for the project dealing with implants in the minipig mandibles, but the results are not ready to be described in a manuscript.
+We have already performed some work on the segmentation of the vasculature with neural network-based approaches for the project dealing with implants in the minipig mandibles, but the results are not ready to be described in a manuscript.
 We thank the reviewer for the suggestion to mention such approaches in our manuscript and added a paragraph in the discussion.
 
 > With reference to the analyses conducted in Dual Energy, it is not very clear what the gain is in terms of vessels detection.
@@ -156,7 +156,7 @@ Based on the comments of *both* reviewers, we revised  the manuscript to ensure 
 
 > At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
 
-To ensure the manuscript reads less like a report and more like a cohesive publication, we streamlined the descriptions of experimental setups and imaging parameters, moving the full technical information to the table alredy present in the supplementary materials.
+To ensure the manuscript reads less like a report and more like a cohesive publication, we streamlined the descriptions of experimental setups and imaging parameters, moving the full technical information to the table already present in the supplementary materials.
 
 ## Major comments:
 
@@ -165,7 +165,7 @@ To ensure the manuscript reads less like a report and more like a cohesive publi
 > Therefore, I would strongly suggest to separate the results, so that the authors can fully focus on presenting these in a separate section and/or merge them with the discussion section.
 
 We agree that the choice to merge materials and methods might seem unusual for a manuscript.
-Due to the focus on the methodology it seems to us that thes merge is warranted in the case of the present manuscript.
+Due to the focus on the methodology it seems to us that this merge is warranted in the case of the present manuscript.
 We would like to kindly refuse this suggestion, also in the light that it would not change the message of the manuscript.
 
 > The images are very nice, but there is a number of very large figures (Figs. 1-5), not all of which appear necessary to me.
@@ -173,7 +173,7 @@ We would like to kindly refuse this suggestion, also in the light that it would 
 > Importantly, I'm missing any quantitative evaluation of the perfusion quality achieved.
 
 Qualitative evaluation of the perfusion is done during instillation, due to the blue color of the contrast agent.
-A secondary qualitative evaluation of the perfusion is performed after tomographic imaging and visualization, where continuitiy in the filling of the vasculature is visually evaluated.
+A secondary qualitative evaluation of the perfusion is performed after tomographic imaging and visualization, where continuity in the filling of the vasculature is visually evaluated.
 In total, we have a failure rate of 5-20% of the instillations, where most failures actually happen at instillation, due to operator error.
 Once the vasculature is filled with the contrast agent, nearly no discontinuities are observed, even for less skilled researchers instilling the contrast agent.
 A quantitative evaluation of the achieved perfusion quality can to the best of our knowledge only be achieved with the analysis of the graph of the vasculature, showing no discontinuities.
@@ -187,7 +187,7 @@ Ongoing research in our group focuses on the actual analysis of the vascular net
 
 > As said above, the images provided are beautiful.
 > But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly.
-> Importantly, I would also like to see corresponding histological slices that show whether certain blood vessels remained non-perfused and that would also show if any shrinkage of the perfusion agent occured.
+> Importantly, I would also like to see corresponding histological slices that show whether certain blood vessels remained non-perfused and that would also show if any shrinkage of the perfusion agent occurred.
 
 So called correlative imaging was previously performed to validate the perfusion: https://doi.org/10.1038/srep41842, which is cited several times in the  present manuscript.
 In that manuscript we have evaluated the perfusion efficiency of microAngiofil by correlating microCT slices with registered histological slices.
