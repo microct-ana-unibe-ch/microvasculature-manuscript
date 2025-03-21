@@ -11,6 +11,9 @@ date: 13.03.2025
 > The contrast agent is already on the market and, according to what the authors claim, it holds great promise for addressing key questions in tissue engineering, implantology, and a wide range of related research fields.
 > Although this reviewer agrees with the authors that the proposed contrast agent could be interesting as an aid in the diagnosis of various pathologies and also in the field of tissue engineering, at the same time doubts arise as to how the experimental activity was conducted and whether it can demonstrate what the authors claim above.
 
+We thank the reviewer for the agreement on the usefulnes of applying µAngiofil to the study of vasculature in various fields of research.
+Below, we address the concerns raised regarding the experimental methodology and its ability to support our claims:
+
 ## Main Comments:
 
 > Therefore, the first doubt lies in the novelty of the study.
@@ -138,11 +141,24 @@ Combining both scans into a dual-energy dataset greatly enhances detectability.
 As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV positive, while the gray value difference inside the blood vessels between those values is negative, as is technically evident in panel C' of Fig. 7.
 Your statement about already allowing threshold segmentation on the shown data is true in the case for the shown slice, but it is *not* true for the full three-dimensional dataset.
 
+We hope that all these additions and clarifications address the reviewer's concerns, demonstrate the robustness of our methodology and the novelty of our findings.
+We remain open to further suggestions to improve the manuscript.
+
 # Reviewer 2
 
 > The manuscript presents valuable results beautiful images of vasculature in different bones (in some cases including implants) imaged using µCT following perfusion with the contrast agent µAngiofil.
+
+We thank the reviewer for their positive feedback on the quality of the results and the images presented in the manuscript.
+We also appreciate the constructive suggestion to improve the structure of the manuscript to better highlight the main findings.
+
 > While I believe that the results are methodology shown are very valuable, I do think that the manuscript could benefit from some restructuring to better highlight the main results.
+
+We agree that the manuscript could benefit from a clearer presentation of the main results.
+Based on the comments of *both* reviewers, we revised  the manuscript to ensure that the key findings are more prominently featured and removed redundancies in the text.
+
 > At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
+
+To ensure the manuscript reads less like a report and more like a cohesive publication, we streamlined the descriptions of experimental setups and imaging parameters, moving the full technical information to the table alredy present in the supplementary materials.
 
 ## Major comments:
 
@@ -182,4 +198,4 @@ For some of the samples shown in the present study, namely those with metal impl
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
 
-We hope that we were able address the major comments of this reviewer and are looking forward to hear about the minor comments to implement those appropriately into our work.
+We hope that we were able address the major comments of this reviewer and look forward to any additional suggestions they may have.
