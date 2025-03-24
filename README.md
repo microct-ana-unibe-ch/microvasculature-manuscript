@@ -1,4 +1,4 @@
-# MicroCT-based imaging of microvasculature within bone and peri-implant tissues
+# MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf)
