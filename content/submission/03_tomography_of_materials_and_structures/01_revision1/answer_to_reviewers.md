@@ -36,7 +36,7 @@ Here's a rundown on our literature research:
   - [A Review of Ex Vivo X-ray Microfocus Computed Tomography-Based Characterization of the Cardiovascular System](https://doi.org/10.3390/ijms22063263) by Lisa Leyssens et al. is a overview of the application of ex vivo microCT for the characterization of the cardiovascular system.
     Each reference to microAngiofil links to a publication of the authors of the here reviewed manuscript.
     Mentions of contrast-agent supported studies in bone are referencing to *Microfil* studies.
-  - [Quantitative Analysis of Bone, Blood Vessels, and Metastases in Mice Tibiae Using Synchrotron Radiation Micro-Computed Tomography](https://doi.org/10.3390/cancers15235609) by Hao Xu and Max Langer ([an author that might a reviewer](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/issues/13#issuecomment-2694793968) of our manuscript (see below)).
+  - [Quantitative Analysis of Bone, Blood Vessels, and Metastases in Mice Tibiae Using Synchrotron Radiation Micro-Computed Tomography](https://doi.org/10.3390/cancers15235609) by Hao Xu and Max Langer ([an author that might be(?) a reviewer](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/issues/13#issuecomment-2694793968) of our manuscript (see below)).
     The authors used a barium sulfate-based contrast agent and employed synchrotron radiation imaging.
     They used synchrotron radiation to acquire high-resolution, three-dimensional images of mouse tibiae affected by metastatic cancer.
     In addition they employed neural network-based architecture for the simultaneous segmentation of bone tissue, vascular structures, and metastatic lesions.
