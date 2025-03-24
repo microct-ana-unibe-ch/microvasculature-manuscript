@@ -1,7 +1,10 @@
 ---
-title: Answer to reviewers
-author: David Haberthür
-date: 13.03.2025
+title: 'Answer to reviewers'
+author:
+- David Haberthür
+- Oleksiy Khoma
+- Ruslan Hlushchuk
+date: 24.03.2025
 ---
 
 # Reviewer 1
