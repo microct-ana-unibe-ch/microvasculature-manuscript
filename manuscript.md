@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-03-24" />
   <meta name="citation_publication_date" content="2025-03-24" />
   <meta property="article:published_time" content="2025-03-24" />
-  <meta name="dc.modified" content="2025-03-24T10:38:04+00:00" />
-  <meta property="article:modified_time" content="2025-03-24T10:38:04+00:00" />
+  <meta name="dc.modified" content="2025-03-24T11:15:27+00:00" />
+  <meta property="article:modified_time" content="2025-03-24T11:15:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bc1f2f6654c72487c783ab991d60dc7dfca7c95c/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bc1f2f6654c72487c783ab991d60dc7dfca7c95c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bc1f2f6654c72487c783ab991d60dc7dfca7c95c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/193669436cfeb5544be2835f4c1e54439bc14f3f/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/193669436cfeb5544be2835f4c1e54439bc14f3f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/193669436cfeb5544be2835f4c1e54439bc14f3f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.0`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/bc1f2f6654c72487c783ab991d60dc7dfca7c95c/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/193669436cfeb5544be2835f4c1e54439bc14f3f/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@bc1f2f6](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/bc1f2f6654c72487c783ab991d60dc7dfca7c95c)
+from [microct-ana-unibe-ch/microvasculature-manuscript@1936694](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/193669436cfeb5544be2835f4c1e54439bc14f3f)
 on March 24, 2025.
-Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...bc1f2f6654c72487c783ab991d60dc7dfca7c95c#files_bucket).
+Changes of this version to the submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...193669436cfeb5544be2835f4c1e54439bc14f3f#files_bucket).
 </em></small>
 
 
@@ -291,7 +291,7 @@ We present simultaneous microvascular and bone imaging in murine tibia, a murine
 In a large animal model (minipig), we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
 We further demonstrate the potential of dual-energy imaging in distinguishing bone tissue from the applied contrast agents.
 
-This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model
+This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model.
 
 
 ## Introduction {.page_break_before}
@@ -389,7 +389,7 @@ To achieve correct perfusion of the vessels within the bone, we prolonged the pe
 
 For minipigs, the external carotid artery was cannulated, and perfusion was performed similarly.
 
-#### Contrast-Enhanced microAngioCT of Murine Tibia
+#### Contrast-Enhanced microangioCT of Murine Tibia
 
 Here, one 21-month-old VEGF transgenic male mouse was anesthetized with a mixture of fentanyl (0.05 mg/kg), midazolam (5 mg/kg), and medetomidine (0.5 mg/kg).
 μAngiofil perfusion was performed as described above.
@@ -403,7 +403,7 @@ Figure @fig:1 shows the tibial bone microstructure and vascularization of a 21-m
 This visualization approach enables the simultaneous display of bone and its vascularization.
 These tomographic datasets were also used in another study [@doi:10.1126/science.abc8479], where we performed simultaneous quantification of vasculature and bone volume.
 
-![**microAngioCT of the proximal murine tibia of a 21-month-old VEGF transgenic male mouse.**
+![**MicroangioCT of the proximal murine tibia of a 21-month-old VEGF transgenic male mouse.**
   After perfusion with μAngiofil, the murine tibia was harvested, fixated in 4 % PFA and imaged by microCT.
   Arrowheads mark microvessels within the tibia.
   The diameter of the tibia shaft is around 1 mm.
@@ -422,7 +422,7 @@ To evaluate the effects of decalcification, hind limbs of 10-week-old CB17SCID m
 Imaging parameters included an acceleration voltage of 59 kV, a current of 167 μA, and an isotropic voxel size of 3.19 μm.
 We acquired 1991 projection images, recorded over a sample rotation of 180°, (4000 x 2672 px, 2 averaged to one, each exposed for 1740 ms).
 
-![**microAngioCT-based visualization of the diaphysis of CB17SCID mice tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
+![**MicroangioCT-based visualization of the diaphysis of CB17SCID mice tibia before (A & A') and after decalcification with 10% EDTA (B & B').**
   In A and A' the tibia bone appears brighter and opaque due to higher X-ray absorption.
   In B and B' the tibia bone appears transparent due to its lowered X-ray absorption after decalcification.
   Due to the decalcification, connecting vessels between the periosteal vessels and the vessels of the bone marrow cavity (bmc) are more easily detectable (blue arrows in A vs. B).
@@ -435,7 +435,7 @@ We acquired 1991 projection images, recorded over a sample rotation of 180°, (4
 In bone metastatic disease models, simultaneous imaging of bone and vasculature is crucial.
 Since changes in bone and vasculature are believed to be of crucial importance for the progression of bone metastatic disease, decalcification is generally avoided in these studies.
 
-To verify the suitability of our microAngioCT approach for imaging intratumoral vasculature in native, non-decalcified bone tissue we used the following murine bone metastatic disease model.
+To verify the suitability of our microangioCT approach for imaging intratumoral vasculature in native, non-decalcified bone tissue we used the following murine bone metastatic disease model.
 50000 PC3-M-Pro4Luc2 dTomato cells were injected into the tibia of 6-week-old CB17SCID male mice as previously described [@doi:10.1158/1541-7786.MCR-18-1220; @doi:10.1038/bonekey.2016.4].
 The X-ray assessment (25 kV, 6 sec, Faxitron Bioptics, Tucson, Arizona, US) was conducted on days 7, 14, 21, and 28 after implantation to monitor the progression of the lesions.
 Before perfusion with μAngiofil (as described above), the hind limb of interest was X-rayed using Faxitron Bioptics as a standard follow-up in this model (see insert in Fig. @fig:3, Panel A).
@@ -445,10 +445,10 @@ We acquired 1878 projection images, recorded over a sample rotation of 180°, (4
 The visualization (CTvox (v.3.3.1), Bruker microCT N.V., Kontich, Belgium) displays intratumoral vasculature and extensive defects in mineralized bone tissue.
 Neighboring structures, such as the growth plate and the epiphysis or the menisci are also easily assessed (Fig. @fig:3).
 
-![**microAngioCT of a xenograft tumor implanted into tibia of 6-week-old CB17SCID male mice.**
+![**MicroangioCT of a xenograft tumor implanted into tibia of 6-week-old CB17SCID male mice.**
   A: Maximum intensity projection (MIP) of the three-dimensional dataset of the investigated hind limb segment indicated in the inserted X-ray image of the mouse prior to harvesting.
   Inset: X-ray image before sample harvesting.
-  B: Virtual section through the microAngioCT dataset visualizing remarkable defects represented as holes (asterisks in B and C) in the tibial bone at the tumor site (encircled).
+  B: Virtual section through the microangioCT dataset visualizing remarkable defects represented as holes (asterisks in B and C) in the tibial bone at the tumor site (encircled).
   C: A more deeply positioned virtual section displaying the inner surface of the diseased tibia.
   Besides irregularly patterned tumor vessels (in B & C) further bony structures like the growth plate or calcified parts of the medial meniscus (MM) are clearly distinguishable.](images/Fig3_tumor_tibia.png){#fig:3}
 
@@ -465,7 +465,7 @@ We acquired 3602 projection images, recorded over a sample rotation of 360°, (4
 For murine mandibles and teeth, decalcification is unnecessary due to the distinct X-ray attenuation properties of μAngiofil and bone tissue.
 This allows clear visualization of the microvasculature of the vasculature within the mandible, periodontal ligament, and the teeth (even within their pulp chamber) without compromising bone structure (Fig. @fig:4).
 
-![**microAngioCT of the vasculature of C57BL/6 mice teeth.**
+![**MicroangioCT of the vasculature of C57BL/6 mice teeth.**
   A: View onto a virtual section parallel to the crowns of the murine teeth: pulp chambers are visible, and the pulpal vessels are presented.
   The inset shows a full view of the tomographic dataset.
   B: Sagittal section through the mandible.
@@ -487,7 +487,7 @@ For the visualization shown in panel A, we recorded 3601 projection images over 
 For the visualizations shown in panels B and C, we recorded 2401 projection images over a sample rotation of 360° (5 averaged to one, each exposed for 225 ms).
 In addition, two horizontally overlapping projections were stitched to one projection with a size of 4832 x 1944 px to increase the imaged sample volume and cover the full extent of the sample.
 
-![**microAngioCT of the minipig mandibula.**
+![**MicroangioCT of the minipig mandibula.**
   Panel A displays the visualization of a right minipig hemimandible.
   The vasculature at the bone surface is visible.
   The framed area in A marks the subvolume represented in panel B at higher magnification.
@@ -509,14 +509,14 @@ We acquired 2001 projection images, recorded over a sample rotation of 360°, (2
 In the resulting tomographic datasets these regions of interest can easily be distinguished based on their gray value ranges, as shown in Fig. @fig:6, Panel C.
 Tomographic imaging of such samples and straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D) is enabled without requiring a decalcification step.
 
-![**microAngioCT of the peri-implant vasculature of a minipig mandibula.**
+![**MicroangioCT of the peri-implant vasculature of a minipig mandibula.**
   Panel A: Maximum intensity projection image of the minipig mandible dataset with four metal implants and μAngiofil-perfused vessels.
   Panel B: virtual transversal section through the dataset showing an implant within the mandible.
   The colored circles mark structures with different gray value ranges.
   Corresponding peaks with color legend are marked on the histogram in panel C.
   Such differences in gray levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.](images/Fig6_Segmentation.png){#fig:6}
   
-#### Dual-Energy microAngioCT
+#### Dual-Energy microangioCT
 
 Unfortunately, not all samples exhibit a pronounced difference in gray values between bone tissue and μAngiofil when scanned using standard scanning parameters.
 This issue is particularly common in murine samples, even though the bone mineral density of mouse bones is generally higher than that of other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
@@ -564,7 +564,7 @@ This permits us direct assessment of vascularization and bone growth in a single
 While effective, this approach does not always yield optimal results (e.g., Fig. @fig:4).
 Although decalcification is a viable option for quite some studies, a dual-energy scanning technique offers a more efficient solution (see Fig. @fig:7).
 By conducting two sequential scans without removing the sample, this method simplifies dataset registration, avoids the time-consuming decalcification step, and provides simultaneous imaging of bone and vasculature while keeping the sample intact.
-Therefore, the microAngioCT approach we present here can be used for the simultaneous visualization of hard and soft tissues and their vascularization in small and large animal models.
+Therefore, the microangioCT approach we present here can be used for the simultaneous visualization of hard and soft tissues and their vascularization in small and large animal models.
 
 One of the noteworthy applications of this approach is the simultaneous visualization of the bone microarchitecture and microvasculature of bone metastases in a murine xenograft tumor model (Fig. @fig:3).
 Especially for studying bone metastatic models, it is crucial to find a method that allows for the correct assessment of the microvasculature without decalcifying the sample.
@@ -602,7 +602,7 @@ Namely:
 Significant anisotropic distortion in the sample may alter the implant-tissue interface, a common site of interest.
 The limitation of the maximal achievable imaging depth makes such an approach impractical for usage in large animal models.
 
-Our presented microAngioCT approach does not have such limitations and can be easily applied for visualization of hemimandible and its vascularization in a large animal model like Göttingen minipig (Fig. @fig:5).
+Our presented microangioCT approach does not have such limitations and can be easily applied for visualization of hemimandible and its vascularization in a large animal model like Göttingen minipig (Fig. @fig:5).
 Iodine-based μAngiofil exhibits significantly different attenuation properties than mineralized bone in most species and allows for the distinction, segmentation, and visualization of soft tissue, bone tissue, vessels filled with the contrast agent, and metal implants according to their gray values in the histogram (see Fig. @fig:6).
 
 To the best of our knowledge, our study is the first to demonstrate non-destructive 3D imaging of the microvasculature of bone in the proximity of metal objects/implants in a large animal model.
