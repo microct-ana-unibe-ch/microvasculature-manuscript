@@ -120,6 +120,9 @@ In addition---as mentioned in the supplementary materials section---*all* log fi
 
 > avoid repeating the same concepts in different parts of the manuscript; for example, the fact that decalcification does not allow the simultaneous study of bone and vessels.
 
+We agree that the rationale and disadvantage of decalcification was mentioned too many times in the manuscript.
+We tried to cull repeated mentions of it from the manuscript.
+
 > if the object of the study lies in the characteristics of the contrast agent, it is not enough to recall some literature to describe it, but a brief description of its preparation is also needed.
 
 We added a paragraph on the preparation of the contrast agent at the beginning of the method section.
@@ -194,7 +197,6 @@ Ongoing research in our group focuses on the actual analysis of the vascular net
 
 So called correlative imaging was previously performed to validate the perfusion: https://doi.org/10.1038/srep41842, which is cited several times in the present manuscript.
 In the mentioned manuscript we have evaluated the perfusion efficiency of microAngiofil by correlating microCT slices with registered histological slices.
-
 In a total of 3800 assessed capillaries we found that 98% of them were microAngiofil-filled, concluding that microAngiofil allows for an adequate perfusion and visualization of the entire vasculature including the smallest capillaries.
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
