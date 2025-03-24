@@ -139,7 +139,7 @@ We thank the reviewer for the suggestion to mention such approaches in our manus
 
 We agree that a gray value threshold-based segmentation seems already possible with the data from the 50 kV scan, but the compounding issue is that the mineralization of the mouse bones (and thus the gray value in the data) varies in a larger extent than what is visible in panel A of Fig. 7.
 Combining both scans into a dual-energy dataset greatly enhances detectability.
-As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV positive, while the gray value difference inside the blood vessels between those values is negative, as is technically evident in panel C' of Fig. 7.
+As we state in the manuscript already, the difference in gray values for the bones from 50 kV to 90 kV is positive, while the gray value difference inside the blood vessels between those values is negative, as is technically evident in panel C' of Fig. 7.
 Your statement about already allowing threshold segmentation on the shown data is true in the case for the shown slice, but it is *not* true for the full three-dimensional dataset.
 
 We hope that all these additions and clarifications address the reviewer's concerns, demonstrate the robustness of our methodology and the novelty of our findings.
