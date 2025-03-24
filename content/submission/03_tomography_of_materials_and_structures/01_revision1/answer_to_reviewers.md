@@ -195,7 +195,6 @@ Ongoing research in our group focuses on the actual analysis of the vascular net
 So called correlative imaging was previously performed to validate the perfusion: https://doi.org/10.1038/srep41842, which is cited several times in the  present manuscript.
 In mentioned manuscript we have evaluated the perfusion efficiency of microAngiofil by correlating microCT slices with registered histological slices.
 In a total of 3800 assessed capillaries we found that 98% of them were microAngiofil-filled, concluding that microAngiofil allows for an adequate perfusion and visualization of the entire vasculature including the smallest capillaries.
-For some of the samples shown in the present study, namely those with metal implants it is also not feasible to produce histological slices.
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
 
