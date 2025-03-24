@@ -186,7 +186,7 @@ A quantitative evaluation of the achieved perfusion quality can to the best of o
 > I strongly believe that at least some quantification of vessel diameters, connectivity or similar should be performed for all instances.
 
 As answered above, we qualitatively assess the perfusion during instillation and after scanning.
-Ongoing research in our group focuses on the actual analysis of the vascular network, the presented work is focusing on the method of visualizing the vasculature under in a broad range of scenarios.
+Ongoing research in our group focuses on the actual analysis of the vascular network, the presented work is focusing on the method of visualizing the vasculature in a broad range of scenarios.
 
 > As said above, the images provided are beautiful.
 > But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly.
