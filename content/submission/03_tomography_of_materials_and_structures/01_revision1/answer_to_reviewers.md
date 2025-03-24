@@ -167,7 +167,7 @@ To ensure the manuscript reads less like a report and more like a cohesive publi
 > The details on µCT settings are not the main finding of this paper are they?
 > Therefore, I would strongly suggest to separate the results, so that the authors can fully focus on presenting these in a separate section and/or merge them with the discussion section.
 
-We agree that the choice to merge materials and methods might seem unusual for a manuscript.
+We agree that the choice to merge results and materials and methods sections might seem unusual for a manuscript.
 Due to the focus on the methodology it seems to us that this merge is warranted in the case of the present manuscript.
 We would like to kindly refuse this suggestion, also in the light that it would not change the message of the manuscript.
 
