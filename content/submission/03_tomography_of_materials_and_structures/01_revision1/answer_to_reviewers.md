@@ -36,17 +36,17 @@ Here's a rundown on our literature research:
   - [A Review of Ex Vivo X-ray Microfocus Computed Tomography-Based Characterization of the Cardiovascular System](https://doi.org/10.3390/ijms22063263) by Lisa Leyssens et al. is a overview of the application of ex vivo microCT for the characterization of the cardiovascular system.
     Each reference to microAngiofil links to a publication of the authors of the here reviewed manuscript.
     Mentions of contrast-agent supported studies in bone are referencing to *Microfil* studies.
-  - [Quantitative Analysis of Bone, Blood Vessels, and Metastases in Mice Tibiae Using Synchrotron Radiation Micro-Computed Tomography](https://doi.org/10.3390/cancers15235609) by Hao Xu and Max Langer ([an author that might be(?) a reviewer](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/issues/13#issuecomment-2694793968) of our manuscript (see below)).
+  - [Quantitative Analysis of Bone, Blood Vessels, and Metastases in Mice Tibiae Using Synchrotron Radiation Micro-Computed Tomography](https://doi.org/10.3390/cancers15235609) by Hao Xu and Max Langer ([an author that might be a reviewer](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/issues/13#issuecomment-2694793968) of our manuscript (see below)).
     The authors used a barium sulfate-based contrast agent and employed synchrotron radiation imaging.
     They used synchrotron radiation to acquire high-resolution, three-dimensional images of mouse tibiae affected by metastatic cancer.
     In addition they employed neural network-based architecture for the simultaneous segmentation of bone tissue, vascular structures, and metastatic lesions.
     Based on this publication and a reviewer comment we added a paragraph about advances in segmentation methods to our manuscript.
   - [3D Transcranial Ultrasound Localization Microscopy in the Rat Brain with a Multiplexed Matrix Probe](https://doi.org/10.1109/TBME.2021.3137265) is a study in which A. Chavignon et al. performed ultrasound imaging of brain vasculature, and did *one* microCT scan to compare both imaging modalities.
-  - [Edge-illumination spectral phase-contrast tomography](https://doi.org/10.1088/1361-6560/ad3328] is a study in which Luca Brombal et al. scanned *one* mouse under laboratory conditions on a synchrotron setup to employ phase contrast.
+  - [Edge-illumination spectral phase-contrast tomography](https://doi.org/10.1088/1361-6560/ad3328) is a study in which Luca Brombal et al. scanned *one* mouse under laboratory conditions on a synchrotron setup to employ phase contrast.
     They applied phase-contrast tomography to separate three channels, namely water, iodine and calcium (soft tissue, vasculature and bone, respectively).
   - [A protocol for visualization of murine in situ neurovascular interfaces](https://www.sciencedirect.com/science/article/pii/S2666166723003349) specifically mentions that "*Microfil* and bone tend to have similar attenuation and the skull may not be completely removed by adjusting thresholding parameters.
     The authors of this study use Microfil, which is a different product to the *MicroAngiofil* we have used.
-  - [VEGF-B Promotes Endocardium-Derived Coronary Vessel Development and Cardiac Regeneration](https://doi.org/10.1161/CIRCULATIONAHA.120.050635 investigates the role of Vascular Endothelial Growth Factor B (VEGF-B) in coronary vessel development and its potential therapeutic applications for cardiac regeneration.
+  - [VEGF-B Promotes Endocardium-Derived Coronary Vessel Development and Cardiac Regeneration](https://doi.org/10.1161/CIRCULATIONAHA.120.050635) investigates the role of Vascular Endothelial Growth Factor B (VEGF-B) in coronary vessel development and its potential therapeutic applications for cardiac regeneration.
     "Bone" is never mentioned in the study
   - [A novel micro-CT-based method to monitor the morphology of blood vessels in the rabbit endplate](https://doi.org/10.1007/s00586-016-4849-x) analyzes blood vessel morphology within the rabbit vertebral endplate using micro-computed tomography (micro-CT) at 9 um voxel size.
     The authors used two different contrast agents and fail to three-dimensionally visualize the vasculature in half of their contrasted samples.
@@ -116,7 +116,7 @@ We included all the requested information into the mentioned table.
 
 The relevant parameters of the tomographic imaging are mentioned in the text at the beginning of each relevant section.
 In addition, a tabular collection of the relevant parameters is collated in a table both attached as supplementary material and available online (linked in the manuscript) at https://github.com/habi/BrukerSkyScanLogfileRuminator/tree/microvasculature-manuscript
-In addition---as mentioned in the supplementary materials section---*all* logfiles of *all* scans performed for this study are also available online, permitting the keen reader to exactly replicate the tomographic scan settings we used.
+In addition---as mentioned in the supplementary materials section---*all* log files of *all* scans performed for this study are also available online, permitting the keen reader to exactly replicate the tomographic scan settings we used.
 
 > avoid repeating the same concepts in different parts of the manuscript; for example, the fact that decalcification does not allow the simultaneous study of bone and vessels.
 
@@ -155,7 +155,7 @@ We also appreciate the constructive suggestion to improve the structure of the m
 > While I believe that the results are methodology shown are very valuable, I do think that the manuscript could benefit from some restructuring to better highlight the main results.
 
 We agree that the manuscript could benefit from a clearer presentation of the main results.
-Based on the comments of *both* reviewers, we revised  the manuscript to ensure that the key findings are more prominently featured and removed redundancies in the text.
+Based on the comments of *both* reviewers, we revised the manuscript to ensure that the key findings are more prominently featured and removed redundancies in the text.
 
 > At the current stage, the paper unfortunately reads more like a report than a publication and I think with the quality of the results that the authors have, they can provide more insights.
 
@@ -192,8 +192,9 @@ Ongoing research in our group focuses on the actual analysis of the vascular net
 > But I am lacking in most cases a cross-sectional slice that would allow the reader to see the perfusion of the blood vessels more clearly.
 > Importantly, I would also like to see corresponding histological slices that show whether certain blood vessels remained non-perfused and that would also show if any shrinkage of the perfusion agent occurred.
 
-So called correlative imaging was previously performed to validate the perfusion: https://doi.org/10.1038/srep41842, which is cited several times in the  present manuscript.
-In mentioned manuscript we have evaluated the perfusion efficiency of microAngiofil by correlating microCT slices with registered histological slices.
+So called correlative imaging was previously performed to validate the perfusion: https://doi.org/10.1038/srep41842, which is cited several times in the present manuscript.
+In the mentioned manuscript we have evaluated the perfusion efficiency of microAngiofil by correlating microCT slices with registered histological slices.
+
 In a total of 3800 assessed capillaries we found that 98% of them were microAngiofil-filled, concluding that microAngiofil allows for an adequate perfusion and visualization of the entire vasculature including the smallest capillaries.
 
 > At this stage, I think these major comments should first be addressed before more minor comments would be commented on.
