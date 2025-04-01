@@ -5,7 +5,7 @@ keywords:
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-03-25'
+date-meta: '2025-04-01'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -32,11 +32,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="og:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
   <meta property="twitter:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta name="dc.date" content="2025-03-25" />
-  <meta name="citation_publication_date" content="2025-03-25" />
-  <meta property="article:published_time" content="2025-03-25" />
-  <meta name="dc.modified" content="2025-03-25T12:18:47+00:00" />
-  <meta property="article:modified_time" content="2025-03-25T12:18:47+00:00" />
+  <meta name="dc.date" content="2025-04-01" />
+  <meta name="citation_publication_date" content="2025-04-01" />
+  <meta property="article:published_time" content="2025-04-01" />
+  <meta name="dc.modified" content="2025-04-01T15:19:57+00:00" />
+  <meta property="article:modified_time" content="2025-04-01T15:19:57+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -122,7 +122,7 @@ The manuscript version
 ([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/692f13542a10d51cb4013de26082db7ccd237b86/))
 was automatically generated
 from [microct-ana-unibe-ch/microvasculature-manuscript@692f135](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/692f13542a10d51cb4013de26082db7ccd237b86)
-on March 25, 2025.
+on April 1, 2025.
 Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...692f13542a10d51cb4013de26082db7ccd237b86#files_bucket).
 </em></small>
 
