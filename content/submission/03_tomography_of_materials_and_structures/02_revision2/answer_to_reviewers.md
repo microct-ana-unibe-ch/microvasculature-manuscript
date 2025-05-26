@@ -23,4 +23,4 @@ date: 26.05.2025
 > Another doubt remains on Fig. 7. In the shown slice the threshold segmentation is already possible using a single energy; since you say that this is not always possible in the whole 3D dataset, I propose to show another slice to make the concept clearer.
 
 To answer the following remark, we present a sample segmentation from another location in dataset, obtain by simple thresholding. As one can see, such approach does not separate the vascukkature cleanly from other structures, such as thinner bone and bone surface. We do not think it would benefit the manuscript to include such image as it would draw the attention of the reader from the proposed method itself.
-(content/submission/03_tomography_of_materials_and_structures/02_revision2/50kV_range_62_110.png)
+![Sample segmentation of 50kV dataset with simple thresholding, with intensity values set at 62 to 110](content/submission/03_tomography_of_materials_and_structures/02_revision2/50kV_range_62_110.png)
