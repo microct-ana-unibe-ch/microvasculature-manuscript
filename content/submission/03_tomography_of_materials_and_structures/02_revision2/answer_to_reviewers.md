@@ -1,1 +1,26 @@
+---
+title: 'Answer to reviewers'
+author:
+- David Haberthür
+- Oleksiy Khoma
+- Ruslan Hlushchuk
+date: 26.05.2025
+---
 
+# Reviewer 1
+
+> Dear Authors, thank you for the detailed revision you provided. Reading the revised manuscript, it is clear that it has been improved in depth compared to the first draft. For example, the literature cited in the Introduction is now much more complete following this revision.
+> Nevertheless, some conceptual doubts remain about your study, which are also supported by the answers you provided to the other reviewer's questions.
+> In particular, it is not clear what the purpose of this study is; is it a methodological study? Or an applicative study with respect to a certain diagnostic or bone tissue engineering problem?
+> From the answers you provided in the first round, you repeatedly reiterated that the goal would seem to be methodological for an extended applicability in the preclinical field on animal models.
+> In this case, therefore, the true methodological purpose of the study must be clarified starting from the title, which does not focus on "microvasculature in bone and peri-implant tissues" but proposes different resolutions and different bone sites of interest. in fact, where preclinical or clinical problems related to the bone tissue to be implanted should be considered, I reiterate that it would be necessary to focus the interest on small vessels, i.e. capillaries, even by narrowing the field of view as proposed in previous studies in the literature; in fact, the problems connected to implant failures concern the vascular vectors closest to the implant surface, which are precisely the microvascular vectors. Conversely, for the example you provided, you considered, in favor of a larger field of view, a resolution too low to have a diagnostic or prognostic meaning in the implantology field.
+> It is true that in another example you used higher resolutions also resolving the microvessels, but in this last case the preclinical problem was different.
+> I would therefore like the work to be truly reformulated as a methodological study and, as correctly requested by the other reviewer, to provide at least some quantitative data demonstrating the reliability of the proposed contrast medium at different resolutions, up to the microvasculature.
+> Another doubt remains on Fig. 7. In the shown slice the threshold segmentation is already possible using a single energy; since you say that this is not always possible in the whole 3D dataset, I propose to show another slice to make the concept clearer.
+
+# Answers to reviewer
+
+> Another doubt remains on Fig. 7. In the shown slice the threshold segmentation is already possible using a single energy; since you say that this is not always possible in the whole 3D dataset, I propose to show another slice to make the concept clearer.
+
+To answer the following remark, we present a sample segmentation from another location in dataset, obtain by simple thresholding. As one can see, such approach does not separate the vascukkature cleanly from other structures, such as thinner bone and bone surface. We do not think it would benefit the manuscript to include such image as it would draw the attention of the reader from the proposed method itself.
+(content/submission/03_tomography_of_materials_and_structures/02_revision2/50kV_range_62_110.png)
