@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-27" />
   <meta name="citation_publication_date" content="2025-05-27" />
   <meta property="article:published_time" content="2025-05-27" />
-  <meta name="dc.modified" content="2025-05-27T11:06:59+00:00" />
-  <meta property="article:modified_time" content="2025-05-27T11:06:59+00:00" />
+  <meta name="dc.modified" content="2025-05-27T14:23:08+00:00" />
+  <meta property="article:modified_time" content="2025-05-27T14:23:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/65840a74ad82f1fd2582bf089e56c7b2df69e268/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/65840a74ad82f1fd2582bf089e56c7b2df69e268/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/65840a74ad82f1fd2582bf089e56c7b2df69e268/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.1`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/65840a74ad82f1fd2582bf089e56c7b2df69e268/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@65840a7](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/65840a74ad82f1fd2582bf089e56c7b2df69e268)
+from [microct-ana-unibe-ch/microvasculature-manuscript@0a044fb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/0a044fbfc674194a107f40b1709fb20b98bda09e)
 on May 27, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...65840a74ad82f1fd2582bf089e56c7b2df69e268#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...0a044fbfc674194a107f40b1709fb20b98bda09e#files_bucket).
 </em></small>
 
 
@@ -526,9 +526,9 @@ Previous studies have demonstrated that microscopic dual-energy CT imaging (micr
 Notably, the contrasting properties of hydroxyapatite (the primary mineral in bone and teeth) and iodine (the high-Z component in μAngiofil) make them ideal for spectral X-ray imaging [@doi:10.1111/jmi.12543; @doi:10.1007/s13244-010-0057-0; @doi:10.1118/1.594374].
 
 We evaluated multiple energies (accelerating voltages from 40 to 110 kV) to choose the optimal combination for imaging of the murine mandible perfused with μAngiofil using a SkyScan 2214 (Fig. @fig:7).
-The optimal dual-energy settings for the X-ray source were 50 kV/120 μA and 90 kV/100 μA, respectively (acceleration voltage/source current).
-We acquired 3601 projection images, recorded over a sample rotation of 360° (4032 x 2688 px, 7 averaged to one, each exposed for 4550 ms).
-This resulted in datasets with an isotropic voxel size of 1.4 μm.
+The optimal dual-energy settings for the X-ray source were 50 kV/164 μA and 90 kV/120 μA, respectively (acceleration voltage/source current).
+We acquired 3601 projection images, recorded over a sample rotation of 360° (3066 x 1944 px, each exposed for 1073 ms (on average)).
+This resulted in datasets with an isotropic voxel size of 3.0 μm.
 
 In comparison to 50 kV, at 90 kV the gray value of the bone tissue was decreased and the gray value of μAngiofil increased (Fig. @fig:7 C’).
 By using different X-ray energies, this method enhances contrast between bone and μAngiofil without compromising bone structure, enabling straightforward segmentation based on the combined histogram (Fig. @fig:7 C’’).
