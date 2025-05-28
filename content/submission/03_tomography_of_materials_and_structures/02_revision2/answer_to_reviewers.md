@@ -21,6 +21,11 @@ We thank the anonymous reviewer for recognizing the work we have put into revisi
 > From the answers you provided in the first round, you repeatedly reiterated that the goal would seem to be methodological for an extended applicability in the preclinical field on animal models.
 
 > In this case, therefore, the true methodological purpose of the study must be clarified starting from the title, which does not focus on "microvasculature in bone and peri-implant tissues" but proposes different resolutions and different bone sites of interest.
+
+The main focus of our study is on microvasculature, which includes, but is not limited to the finest microvessels, the capillaries.
+We agree that in certain shown datasets we can only resolve some segments of the microcirculatory system.
+Nonetheless, to accomodate the reviewers input we adapted the title of our manuscript and do not mention the *micro*vasculature in the title anymore.
+
 > in fact, where preclinical or clinical problems related to the bone tissue to be implanted should be considered, I reiterate that it would be necessary to focus the interest on small vessels, i.e. capillaries, even by narrowing the field of view as proposed in previous studies in the literature; in fact, the problems connected to implant failures concern the vascular vectors closest to the implant surface, which are precisely the microvascular vectors.
 > Conversely, for the example you provided, you considered, in favor of a larger field of view, a resolution too low to have a diagnostic or prognostic meaning in the implantology field.
 > It is true that in another example you used higher resolutions also resolving the microvessels, but in this last case the preclinical problem was different.
