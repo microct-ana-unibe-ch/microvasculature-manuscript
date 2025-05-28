@@ -20,6 +20,8 @@ We thank the anonymous reviewer for recognizing the work we have put into revisi
 > Or an applicative study with respect to a certain diagnostic or bone tissue engineering problem?
 > From the answers you provided in the first round, you repeatedly reiterated that the goal would seem to be methodological for an extended applicability in the preclinical field on animal models.
 
+The reviewer is correct about our study focusing on extended applicability in preclinical research.
+
 > In this case, therefore, the true methodological purpose of the study must be clarified starting from the title, which does not focus on "microvasculature in bone and peri-implant tissues" but proposes different resolutions and different bone sites of interest.
 
 The main focus of our study is on microvasculature, which includes, but is not limited to the finest microvessels, the capillaries.
