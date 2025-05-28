@@ -13,7 +13,7 @@ date: 26.05.2025
 > Reading the revised manuscript, it is clear that it has been improved in depth compared to the first draft.
 > For example, the literature cited in the Introduction is now much more complete following this revision.
 
-We thank the anonymous reviewer for recognizing the work we have put into the revision of our manuscript.
+We thank the anonymous reviewer for recognizing the work we have put into revising our manuscript.
 
 > Nevertheless, some conceptual doubts remain about your study, which are also supported by the answers you provided to the other reviewer's questions.
 > In particular, it is not clear what the purpose of this study is; is it a methodological study?
@@ -29,5 +29,11 @@ We thank the anonymous reviewer for recognizing the work we have put into the re
 > Another doubt remains on Fig. 7.
 > In the shown slice the threshold segmentation is already possible using a single energy; since you say that this is not always possible in the whole 3D dataset, I propose to show another slice to make the concept clearer.
 
-To answer the following remark, we present a sample segmentation from another location in dataset, obtain by simple thresholding. As one can see, such approach does not separate the vasculature cleanly from other structures, such as thinner bone and bone surface. We do not think it would benefit the manuscript to include such image as it would draw the attention of the reader from the proposed method itself.
+To answer the following remark, we present a sample segmentation from another location in the dataset, obtained by gray value thresholding.
+As one can see, this approach does *not* separate the vasculature cleanly from other structures, such as thinner bone and bone surface.
+We do not think it would benefit the manuscript to include such image as it would draw the attention of the reader from the proposed method itself.
+We introduced this figure and dual-energy approach into our manuscript to give reader the ways to overcome potential segmentation difficulties.
+If the reader, in his study, can successfully perform segmentation using single energy scan - they are more than welcome to do it.
+We have adapted the corresponding part of the text to make this message more clear to the reader.
+
 ![Sample segmentation of 50kV dataset with simple thresholding, intensity values set from 62 to 110](50kV_range_62_110.png)
