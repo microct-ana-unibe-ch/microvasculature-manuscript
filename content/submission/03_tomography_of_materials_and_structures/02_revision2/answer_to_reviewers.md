@@ -46,7 +46,8 @@ To answer the following remark, we present a sample segmentation from another lo
 As one can see, this approach does *not* separate the vasculature cleanly from other structures, such as thinner bone and bone surface.
 We do not think it would benefit the manuscript to include such image as it would draw the attention of the reader from the proposed method itself.
 We introduced this figure and dual-energy approach into our manuscript to give reader the ways to overcome potential segmentation difficulties.
-If the reader, in his study, can successfully perform segmentation using single energy scan - they are more than welcome to do it.
+Based on our experience it is paramount to have as distinct imaging of various components of the studied samples as possible to aid in further image analysis.
+If the reader, in his study, can successfully perform segmentation using single energy scan - they are more than welcome to perform it as such.
 We have adapted the corresponding part of the text to make this message more clear to the reader.
 
 ![Sample segmentation of 50kV dataset with simple thresholding, intensity values set from 62 to 110](50kV_range_62_110.png)
