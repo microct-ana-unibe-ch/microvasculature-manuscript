@@ -1,11 +1,11 @@
 ---
-title: MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues
+title: MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues
 keywords:
 - microCT
 - contrast agent
 - microvasculature
 lang: en-US
-date-meta: '2025-05-27'
+date-meta: '2025-05-28'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -28,15 +28,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta name="citation_title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta property="og:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta property="twitter:title" content="MicroCT-Based Imaging of Microvasculature in Bone and Peri-Implant Tissues" />
-  <meta name="dc.date" content="2025-05-27" />
-  <meta name="citation_publication_date" content="2025-05-27" />
-  <meta property="article:published_time" content="2025-05-27" />
-  <meta name="dc.modified" content="2025-05-27T14:23:08+00:00" />
-  <meta property="article:modified_time" content="2025-05-27T14:23:08+00:00" />
+  <meta name="dc.title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
+  <meta name="citation_title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
+  <meta property="og:title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
+  <meta property="twitter:title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
+  <meta name="dc.date" content="2025-05-28" />
+  <meta name="citation_publication_date" content="2025-05-28" />
+  <meta property="article:published_time" content="2025-05-28" />
+  <meta name="dc.modified" content="2025-05-28T09:55:45+00:00" />
+  <meta property="article:modified_time" content="2025-05-28T09:55:45+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.1`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/0a044fbfc674194a107f40b1709fb20b98bda09e/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@0a044fb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/0a044fbfc674194a107f40b1709fb20b98bda09e)
-on May 27, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...0a044fbfc674194a107f40b1709fb20b98bda09e#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@53ea5f4](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/53ea5f4d1f800c507801689ec0ac8dd3033d6916)
+on May 28, 2025.
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...53ea5f4d1f800c507801689ec0ac8dd3033d6916#files_bucket).
 </em></small>
 
 
@@ -540,7 +540,6 @@ By using different X-ray energies, this method enhances contrast between bone an
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
   Such changes in gray levels allow segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist, Bruker microCT N.V., Kontich, Belgium).
   Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World (2024.1), Comet Technologies Canada Inc., Montréal, Canada).](images/Fig7_DualEnergy.png){#fig:7}
-
 
 ## Discussion {.page_break_before}
 
