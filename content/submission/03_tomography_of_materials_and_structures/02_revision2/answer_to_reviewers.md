@@ -33,6 +33,12 @@ Nonetheless, to accomodate the reviewers input we adapted the title of our manus
 > It is true that in another example you used higher resolutions also resolving the microvessels, but in this last case the preclinical problem was different.
 > I would therefore like the work to be truly reformulated as a methodological study and, as correctly requested by the other reviewer, to provide at least some quantitative data demonstrating the reliability of the proposed contrast medium at different resolutions, up to the microvasculature.
 
+The underlying idea of our manuscript was to show the applicabiliy of tomographic imaging of μAngiofil instilled samples on a multitude of microCT scanners in a multitude of various bone sites in preclinical models.
+Our proposed method succeeds to visualize the vasculature down to the resolution level of the tomographic scan.
+We also suggest a refined scanning method for samples in which an straightforward segmentation of the instilled vasculature is not possible.
+We believe to have convincigly shown that our approach enables to study quantitative aspects of the vasculature.
+Quantitative analysis itself is *not* the focus of our present manuscript, therefore we kindly refrain from adding such data.
+
 > Another doubt remains on Fig. 7.
 > In the shown slice the threshold segmentation is already possible using a single energy; since you say that this is not always possible in the whole 3D dataset, I propose to show another slice to make the concept clearer.
 
