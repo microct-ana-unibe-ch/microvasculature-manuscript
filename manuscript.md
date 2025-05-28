@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-05-28" />
   <meta name="citation_publication_date" content="2025-05-28" />
   <meta property="article:published_time" content="2025-05-28" />
-  <meta name="dc.modified" content="2025-05-28T09:55:45+00:00" />
-  <meta property="article:modified_time" content="2025-05-28T09:55:45+00:00" />
+  <meta name="dc.modified" content="2025-05-28T15:54:06+00:00" />
+  <meta property="article:modified_time" content="2025-05-28T15:54:06+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7c38a50aa1622bf082ca772b0cf95f8164535823/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7c38a50aa1622bf082ca772b0cf95f8164535823/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7c38a50aa1622bf082ca772b0cf95f8164535823/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.1`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/53ea5f4d1f800c507801689ec0ac8dd3033d6916/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/7c38a50aa1622bf082ca772b0cf95f8164535823/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@53ea5f4](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/53ea5f4d1f800c507801689ec0ac8dd3033d6916)
+from [microct-ana-unibe-ch/microvasculature-manuscript@7c38a50](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/7c38a50aa1622bf082ca772b0cf95f8164535823)
 on May 28, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...53ea5f4d1f800c507801689ec0ac8dd3033d6916#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...7c38a50aa1622bf082ca772b0cf95f8164535823#files_bucket).
 </em></small>
 
 
@@ -519,7 +519,7 @@ Tomographic imaging of such samples and straightforward segmentation of features
 #### Dual-Energy microangioCT
 
 Unfortunately, not all samples exhibit a pronounced difference in gray values between bone tissue and μAngiofil when scanned using standard scanning parameters.
-This issue is particularly common in murine samples, even though the bone mineral density of mouse bones is generally higher than that of other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
+This issue is particularly common in murine samples, as the bone mineral density of mouse bones is generally higher than that of other experimental species [@doi:10.1016/j.bone.2011.10.004; @doi:10.1292/jvms.66.599].
 In tomographic datasets of murine samples, the gray values of bone tissue and μAngiofil are similar making it impossible to distinguish them based on histogram levels alone (e.g., Fig. @fig:4).
 While decalcification can improve contrast (see Fig. @fig:2), we propose a more efficient alternative: dual-energy scanning.
 Previous studies have demonstrated that microscopic dual-energy CT imaging (microDECT) using commercial lab-based microCT systems can achieve spectral separation of two or more materials with micrometer resolution [@doi:10.1111/jmi.12543; @doi:10.1111/jmi.13369].
@@ -540,6 +540,7 @@ By using different X-ray energies, this method enhances contrast between bone an
   The changes in the intensity profiles of different tissues are shown in graph C’: with the higher voltage (90 kV) the intensity of bone tissue reduces (yellow arrow) and the intensity of vessels (μAngiofil) increases.
   Such changes in gray levels allow segmentation of the vessels using the combined histogram shown in panel C’’ (DEhist, Bruker microCT N.V., Kontich, Belgium).
   Panel D represents a three-dimensional visualization of the segmented tissues (Dragonfly 3D World (2024.1), Comet Technologies Canada Inc., Montréal, Canada).](images/Fig7_DualEnergy.png){#fig:7}
+
 
 ## Discussion {.page_break_before}
 
