@@ -3109,13 +3109,15 @@
   {
     "id": "X5Wzek9s",
     "type": "book",
-    "call-number": "RC78.7.T6 H757 2003",
+    "collection-number": "PM 114",
+    "collection-title": "SPIE Press monograph",
     "event-place": "Bellingham, WA",
     "ISBN": "9780819444257",
+    "language": "eng",
     "number-of-pages": "387",
     "publisher": "SPIE Optical Engineering Press",
     "publisher-place": "Bellingham, WA",
-    "source": "Library of Congress ISBN",
+    "source": "K10plus ISBN",
     "title": "Computed tomography: principles, design, artifacts, and recent advances",
     "title-short": "Computed tomography",
     "author": [

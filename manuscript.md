@@ -35,8 +35,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-02" />
   <meta name="citation_publication_date" content="2025-06-02" />
   <meta property="article:published_time" content="2025-06-02" />
-  <meta name="dc.modified" content="2025-06-02T07:06:00+00:00" />
-  <meta property="article:modified_time" content="2025-06-02T07:06:00+00:00" />
+  <meta name="dc.modified" content="2025-06-02T16:05:44+00:00" />
+  <meta property="article:modified_time" content="2025-06-02T16:05:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -95,9 +95,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/23a79983e4f2b990e6094a2b3af718b6698fd700/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/23a79983e4f2b990e6094a2b3af718b6698fd700/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/23a79983e4f2b990e6094a2b3af718b6698fd700/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/3f8805f391634a12a741842dd31e2e57d9d42d2e/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/3f8805f391634a12a741842dd31e2e57d9d42d2e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/3f8805f391634a12a741842dd31e2e57d9d42d2e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,11 +119,11 @@ _Version [`v4.2`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/23a79983e4f2b990e6094a2b3af718b6698fd700/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/3f8805f391634a12a741842dd31e2e57d9d42d2e/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@23a7998](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/23a79983e4f2b990e6094a2b3af718b6698fd700)
+from [microct-ana-unibe-ch/microvasculature-manuscript@3f8805f](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/3f8805f391634a12a741842dd31e2e57d9d42d2e)
 on June 2, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...23a79983e4f2b990e6094a2b3af718b6698fd700#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...3f8805f391634a12a741842dd31e2e57d9d42d2e#files_bucket).
 </em></small>
 
 
@@ -310,8 +310,8 @@ Thus, many research areas, such as tissue engineering, implantology, reconstruct
 In the last decades, X-ray microcomputed tomography (microCT) gained recognition as a non-destructive 3D imaging technique for bone morphology [@doi:10.3389/fendo.2015.00122].
 Due to the inherently low difference in X-ray absorption levels between vessels and different soft tissues, it is not easily feasible to distinguish such structures within the bone.
 To unambiguously detect vasculature within bone, it is necessary to instill the vessels with a contrast agent or use a casting method to fill the blood vessels.
-Another alternative to detect vessels within bone is synchrotron-radiation-based tomography, specifically employing phase-contrast tomography [@doi:10.3389/fphys.2017.00769].
-Although it has potential, synchrotron-radiation-based tomography is not as easily attainable for most preclinical researchers as microCT and has severe drawbacks in terms of visualized sample volume.
+Another alternative to detect vessels within bone is synchrotron radiation-based X-ray microtomography, specifically employing phase-contrast tomography [@doi:10.3389/fphys.2017.00769].
+Although it has potential, synchrotron radiation-based X-ray microtomography is not as easily attainable for most preclinical researchers as microCT and has severe drawbacks in terms of visualized sample volume.
 
 Currently, existing protocols for imaging the vasculature within bone via vascular replicas have drawbacks, such as disjoint vascular components or completely missing vascular segments [@doi:10.1002/jemt.20720; @doi:10.1038/s41598-017-13632-5].
 The minor contrast difference between the perfusion agent used to generate the vascular network replica and the mineralized bone makes it problematic to distinguish bone tissue and vasculature.
@@ -348,7 +348,7 @@ The Göttingen Minipig is widely recognized as a valuable large animal model in 
 Its bone structure and bone remodeling processes closely resemble those of humans, further enhancing its suitability for such studies, including ours.
 
 The present study introduces a technique for microCT-based visualization of microvasculature within bone tissue in small and large animal models.
-Moreover, we demonstrate that this approach is suitable for simultaneous imaging and subsequent analysis of peri-implant hard and soft tissues, as well as their vascularization, in the vicinity of metal implants in a large animal model.
+Moreover, we demonstrate that this approach is suitable for simultaneous imaging and subsequent analysis of peri-implant-implant hard and soft tissues, as well as their vascularization, in the vicinity of metal implants in a large animal model.
 
 
 ## Materials, Methods, and Results {.page_break_before}
@@ -560,7 +560,7 @@ Furthermore, decalcifying the sample enables a threshold-based segmentation of t
 However, the decalcification step renders bone tissue transparent, preventing simultaneous 3D imaging of the bony and vascular structures.
 
 In many models, due to the distinct differences in the X-ray attenuation of μAngiofil and the bone tissue, we can forgo the time-consuming decalcification step.
-This permits us direct assessment of vascularization and bone growth based on a single microCT-scan (Fig. @fig:6). Although finding the optimal scanning parameters may require some expertise and machine time, the single scan approach should be aimed for. While being sufficiently effecient in most cases, in some situations the single scan approach does not always yield optimal results (e.g., Fig. @fig:4) and may lead to difficulties with segmentation and subsequent image analysis. Based on our experience, it is paramount to have as distinctive imaging of various components of the studied samples as possible to aid in further image analysis. In such cases, a dual-energy scanning technique may offer a more efficient solution (see Fig. @fig:7).
+This allows us to directly assess vascularization and bone growth based on a single microCT scan (Fig. @fig:6). Although finding the optimal scanning parameters may require some expertise and machine time, the single scan approach should be aimed for. While being sufficiently effecient in most cases, in some situations the single scan approach does not always yield optimal results (e.g., Fig. @fig:4) and may lead to difficulties with segmentation and subsequent image analysis. Based on our experience, it is paramount to have as distinctive imaging of various components of the studied samples as possible to aid in further image analysis. In such cases, a dual-energy scanning technique may offer a more efficient solution (see Fig. @fig:7).
 It is advisable to conduct two sequential different energy scans without removing the sample. In this way the dataset registration needed for dual-energy approach is simplified. Altogether, this allows to avoid the time-consuming decalcification step, and provides simultaneous imaging of bone and vasculature while keeping the sample intact.
 
 One of the noteworthy applications of the microangioCT approach is the simultaneous visualization of the bone microarchitecture and microvasculature of bone metastases in a murine xenograft tumor model (Fig. @fig:3).
