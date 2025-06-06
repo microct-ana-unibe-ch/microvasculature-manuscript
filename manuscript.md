@@ -10,7 +10,7 @@ keywords:
 - non-destructive
 - metal implants
 lang: en-US
-date-meta: '2025-06-05'
+date-meta: '2025-06-06'
 author-meta:
 - David Haberthür
 - Oleksiy-Zakhar Khoma
@@ -37,11 +37,11 @@ header-includes: |
   <meta name="citation_title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
   <meta property="og:title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
   <meta property="twitter:title" content="MicroCT-Based Vascular Imaging in Bone and Peri-Implant Tissues" />
-  <meta name="dc.date" content="2025-06-05" />
-  <meta name="citation_publication_date" content="2025-06-05" />
-  <meta property="article:published_time" content="2025-06-05" />
-  <meta name="dc.modified" content="2025-06-05T07:24:44+00:00" />
-  <meta property="article:modified_time" content="2025-06-05T07:24:44+00:00" />
+  <meta name="dc.date" content="2025-06-06" />
+  <meta name="citation_publication_date" content="2025-06-06" />
+  <meta property="article:published_time" content="2025-06-06" />
+  <meta name="dc.modified" content="2025-06-06T10:01:56+00:00" />
+  <meta property="article:modified_time" content="2025-06-06T10:01:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/103d22e2f779b70d30dc5d89c00dcc78d3adfd5e/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/103d22e2f779b70d30dc5d89c00dcc78d3adfd5e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/103d22e2f779b70d30dc5d89c00dcc78d3adfd5e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -124,11 +124,11 @@ _Version [`v4.2`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/103d22e2f779b70d30dc5d89c00dcc78d3adfd5e/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@103d22e](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/103d22e2f779b70d30dc5d89c00dcc78d3adfd5e)
-on June 5, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...103d22e2f779b70d30dc5d89c00dcc78d3adfd5e#files_bucket).
+from [microct-ana-unibe-ch/microvasculature-manuscript@99741fb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/99741fbe647791177c0e1ddd81690aaa45bc91b6)
+on June 6, 2025.
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...99741fbe647791177c0e1ddd81690aaa45bc91b6#files_bucket).
 </em></small>
 
 
@@ -378,8 +378,9 @@ Imaging parameters are mentioned briefly below and summarized in detail in a tab
 
 The vasculature of all animals was instilled with the iodine-based contrast agent μAngiofil (Fumedica AG, Switzerland).
 
-The contrast agent μAngiofil was prepared following the manufacturer's instructions by first combining the two components 'Contrast Solution' and 'PU'.
+The contrast agent μAngiofil was prepared following the manufacturer's instructions by first combining the two components 'Contrast Solution' and 'PU', already packaged at the correct ratio.
 These pre-mixed components were then mixed with a hardener immediately before instillation into the cannulated vascular system of the animals.
+The correct mixing ratio is set by the syringe size in the commercially available μAngiofil sets.
 Perfusion was conducted using a syringe pump to maintain consistent flow rates between 1 and 1.5 ml/min, ensuring reproducibility across experiments.
 
 The perfusion of the animals was performed as previously described [@doi:10.1007/s00429-020-02158-8; @doi:10.1152/ajprenal.00099.2017].
@@ -503,11 +504,10 @@ Angiogenesis influences the osseointegration of implants.
 As such, studying angiogenesis and, correspondingly the vascular supply of the peri-implant tissue in detail is important for dental research and many implantology studies.
 So far, the only reliable approach to assess the vascular supply remains histology, limited to single two-dimensional sections.
 
-While microCT imaging allows for non-destructive, full 3D imaging of dental research samples with implants, such imaging presents challenges.
-This is due to the presence of high-density metal parts with strong X-ray absorption within the samples.
+While microCT imaging allows for non-destructive, full 3D imaging of dental research samples with implants, such imaging remains challenging due to strong X-ray absorption of the high-density metal parts in the samples.
 To distinguish the vasculature from both the metal implants and the mineralized bone tissue, we instilled the vasculature with a suitable contrast agent (μAngiofil).
 The X-ray absorption characteristics of μAngiofil make it possible to visualize and differentiate between soft tissue, bone tissue, contrast agent-filled vessels and metal (titanium) implants.
-We imaged an μAngiofil-instilled minipig hemimandibula with a SkyScan 2214 (Fig. @fig:6),
+As specified in the [#Introduction], we imaged the μAngiofil-instilled minipig hemimandibula with increased acceleration voltage ona SkyScan 2214 (Fig. @fig:6) to alleviate the problem of the artefacts of the metal implants.
 Imaging parameters included an acceleration voltage of 100 kV, a current of 100 μA, and an isotropic voxel size of 8 μm.
 We acquired 2001 projection images, recorded over a sample rotation of 360°, (2929 x 1944 px, 4 averaged to one, each exposed for 1080 ms).
 
@@ -588,7 +588,7 @@ Nonetheless, with the dual-energy approach described above, we achieved appropri
 
 Further work, also from our group, and ongoing research is focusing on improving the segmentation of vasculature in microtomographic datasets.
 Convolutional neural networks (CNNs) have emerged as a powerful tool for vascular segmentation [@doi:10.2144/btn-2020-0108].
-Specifically, the U-Net architecture of CNNs seems very promising for vascular segmentation tasks and has been applied for the segmentation of murine vascular networks [@doi:10.1161/ATVBAHA.124.320672].
+Specifically, the U-Net architecture of CNNs seems very promising for vascular segmentation tasks and has been applied for the segmentation of murine vascular networks [@doi:10.1161/ATVBAHA.124.320672] and to high-resolution (~20 µm voxel size) tomographic datasets of intact human organs [@doi:10.1038/s41598-024-77582-5].
 While neural network-based segmentation methods have shown promising results, the scarcity of annotated public datasets poses a challenge for training robust models and developing models that can generalize across different tissues, modalities, scales, and pathologies remains an active area of investigation.
 
 In the small animal model studies without metal or similar biomedical implants, the application of whole mouse clearing and imaging with vDISCO approach could be the method of choice [@doi:10.1038/s41596-022-00788-2].
