@@ -40,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-06" />
   <meta name="citation_publication_date" content="2025-06-06" />
   <meta property="article:published_time" content="2025-06-06" />
-  <meta name="dc.modified" content="2025-06-06T10:01:56+00:00" />
-  <meta property="article:modified_time" content="2025-06-06T10:01:56+00:00" />
+  <meta name="dc.modified" content="2025-06-06T12:24:31+00:00" />
+  <meta property="article:modified_time" content="2025-06-06T12:24:31+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/67683467e5c423e00a16cd1195c26ab508665cc9/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/67683467e5c423e00a16cd1195c26ab508665cc9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/67683467e5c423e00a16cd1195c26ab508665cc9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -124,11 +124,11 @@ _Version [`v4.2`](https://github.com/microct-ana-unibe-ch/microvasculature-manus
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/99741fbe647791177c0e1ddd81690aaa45bc91b6/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/67683467e5c423e00a16cd1195c26ab508665cc9/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@99741fb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/99741fbe647791177c0e1ddd81690aaa45bc91b6)
+from [microct-ana-unibe-ch/microvasculature-manuscript@6768346](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/67683467e5c423e00a16cd1195c26ab508665cc9)
 on June 6, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...99741fbe647791177c0e1ddd81690aaa45bc91b6#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...67683467e5c423e00a16cd1195c26ab508665cc9#files_bucket).
 </em></small>
 
 
@@ -293,11 +293,10 @@ The problem of contrasting becomes further complicated in samples with metal imp
 
 This study describes contrast-enhanced microCT-based visualization of vasculature within bone tissue in small and large animal models, also in the vicinity of the metal implants.
 We present simultaneous microvascular and bone imaging in murine tibia, a murine bone metastatic model, the pulp chamber, gingiva, and periodontal ligaments.
-In a large animal model (minipig), we perform visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
+In a large animal model (minipig), we performed visualization and segmentation of different tissue types and vessels in the hemimandible containing metal implants.
 We further demonstrate the potential of dual-energy imaging in distinguishing bone tissue from the applied contrast agents.
 
-This work introduces a non-destructive approach for 3D imaging of vasculature within soft and hard tissues near metal implants in a large animal model.
-
+This work introduces an imaging approach for non-destructive, high-resolution 3D visualization of vasculature within soft and hard tissues near metal implants in a large animal model, overcoming artifacts common in conventional microCT.
 
 ## Introduction {.page_break_before}
 
@@ -305,7 +304,7 @@ Angiogenesis, the formation of new blood vessels from preexisting vessels, is cr
 In addition to carrying nutrients and growth factors, these newly formed blood vessels serve as a delivery route for stem cells and progenitor cells to the bone defect site [@doi:10.1016/j.actbio.2018.07.050; @doi:10.1016/j.actbio.2019.02.021; @doi:10.3389/fbioe.2017.00068].
 In the case of bone grafts, many synthetic bone grafts fail to bridge critically sized defects due to their inability to promote vascularization [@doi:10.1089/ten.teb.2009.0085; @doi:10.1152/ajpcell.00195.2022].
 The structural nature of skeletal tissue makes three-dimensional (3D) imaging of its vasculature extremely difficult.
-Histology, a destructive and two-dimensional approach, remains the gold standard for assessing vasculature in bones [@doi:10.1038/s41598-017-13632-5].
+Histology is destructive and two-dimensional but remains the gold standard for assessing bone vasculature [@doi:10.1038/s41598-017-13632-5].
 
 Classic soft tissue imaging techniques such as light sheet microscopy or confocal laser scanning microscopy face challenges in their application due to the encasement of blood vessels in calcified tissue [@doi:10.1038/s41598-017-13632-5].
 Despite recent advances in tissue-clearing-based imaging methods for craniofacial and other bones [@doi:10.1016/j.cell.2022.12.031; @doi:10.1038/s41467-021-26455-w; @doi:10.1089/scd.2019.0104] and the whole body [@doi:10.1038/s41596-022-00788-2], the application of such methods remains challenging and is largely limited to small animal models.
@@ -332,7 +331,7 @@ Previous studies have reported disadvantages associated with barium sulfate susp
 These issues may be attributed to particle aggregation, as indicated by various studies [@doi:10.1002/jemt.20263; @doi:10.1186/s12882-016-0235-5; @doi:10.3390/ijms22063263].
 Although Microfil has probably been applied in a larger number of vasculature imaging studies than barium sulfate, Microfil was reported to have disadvantages like vascular damage [@doi:10.1002/jnr.24539] and poor or incomplete filling of the vasculature [@doi:10.1186/s12882-016-0235-5; @doi:10.1016/j.bone.2011.09.051; @doi:10.3390/ijms22063263].
 
-In the study of tumor models [@doi:10.1007/978-1-4939-3999-2_2], assessing and non-destructively imaging tumor vasculature in 3D is a demanding task.
+Assessing and non-destructively imaging tumor vasculature in 3D within tumor models (see [@doi:10.1007/978-1-4939-3999-2_2]) is a demanding task.
 Due to its intraosseous location, imaging is even more challenging in a bone metastatic disease model.
 Changes in bone and vasculature are of crucial importance for the progression of bone metastatic disease.
 Therefore, simultaneous imaging of bone and vasculature is highly desired, making a decalcification step unfavorable.
@@ -361,7 +360,8 @@ Moreover, we demonstrate that this approach is suitable for simultaneous imaging
 ### Animals
 
 In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five 10-week-old CB17SCID male mice, three 12-week-old C57BL/6 mice, one 73-week-old C57BL/6 mouse, and six female 30-month-old Göttingen minipigs.
-Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation on the protection of animals and were approved by the corresponding committees.
+Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation and ethical standards, respecting diverse international guidelines and were approved by the corresponding committees.
+
 
 Murine experiments were approved by the local Swiss ethical committee (Tierversuchskommission des Kantons Bern, Amt für Veterinärwesen, Bern, Switzerland) under permit number BE 55/16.
 Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal Testing at the Lund District Court, Sweden under license 5.8.18-15672/2019.
@@ -507,11 +507,11 @@ So far, the only reliable approach to assess the vascular supply remains histolo
 While microCT imaging allows for non-destructive, full 3D imaging of dental research samples with implants, such imaging remains challenging due to strong X-ray absorption of the high-density metal parts in the samples.
 To distinguish the vasculature from both the metal implants and the mineralized bone tissue, we instilled the vasculature with a suitable contrast agent (μAngiofil).
 The X-ray absorption characteristics of μAngiofil make it possible to visualize and differentiate between soft tissue, bone tissue, contrast agent-filled vessels and metal (titanium) implants.
-As specified in the [#Introduction], we imaged the μAngiofil-instilled minipig hemimandibula with increased acceleration voltage ona SkyScan 2214 (Fig. @fig:6) to alleviate the problem of the artefacts of the metal implants.
+As specified in the [Introduction], we imaged the μAngiofil-instilled minipig hemimandibula with increased acceleration voltage ona SkyScan 2214 (Fig. @fig:6) to alleviate the problem of the artefacts of the metal implants.
 Imaging parameters included an acceleration voltage of 100 kV, a current of 100 μA, and an isotropic voxel size of 8 μm.
 We acquired 2001 projection images, recorded over a sample rotation of 360°, (2929 x 1944 px, 4 averaged to one, each exposed for 1080 ms).
 
-In the resulting tomographic datasets these regions of interest can easily be distinguished based on their gray value ranges, as shown in Fig. @fig:6, Panel C.
+In the resulting tomographic datasets these regions of interest can easily be distinguished based on their gray value ranges with a simple peak finding algorithm (implemented in `scipy.signal.find_peaks`), as shown in Fig. @fig:6, Panel C.
 Tomographic imaging of such samples and straightforward segmentation of features of interest without cumbersome post-processing (Fig. @fig:6, Panel D) is enabled without requiring a decalcification step.
 
 ![**MicroangioCT of the peri-implant vasculature of a minipig mandibula.**
@@ -572,7 +572,7 @@ One of the noteworthy applications of the microangioCT approach is the simultane
 Especially for studying bone metastatic models, it is crucial to find a method that allows for the correct assessment of the microvasculature without decalcifying the sample.
 Decalcification would hinder the thorough assessment of pathological processes in bone tissue.
 These pathological processes can cause skeletal-related events, which are associated with shortened survival and deterioration of quality of life [@doi:10.1016/j.jbo.2018.10.004], and should therefore be avoided.
-Our method allows studying the response to specific treatments, including bone-targeted and antiangiogenic therapies.
+Our method enables assessment of how blood vessels respond to particular treatments, such as antiangiogenic therapy or bone regeneration strategies.
 These can be assessed in 3D within the same sample and followed up with a histological examination if desired [@doi:10.3390/cancers14143443].
 The presented method could offer additional insights into the interplay between angiogenesis, bone growth, bone lysis, and bone turnover, which have not been fully elucidated yet.
 The potential findings can be crucial for selecting potential drug candidates, making proper treatment decisions, and efficacy prediction.
@@ -651,12 +651,17 @@ This innovative method holds great promise for addressing key questions in tissu
 
 ## Conflicts of interest {.page_break_before}
 
-|Author|Conflict|
-|---|---|
-|Benjamin Bellón|Employed by a company producing dental implants|
-|Benjamin E. Pippenger|Employed by a company producing dental implants|
+Authors
 
 
+  
+    Benjamin Bellón and 
+  
+    Benjamin E. Pippenger
+  
+
+disclose their employment with a dental implant company and have declared that they have no financial interests that could influence the study outcomes.
+The analysis of the relevant samples was not performed by these authors, ensuring unbiased results.
 
 
 ## Acknowledgments
@@ -670,14 +675,14 @@ We thank the `manubot` project [@doi:10.1371/journal.pcbi.1007128] for helping u
 ### Log files of all the tomographic scans performed for this study
 
 The table shown in [SampleAndScanData.csv](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/blob/main/content/data/SampleAndScanData.csv) gives a tabular overview on the samples studied and the relevant parameters of the tomographic imaging.
-This file was generated with a [data processing notebook](https://github.com/habi/BrukerSkyScanLogfileRuminator/tree/microvasculature-manuscript) and contains information read from *all* the log files of *all* the scans we performed.
-A copy of each log file is also available [online](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/main/content/data).
+The table was generated with an adapted version of our [data processing notebook](https://github.com/habi/BrukerSkyScanLogfileRuminator/tree/microvasculature-manuscript) [@doi:10.5281/zenodo.15607944] and contains information read from *all* the log files of *all* the scans we performed.
+The relevant text for each figure in the [materials-methods-and-results] was also produced by this notebook.
+All raw log files are also available [online](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/main/content/data).
 These log files include *all* the data necessary to exactly replicate the image acquisition.
-
 
 ## Data availability
 
-Tomographic datasets used and analyzed during the current study is available from the corresponding author upon reasonable request.
+Tomographic datasets used and analyzed during the current study are available from the corresponding author upon request.
 
 
 ## References {.page_break_before}
