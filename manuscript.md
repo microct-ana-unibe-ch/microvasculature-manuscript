@@ -40,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-10" />
   <meta name="citation_publication_date" content="2025-06-10" />
   <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T12:55:57+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T12:55:57+00:00" />
+  <meta name="dc.modified" content="2025-06-10T13:20:40+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T13:20:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ffdeae65e75aef1367facfd33d8ad578bdf16b83/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ffdeae65e75aef1367facfd33d8ad578bdf16b83/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ffdeae65e75aef1367facfd33d8ad578bdf16b83/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -119,16 +119,17 @@ manubot-clear-requests-cache: false
 
 
 
-_Version [`v4.2`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v4.2) of this manuscript was submitted to the [Tomography of Materials and Structures](https://www.sciencedirect.com/journal/tomography-of-materials-and-structures) after implementing reviewer comments. The manuscript is also available as a preprint at bioRχiv with the DOI [10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678)._
+*Version [`v4.2`](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/releases/tag/v4.2) of this manuscript was submitted to the [Tomography of Materials and Structures](https://www.sciencedirect.com/journal/tomography-of-materials-and-structures) after implementing reviewer comments.*
+*The manuscript is also available as a preprint at bioRχiv with the DOI [10.1101/2023.03.08.531678](https://doi.org/10.1101/2023.03.08.531678).*
 
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/ffdeae65e75aef1367facfd33d8ad578bdf16b83/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@ffdeae6](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/ffdeae65e75aef1367facfd33d8ad578bdf16b83)
+from [microct-ana-unibe-ch/microvasculature-manuscript@a40d354](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/a40d354114c199eedcc68e964a6a7d22ad84e711)
 on June 10, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...ffdeae65e75aef1367facfd33d8ad578bdf16b83#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...a40d354114c199eedcc68e964a6a7d22ad84e711#files_bucket).
 </em></small>
 
 
@@ -522,7 +523,7 @@ Tomographic imaging of such samples and straightforward segmentation of features
   The colored circles mark structures with different gray value ranges.
   Corresponding peaks with color legend are marked on the histogram in panel C.
   Such differences in gray levels allow a straightforward segmentation of the structures of interest as displayed in the 3D visualization in panel D.](images/Fig6_Segmentation.png){#fig:6}
-  
+
 #### Dual-Energy microangioCT
 
 Unfortunately, not all samples exhibit a pronounced difference in gray values between bone tissue and μAngiofil when scanned using standard scanning parameters.
@@ -629,22 +630,220 @@ This innovative method holds great promise for addressing key questions in tissu
 
 [Contributor Roles Taxonomy](https://credit.niso.org/), as defined by the [National Information Standards Organization](https://credit.niso.org/contributor-roles-defined/).
 
-|Author|Contributions|
+|Contribution Role|Authors|
 |---|---|
-|David Haberthür|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|Oleksiy-Zakhar Khoma|Data curation; Formal analysis; Investigation; Project administration; Software; Validation; Visualization; Writing – original draft; Writing – review & editing|
-|Tim Hoessly|Data curation; Investigation; Writing – review & editing|
-|Eugenio Zoni|Investigation; Methodology; Resources; Writing – review & editing|
-|Marianna Kruithof-de Julio|Methodology; Resources; Writing – review & editing|
-|Stewart D. Ryan|Resources; Writing – review & editing|
-|Myriam Grunewald|Investigation; Methodology; Resources; Writing – review & editing|
-|Benjamin Bellón|Investigation; Methodology; Writing – review & editing|
-|Rebecca Sandgren|Investigation; Writing – review & editing|
-|Stephan Handschuh|Methodology; Writing – review & editing|
-|Benjamin E. Pippenger|Funding acquisition; Investigation; Methodology; Resources; Writing – review & editing|
-|Dieter Bosshardt|Methodology; Writing – review & editing|
-|Valentin Djonov|Conceptualization; Funding acquisition; Resources; Writing – review & editing|
-|Ruslan Hlushchuk|Conceptualization; Funding acquisition; Investigation; Methodology; Project administration; Resources; Supervision; Validation; Visualization; Writing – original draft; Writing – review & editing|
+
+
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+  
+
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+|Data curation|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly|
+
+|Formal analysis|David Haberthür; Oleksiy-Zakhar Khoma|
+
+|Investigation|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly; Eugenio Zoni; Myriam Grunewald; Benjamin Bellón; Rebecca Sandgren; Benjamin E. Pippenger; Ruslan Hlushchuk|
+
+|Project administration|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+
+|Software|David Haberthür; Oleksiy-Zakhar Khoma|
+
+|Validation|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+
+|Visualization|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+
+|Writing – original draft|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+
+|Writing – review & editing|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly; Eugenio Zoni; Marianna Kruithof-de Julio; Stewart D. Ryan; Myriam Grunewald; Benjamin Bellón; Rebecca Sandgren; Stephan Handschuh; Benjamin E. Pippenger; Dieter Bosshardt; Valentin Djonov; Ruslan Hlushchuk|
+
+|Methodology|Eugenio Zoni; Marianna Kruithof-de Julio; Myriam Grunewald; Benjamin Bellón; Stephan Handschuh; Benjamin E. Pippenger; Dieter Bosshardt; Ruslan Hlushchuk|
+
+|Resources|Eugenio Zoni; Marianna Kruithof-de Julio; Stewart D. Ryan; Myriam Grunewald; Benjamin E. Pippenger; Valentin Djonov; Ruslan Hlushchuk|
+
+|Funding acquisition|Benjamin E. Pippenger; Valentin Djonov; Ruslan Hlushchuk|
+
+|Conceptualization|Valentin Djonov; Ruslan Hlushchuk|
+
+|Supervision|Ruslan Hlushchuk|
 
 
 ## Conflicts of interest {.page_break_before}
