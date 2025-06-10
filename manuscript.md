@@ -40,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-10" />
   <meta name="citation_publication_date" content="2025-06-10" />
   <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T15:50:23+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T15:50:23+00:00" />
+  <meta name="dc.modified" content="2025-06-10T16:12:42+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T16:12:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2cc92f35fe90bfab19109c9b32f27fbea7a58f30/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2cc92f35fe90bfab19109c9b32f27fbea7a58f30/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2cc92f35fe90bfab19109c9b32f27fbea7a58f30/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/968d0416aab6ce663b658dee871236aa2b559180/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/968d0416aab6ce663b658dee871236aa2b559180/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/968d0416aab6ce663b658dee871236aa2b559180/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -125,11 +125,11 @@ manubot-clear-requests-cache: false
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/2cc92f35fe90bfab19109c9b32f27fbea7a58f30/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/968d0416aab6ce663b658dee871236aa2b559180/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@2cc92f3](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/2cc92f35fe90bfab19109c9b32f27fbea7a58f30)
+from [microct-ana-unibe-ch/microvasculature-manuscript@968d041](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/968d0416aab6ce663b658dee871236aa2b559180)
 on June 10, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...2cc92f35fe90bfab19109c9b32f27fbea7a58f30#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...968d0416aab6ce663b658dee871236aa2b559180#files_bucket).
 </em></small>
 
 
@@ -633,232 +633,23 @@ This innovative method holds great promise for addressing key questions in tissu
 
 
 
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+- [Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/): Valentin Djonov, Ruslan Hlushchuk
+- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly
+- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür, Oleksiy-Zakhar Khoma
+- [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
+- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Benjamin E. Pippenger, Ruslan Hlushchuk
+- [Methodology](https://credit.niso.org/contributor-roles/methodology/): Eugenio Zoni, Marianna Kruithof-de Julio, Myriam Grunewald, Benjamin Bellón, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Ruslan Hlushchuk
+- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+- [Resources](https://credit.niso.org/contributor-roles/resources/): Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
+- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür, Oleksiy-Zakhar Khoma
+- [Supervision](https://credit.niso.org/contributor-roles/supervision/): Ruslan Hlushchuk
+- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Valentin Djonov, Ruslan Hlushchuk
 
 
-    - [Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/): Valentin Djonov, Ruslan Hlushchuk
-
-    - [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly
-
-    - [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür, Oleksiy-Zakhar Khoma
-
-    - [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
-
-    - [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Benjamin E. Pippenger, Ruslan Hlushchuk
-
-    - [Methodology](https://credit.niso.org/contributor-roles/methodology/): Eugenio Zoni, Marianna Kruithof-de Julio, Myriam Grunewald, Benjamin Bellón, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Ruslan Hlushchuk
-
-    - [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-
-    - [Resources](https://credit.niso.org/contributor-roles/resources/): Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
-
-    - [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür, Oleksiy-Zakhar Khoma
-
-    - [Supervision](https://credit.niso.org/contributor-roles/supervision/): Ruslan Hlushchuk
-
-    - [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-
-    - [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-
-    - [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-
-    - [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Valentin Djonov, Ruslan Hlushchuk
-
-{#  #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
-{# #}
 
 ## Conflicts of interest {.page_break_before}
 
