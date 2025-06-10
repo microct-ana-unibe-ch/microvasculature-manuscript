@@ -40,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-10" />
   <meta name="citation_publication_date" content="2025-06-10" />
   <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T13:52:22+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T13:52:22+00:00" />
+  <meta name="dc.modified" content="2025-06-10T14:29:25+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T14:29:25+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -125,11 +125,11 @@ manubot-clear-requests-cache: false
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@04669fa](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/04669fad9c1f884cd5a9fe282c632e7204d03bd4)
+from [microct-ana-unibe-ch/microvasculature-manuscript@a2a91bb](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87)
 on June 10, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...04669fad9c1f884cd5a9fe282c632e7204d03bd4#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...a2a91bb19bdfda39bdecc4e5919ca34f1b2cad87#files_bucket).
 </em></small>
 
 
@@ -299,6 +299,7 @@ We further demonstrate the potential of dual-energy imaging in distinguishing bo
 
 This work introduces an imaging approach for non-destructive, high-resolution 3D visualization of vasculature within soft and hard tissues near metal implants in a large animal model, overcoming artifacts common in conventional microCT.
 
+
 ## Introduction {.page_break_before}
 
 Angiogenesis, the formation of new blood vessels from preexisting vessels, is crucial for skeletal development and bone healing and regeneration [@doi:10.1002/jbm.a.32411; @doi:10.1016/j.bone.2011.09.051; @doi:10.3389/fendo.2013.00106; @doi:10.1007/s10456-017-9541-1; @doi:10.1152/ajpcell.00195.2022].
@@ -363,7 +364,6 @@ Moreover, we demonstrate that this approach is suitable for simultaneous imaging
 
 In this study, we used one 21-month-old transgenic VEGF male mouse (see @doi:10.1126/science.abc8479 for more details), five 10-week-old CB17SCID male mice, three 12-week-old C57BL/6 mice, one 73-week-old C57BL/6 mouse, and six female 30-month-old Göttingen minipigs.
 Animal procedures were performed in accordance with the applicable Swedish, Israeli, or Swiss legislation and ethical standards, respecting diverse international guidelines and were approved by the corresponding committees.
-
 
 Murine experiments were approved by the local Swiss ethical committee (Tierversuchskommission des Kantons Bern, Amt für Veterinärwesen, Bern, Switzerland) under permit number BE 55/16.
 Minipig experiments were approved by the Malmö/Lund Ethics Committee on Animal Testing at the Lund District Court, Sweden under license 5.8.18-15672/2019.
@@ -472,7 +472,6 @@ We acquired 3602 projection images, recorded over a sample rotation of 360°, (4
 
 For murine mandibles and teeth, decalcification is unnecessary due to the distinct X-ray attenuation properties of μAngiofil and bone tissue.
 This allows clear visualization of the microvasculature within the mandible, periodontal ligament, and teeth (even within their pulp chamber) without compromising bone structure (Fig. @fig:4).
-
 
 ![**MicroangioCT of the vasculature of C57BL/6 mice teeth.**
   A: View onto a virtual section parallel to the crowns of the murine teeth: pulp chambers are visible, and the pulpal vessels are presented.
@@ -628,278 +627,14 @@ This innovative method holds great promise for addressing key questions in tissu
 
 ## Author Contributions {.page_break_before}
 
-[Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/), as defined in [@doi:10.3789/ansi.niso.z39.104-2022].
+[Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/), as defined in [@doi:10.3789/ansi.niso.z39.104-2022]:
 
 
 
 
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
 
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
+- [Conceptualization](https://credit.niso.org/contributor-roles/conceptualization/): Valentin Djonov, Ruslan Hlushchuk- [Data curation](https://credit.niso.org/contributor-roles/data-curation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly- [Formal analysis](https://credit.niso.org/contributor-roles/formal-analysis/): David Haberthür, Oleksiy-Zakhar Khoma- [Funding acquisition](https://credit.niso.org/contributor-roles/funding-acquisition/): Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk- [Investigation](https://credit.niso.org/contributor-roles/investigation/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Benjamin E. Pippenger, Ruslan Hlushchuk- [Methodology](https://credit.niso.org/contributor-roles/methodology/): Eugenio Zoni, Marianna Kruithof-de Julio, Myriam Grunewald, Benjamin Bellón, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Ruslan Hlushchuk- [Project administration](https://credit.niso.org/contributor-roles/project-administration/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk- [Resources](https://credit.niso.org/contributor-roles/resources/): Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk- [Software](https://credit.niso.org/contributor-roles/software/): David Haberthür, Oleksiy-Zakhar Khoma- [Supervision](https://credit.niso.org/contributor-roles/supervision/): Ruslan Hlushchuk- [Validation](https://credit.niso.org/contributor-roles/validation/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk- [Visualization](https://credit.niso.org/contributor-roles/visualization/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk- [Writing – original draft](https://credit.niso.org/contributor-roles/writing---original-draft/): David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk- [Writing – review & editing](https://credit.niso.org/contributor-roles/writing---review-&-editing/): David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Valentin Djonov, Ruslan Hlushchuk
 
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-      
-    
-  
-    
-      
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-
-  
-- Conceptualization: Valentin Djonov, Ruslan Hlushchuk
-  
-
-  
-- Data curation: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly
-  
-
-  
-- Formal analysis: David Haberthür, Oleksiy-Zakhar Khoma
-  
-
-  
-- Funding acquisition: Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
-  
-
-  
-- Investigation: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Benjamin E. Pippenger, Ruslan Hlushchuk
-  
-
-  
-- Methodology: Eugenio Zoni, Marianna Kruithof-de Julio, Myriam Grunewald, Benjamin Bellón, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Ruslan Hlushchuk
-  
-
-  
-- Project administration: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-  
-
-  
-- Resources: Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
-  
-
-  
-- Software: David Haberthür, Oleksiy-Zakhar Khoma
-  
-
-  
-- Supervision: Ruslan Hlushchuk
-  
-
-  
-- Validation: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-  
-
-  
-- Visualization: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-  
-
-  
-- Writing – original draft: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
-  
-
-  
-- Writing – review & editing: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Valentin Djonov, Ruslan Hlushchuk
-  
-
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 
 ## Conflicts of interest {.page_break_before}
