@@ -40,8 +40,8 @@ header-includes: |
   <meta name="dc.date" content="2025-06-10" />
   <meta name="citation_publication_date" content="2025-06-10" />
   <meta property="article:published_time" content="2025-06-10" />
-  <meta name="dc.modified" content="2025-06-10T13:20:40+00:00" />
-  <meta property="article:modified_time" content="2025-06-10T13:20:40+00:00" />
+  <meta name="dc.modified" content="2025-06-10T13:52:22+00:00" />
+  <meta property="article:modified_time" content="2025-06-10T13:52:22+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -100,9 +100,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/" />
   <meta name="citation_pdf_url" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/" />
-  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/" />
-  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/" />
+  <meta name="manubot_html_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -125,11 +125,11 @@ manubot-clear-requests-cache: false
 
 <small><em>
 The manuscript version
-([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/a40d354114c199eedcc68e964a6a7d22ad84e711/))
+([permalink](https://microct-ana-unibe-ch.github.io/microvasculature-manuscript/v/04669fad9c1f884cd5a9fe282c632e7204d03bd4/))
 was automatically generated
-from [microct-ana-unibe-ch/microvasculature-manuscript@a40d354](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/a40d354114c199eedcc68e964a6a7d22ad84e711)
+from [microct-ana-unibe-ch/microvasculature-manuscript@04669fa](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/tree/04669fad9c1f884cd5a9fe282c632e7204d03bd4)
 on June 10, 2025.
-Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...a40d354114c199eedcc68e964a6a7d22ad84e711#files_bucket).
+Changes of this version to the originally submitted version are visualized [here on GitHub](https://github.com/microct-ana-unibe-ch/microvasculature-manuscript/compare/v4.0...04669fad9c1f884cd5a9fe282c632e7204d03bd4#files_bucket).
 </em></small>
 
 
@@ -628,10 +628,9 @@ This innovative method holds great promise for addressing key questions in tissu
 
 ## Author Contributions {.page_break_before}
 
-[Contributor Roles Taxonomy](https://credit.niso.org/), as defined by the [National Information Standards Organization](https://credit.niso.org/contributor-roles-defined/).
+[Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/), as defined in [@doi:10.3789/ansi.niso.z39.104-2022].
 
-|Contribution Role|Authors|
-|---|---|
+
 
 
   
@@ -817,33 +816,90 @@ This innovative method holds great promise for addressing key questions in tissu
   
 
 
-|Data curation|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly|
+  
+- Conceptualization: Valentin Djonov, Ruslan Hlushchuk
+  
 
-|Formal analysis|David Haberthür; Oleksiy-Zakhar Khoma|
+  
+- Data curation: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly
+  
 
-|Investigation|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly; Eugenio Zoni; Myriam Grunewald; Benjamin Bellón; Rebecca Sandgren; Benjamin E. Pippenger; Ruslan Hlushchuk|
+  
+- Formal analysis: David Haberthür, Oleksiy-Zakhar Khoma
+  
 
-|Project administration|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+  
+- Funding acquisition: Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
+  
 
-|Software|David Haberthür; Oleksiy-Zakhar Khoma|
+  
+- Investigation: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Benjamin E. Pippenger, Ruslan Hlushchuk
+  
 
-|Validation|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+  
+- Methodology: Eugenio Zoni, Marianna Kruithof-de Julio, Myriam Grunewald, Benjamin Bellón, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Ruslan Hlushchuk
+  
 
-|Visualization|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+  
+- Project administration: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+  
 
-|Writing – original draft|David Haberthür; Oleksiy-Zakhar Khoma; Ruslan Hlushchuk|
+  
+- Resources: Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin E. Pippenger, Valentin Djonov, Ruslan Hlushchuk
+  
 
-|Writing – review & editing|David Haberthür; Oleksiy-Zakhar Khoma; Tim Hoessly; Eugenio Zoni; Marianna Kruithof-de Julio; Stewart D. Ryan; Myriam Grunewald; Benjamin Bellón; Rebecca Sandgren; Stephan Handschuh; Benjamin E. Pippenger; Dieter Bosshardt; Valentin Djonov; Ruslan Hlushchuk|
+  
+- Software: David Haberthür, Oleksiy-Zakhar Khoma
+  
 
-|Methodology|Eugenio Zoni; Marianna Kruithof-de Julio; Myriam Grunewald; Benjamin Bellón; Stephan Handschuh; Benjamin E. Pippenger; Dieter Bosshardt; Ruslan Hlushchuk|
+  
+- Supervision: Ruslan Hlushchuk
+  
 
-|Resources|Eugenio Zoni; Marianna Kruithof-de Julio; Stewart D. Ryan; Myriam Grunewald; Benjamin E. Pippenger; Valentin Djonov; Ruslan Hlushchuk|
+  
+- Validation: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+  
 
-|Funding acquisition|Benjamin E. Pippenger; Valentin Djonov; Ruslan Hlushchuk|
+  
+- Visualization: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+  
 
-|Conceptualization|Valentin Djonov; Ruslan Hlushchuk|
+  
+- Writing – original draft: David Haberthür, Oleksiy-Zakhar Khoma, Ruslan Hlushchuk
+  
 
-|Supervision|Ruslan Hlushchuk|
+  
+- Writing – review & editing: David Haberthür, Oleksiy-Zakhar Khoma, Tim Hoessly, Eugenio Zoni, Marianna Kruithof-de Julio, Stewart D. Ryan, Myriam Grunewald, Benjamin Bellón, Rebecca Sandgren, Stephan Handschuh, Benjamin E. Pippenger, Dieter Bosshardt, Valentin Djonov, Ruslan Hlushchuk
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
 
 ## Conflicts of interest {.page_break_before}
